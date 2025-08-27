@@ -10,9 +10,9 @@ This project parses PDF documents, extracts headings, and classifies the remaini
 flowchart TD
     A[PDF Files] --> B[Parser]
     B -->|CSV| C[Heading Extractor]
-    C -->|CSV (Filtered by Headings)| D[Classifier]
-    C -->|Remaining| D
-    D -->|CSV Output| E[Final Structured Data]
+    C -->|Headings CSV| D[Classifier]
+    C -->|Remaining Text| D
+    D -->|Structured CSV| E[Final Output]
 ```
 
 ---
