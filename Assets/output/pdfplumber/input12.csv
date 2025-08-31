@@ -1,0 +1,58 @@
+page_number,is_bold,is_italic,is_underline,is_all_caps,word_count,norm_font_size,font,font_size,x0,y0,x1,y1,space_above,space_below,space_left,space_right,text
+1,0,0,0,0,6,2,RDPGBL+NimbusSanL-Regu,24.0,78.97,55.2,533.03,107.2,55.2,684.8,78.97,78.97,Blockchain based trust & authentication fordecentralizedsensornetworks
+1,1,0,0,1,2,5,LIPUKM+NimbusSanL-Bold,11.0,48.27,276.43,69.0,287.43,276.43,504.57,48.27,543.0,1 I
+1,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,69.55,278.16,139.83,286.96,278.16,505.04,69.55,472.17,NTRODUCTION
+1,0,0,0,0,3,6,Times-Roman,10.0,16.34,297.24,506.27,307.68,297.24,484.32,16.34,105.73,6 1.1.2 Blockchainasasecureddatastructure
+1,0,0,0,1,1,12,BPRGVQ+URWPalladioL-Roma,7.6,63.98,300.2,91.86,307.8,300.2,484.2,63.98,520.14,ENSOR
+1,0,0,0,0,4,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,546.29,564.0,660.02,546.29,131.98,48.0,48.0,"andtheirapplications. We rstexplainbrie ytheblockchaindatastructureaspre-1.1.1AuthenticationandtrustfordecentralizednetworkssentedinBitcoin.ThenwepresentissuesindecentralizednodeauthenticationandtrustmanagementforWSN.TheWecanndalotofdifferentapproachesforauthentica-lastpartofthispaperdescribesourmodelofablockchaintioninWSNandtheIoTintheliterature.AsoutlinedbasedsolutionforauthenticationandtrustmanagementbyMedagliaetal.[1],WSNshavespecicsecuritycon-whichprovideasolutiontoovercomedecentralizednet-straintsonnodeauthenticationtoensuredatavalidityandworksissues.condentiality.Trustmanagementistiedtoauthenticationmechanisms,asathemeantoidentifythetrusteeandthetruster.Wetakepreviousworkontrustevaluationin"
+1,1,0,0,1,2,5,LIPUKM+NimbusSanL-Bold,11.0,312.27,651.72,336.66,662.72,651.72,129.28,312.27,275.34,2 T
+1,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,337.21,653.44,488.2,662.24,653.44,129.76,337.21,123.8,HEBLOCKCHAINTECHNOLOGY
+2,0,0,0,0,9,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,62.4,300.0,71.9,62.4,720.1,48.0,312.0,"In his paper, Nakamoto describes the blockchain as a"
+2,0,0,0,0,9,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,73.94,300.0,83.44,73.94,708.56,48.0,312.0,"database modeled by a linear sequence of blocks, each"
+2,0,0,0,0,8,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,108.56,300.0,118.06,108.56,673.94,48.0,312.0,mutability. Bitcoin uses the blockchain to store nancial
+2,1,0,0,1,4,5,LIPUKM+NimbusSanL-Bold,11.0,312.27,210.31,518.86,221.31,210.31,570.69,312.27,93.14,3 A T WSN
+2,1,0,0,1,2,9,LIPUKM+NimbusSanL-Bold,8.8,337.94,212.03,488.5,220.83,212.03,571.17,337.94,123.5,UTHENTICATIONAND RUSTIN
+2,0,0,0,0,3,24,GKXLEK+DejaVuSans,3.5,79.01,245.47,190.95,248.99,245.47,543.01,79.01,421.05,Version Version Version
+2,0,0,0,0,3,24,GKXLEK+DejaVuSans,3.5,79.01,250.71,200.69,264.72,250.71,527.28,79.01,411.31,Incounter Incounter IncounterListofinputsListofinputsListofinputsOutcounterOutcounterOutcounter
+2,0,0,0,0,3,24,GKXLEK+DejaVuSans,3.5,79.01,266.44,203.25,275.2,266.44,516.8,79.01,408.75,Listofoutputs Listofoutputs ListofoutputsLocktimeLocktimeLocktime
+3,0,0,0,0,4,6,LYHTZR+CMMI10,10.0,61.91,71.17,390.56,89.06,71.17,702.94,61.91,221.44,AS= RD= (2) returnfalse(cid:2)(cid:3)
+3,0,0,0,0,3,6,LYHTZR+CMMI10,10.0,98.06,82.94,261.79,93.08,82.94,698.92,98.06,350.21,RP= videostream videorecording
+3,0,0,0,0,9,7,BPRGVQ+URWPalladioL-Roma,9.5,62.25,101.8,300.0,111.3,101.8,680.7,62.25,312.0,Each node stores services in a Service Registry (SR).
+3,0,0,0,0,7,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,159.57,300.0,169.07,159.57,622.93,48.0,312.0,related abbreviations to describe our solution providing
+3,1,0,0,1,4,5,LIPUKM+NimbusSanL-Bold,11.0,48.27,210.72,273.78,221.72,210.72,570.28,48.27,338.22,4 B A T
+3,1,0,0,1,4,9,LIPUKM+NimbusSanL-Bold,8.8,74.43,212.44,299.73,221.24,212.44,570.76,74.43,312.27,LOCKCHAIN UTHENTICATION AND RUST
+3,1,0,0,1,2,5,LIPUKM+NimbusSanL-Bold,11.0,48.27,224.22,135.09,235.22,224.22,556.78,48.27,476.91,M (BATM)
+3,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,57.99,225.94,90.96,234.74,225.94,557.26,57.99,521.04,ODULE
+4,0,0,0,0,3,16,DFPIAB+DejaVuSans,6.4,69.1,117.51,279.63,124.7,117.51,667.3,69.1,332.37,RenewPayload BlamePayload RevokePayload
+4,0,0,0,0,3,20,DFPIAB+DejaVuSans,5.2,68.4,139.9,269.94,145.43,139.9,646.57,68.4,342.06,OldPubSubKey DefectiveNNUUID RevokedPubKey
+4,0,0,0,0,3,20,DFPIAB+DejaVuSans,5.2,68.4,147.57,279.83,153.1,147.57,638.9,68.4,332.17,NewPubSubKey BlameBlocksID SignedPayloadHash
+4,0,0,0,0,3,7,BPRGVQ+URWPalladioL-Roma,9.5,62.25,308.17,384.32,324.52,308.17,467.48,62.25,227.68,Weprovideadetaileddescriptionofdatacontainedin C =8
+4,0,0,0,0,3,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,319.71,389.97,336.06,319.71,455.94,48.0,222.03,BATMpayloadsinFigure4.NotethatBlameandBanpay- C =2
+4,0,0,0,0,5,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,331.25,396.6,347.6,331.25,444.4,48.0,215.4,loadsarespeci cpayloadsusedinBATMtrustmanagement C = 8
+4,0,0,0,0,4,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,342.79,393.09,359.14,342.79,432.86,48.0,218.91,model. C = 16
+4,0,0,0,0,5,6,LYHTZR+CMMI10,10.0,48.0,442.6,520.57,454.3,442.6,337.7,48.0,91.43,"Reputation(N,t )=C + C eTherstneedforadenitionoftrustoriginatedfrom"
+4,0,0,0,0,3,13,ZRGSXX+CMMI7,7.0,387.32,446.51,506.03,453.48,446.51,338.52,387.32,105.97,"now auth N,t"
+4,0,0,0,0,3,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,525.58,564.0,627.7,525.58,164.3,48.0,48.0,"reputationlevelappliedtotherealizationcorrectnessofa 4.2.2 Trustevaluationsubsequentactioninthefuture.Aswedeneditearlier,weconsidertrustasaprobabilityThisinterpretationoftrustimpliesthatthereputationlevelthatanactionwillbeperformedcorrectlybyaNN.levelassociatedwithanagentmustvaryovertimetomatchInthiscontext,weperformtrustevaluationbycomparingtheactualrealizationoftheaction.GoodbehaviourmustbethecurrentreputationlevelofaNNtotrusthimdoingrewarded,andbadbehaviourmustbepunishedtomaintaincertainactionsinthenetwork.Currently,weonlydenedaccuratepredictionontherealizationofactions.blockchainrelatedactionsandassociatethemwithatrustAlevel.Thislevelquantiestheminimumreputation4.2.1KnowledgebasedtrustforBATM"
+5,0,0,0,0,3,6,LYHTZR+CMMI10,10.0,341.73,124.61,541.15,135.31,124.61,656.69,341.73,70.85,"T 50 Tmustbegreaterthan,butlessthan"
+5,0,0,0,0,3,6,LFNVBQ+CMR10,10.0,341.73,170.77,564.0,181.47,170.77,610.53,341.73,48.0,"10 Tmodel,itshouldbegreaterthan andno"
+5,0,0,0,0,3,6,LFNVBQ+CMR10,10.0,341.73,182.31,564.0,193.01,182.31,598.99,341.73,48.0,50 Tmorethan toprotectitfromkeyguessing
+5,0,0,0,0,7,7,BPRGVQ+URWPalladioL-Roma,9.5,312.0,195.05,564.0,250.05,195.05,541.95,312.0,48.0,"attacks.Asindication, simulation results showed in Figure 5usedfollowingtimervalues,inhours.T=168"
+5,0,0,0,1,2,6,LYHTZR+CMMI10,10.0,341.73,251.63,392.54,261.59,251.63,530.41,341.73,219.46,T =42
+5,0,0,0,1,2,6,LYHTZR+CMMI10,10.0,341.73,263.17,411.17,273.13,263.17,518.87,341.73,200.83,T =84
+5,0,0,0,0,3,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,354.31,429.31,382.05,354.31,409.95,48.0,182.69,applicationstobemoreorlessrestrictiveonactions. 4.3.1 OriginblockproblemA(N1)
+5,1,0,0,1,2,5,LIPUKM+NimbusSanL-Bold,11.0,312.27,552.56,336.66,563.56,552.56,228.44,312.27,275.34,5 F
+5,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,337.21,554.29,402.61,563.09,554.29,228.91,337.21,209.39,UTUREWORK
+5,0,0,0,0,10,7,BPRGVQ+URWPalladioL-Roma,9.5,77.73,691.2,564.0,712.24,691.2,79.76,77.73,48.0,"anode.Ifneeded,anodeisauthorizedtorenewits formance must be conducted, and the model itself mayT/2keysat.Hereweensurethereareatmost2evolvetoconsidermoreparametersintrustandreputa-"
+5,0,0,0,0,3,6,LYHTZR+CMMI10,10.0,77.73,713.07,564.0,723.78,713.07,68.22,77.73,48.0,Trenewsina foragivenNN. tionevaluation.WethinkaboutconsideringNNandAS
+5,0,0,0,0,4,6,LYHTZR+CMMI10,10.0,77.73,724.61,564.0,735.32,724.61,56.68,77.73,48.0,"T istheminimumtimebetweentwoblameson abilitiesinaccountforspeci cactions,andenhancethe"
+6,0,0,0,0,3,10,BPRGVQ+URWPalladioL-Roma,8.0,312.0,46.03,564.0,63.03,46.03,728.97,312.0,48.0,"[4] N.FotiouandG.C.Polyzos, Decentralizedname-basedsecurityforcontentdistributionusingblockchains,Proceedings-IEEE"
+6,0,0,0,0,3,10,BPRGVQ+URWPalladioL-Roma,8.0,312.0,73.03,560.0,81.03,73.03,710.97,312.0,52.0,"[5] S.Nakamoto, Bitcoin:APeer-to-PeerElectronicCashSystem,"
+6,0,0,0,0,3,10,BPRGVQ+URWPalladioL-Roma,8.0,312.0,118.03,564.0,126.03,118.03,665.97,312.0,48.0,"[7] B.Solhaug,D.Elgesem,andK.Stolen, Whytrustisnotpropor-"
+6,0,0,0,0,3,10,BPRGVQ+URWPalladioL-Roma,8.0,312.0,154.03,564.0,162.03,154.03,629.97,312.0,48.0,"[9] Z.Shelby,K.Hartke,andC.Bormann, Theconstrainedapplica-"
+6,0,0,0,0,3,10,BPRGVQ+URWPalladioL-Roma,8.0,312.0,234.86,564.0,243.03,234.86,548.97,312.0,48.0,"[13]D.Gambetta, CanweTrustTrust? Trust:Makingandbreaking"
+6,0,0,0,0,9,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,238.86,300.0,248.36,238.86,543.64,48.0,312.0,"be included in Multicast Services for Linux (MSL), an"
+6,1,0,0,1,2,5,LIPUKM+NimbusSanL-Bold,11.0,48.27,325.63,73.88,336.63,325.63,455.37,48.27,538.12,6 C
+6,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,74.43,327.36,131.58,336.16,327.36,455.84,74.43,480.42,ONCLUSION
+6,0,0,0,0,8,7,BPRGVQ+URWPalladioL-Roma,9.5,48.0,507.97,300.0,517.47,507.97,274.53,48.0,312.0,into the Multicast Services for Linux (MSL) framework.
+6,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,56.37,596.46,152.46,605.26,596.46,186.74,56.37,459.54,CKNOWLEDGMENTS
+6,1,0,0,1,1,9,LIPUKM+NimbusSanL-Bold,8.8,56.77,654.49,114.9,663.29,654.49,128.71,56.77,497.1,EFERENCES

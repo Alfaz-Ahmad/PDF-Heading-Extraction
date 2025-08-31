@@ -1,0 +1,445 @@
+page_number,is_bold,is_italic,is_underline,is_all_caps,word_count,norm_font_size,font,font_size,x0,y0,x1,y1,space_above,space_below,space_left,space_right,text
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,54.48,746.46,78.98,747.46,746.46,44.54,54.48,533.02,Blockchain Based Secured Identity Authentication
+1,0,0,0,0,15,1,/IXXHAU+HelveticaLTStd-Roman-Identity-H,10.0,52.55,730.0,597.55,740.0,730.0,52.0,52.55,14.45,"2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/ 12th"
+1,0,0,0,0,9,1,/IXXHAU+HelveticaLTStd-Roman-Identity-H,10.0,152.31,720.0,477.31,730.0,720.0,62.0,152.31,134.69,IEEE International Conference On Big Data Science And Engineering
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,87.14,718.86,107.64,719.86,718.86,72.14,87.14,504.36,and Expeditious Revocation Framework for
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,168.5,652.26,478.92,653.26,652.26,138.74,168.5,133.08,1 1 2 1 1
+1,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,113.78,648.3,420.45,649.3,648.3,142.7,113.78,191.55,"Nisha Malik , Priyadarsi Nanda , Arushi Arora , Deepak Puthal"
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,147.62,636.54,184.12,637.54,636.54,154.46,147.62,427.88,"Faculty of Engineering and IT, University of Technology Sydney, Australia"
+1,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,64.22,625.02,322.4,626.02,625.02,165.98,64.22,289.6,"Computer Science Department, Indira Gandhi Delhi Tech nical University for Women (IGDTUW), New Delhi, India."
+1,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,590.58,346.35,591.58,590.58,200.42,53.88,265.65,The next-generation immutable blockchain technology Abstract
+1,1,0,0,0,38,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,558.99,333.29,580.78,558.99,211.22,53.88,278.71,"Vehicular Adhoc Networks (VANETS) are two vital security  made its appearance in 2008 along with the aspects. It is extremely important to perform these actions  cryptocurrency-Bitcoin [3], effectively securing and promptly and efficiently. The past works addressing these"
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,555.98,332.29,556.98,555.98,235.02,306.79,279.71,"decentralizing the way data is managed and stored,"
+1,1,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,548.67,82.88,549.67,548.67,242.33,53.88,529.12,issues lack in mitigating the reliance on the centralized
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,544.46,334.29,545.46,544.46,246.54,306.79,277.71,"thereby, reducing the role of the middleman or a third"
+1,1,0,0,0,8,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,538.34,83.38,539.34,538.34,252.66,53.88,528.62,trusted authority and therefore do not provide distributed
+1,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,532.93,334.79,533.93,532.93,258.07,306.79,277.21,party. The cryptographically sealed and consensus-based
+1,1,0,0,0,8,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,527.9,84.38,528.9,527.9,263.1,53.88,527.62,and decentralized security. This paper proposes a blockchain
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,521.53,329.79,522.53,521.53,269.47,306.79,282.21,blockchain architecture uses the concept of a
+1,1,0,0,0,6,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,517.58,78.88,518.58,517.58,273.42,53.88,533.12,based authentication and revocation framework for
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,510.03,334.79,511.03,510.03,280.97,306.79,277.21,"synchronized distributed public ledger, a copy of which"
+1,1,0,0,0,8,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,507.26,83.38,508.26,507.26,283.74,53.88,528.62,"vehicular networks, which not only reduces the computation"
+1,0,0,0,0,58,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,475.46,449.2,499.51,475.46,292.49,53.88,162.8,"abides in all the nodes and the blocks of the ledger are and communication overhead by mitigating dependency on a encrypted and chained together  in a chronological order. trusted authority for identity verification, but also speedily updates the status of revocated vehicles in the shared  A pair of a public and priva te key is associated with each"
+1,1,0,0,0,28,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,455.55,335.79,466.87,455.55,325.13,53.88,276.21,"blockchai n ledger. In the proposed framework, vehicles  node of the network. A block, which is the basic building obtain their Pseudo IDs from the Certificate Authority (CA),"
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,452.53,335.79,453.53,452.53,338.47,306.79,276.21,"unit of the chain, encompasses the transactions, its hash"
+1,1,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,445.11,80.38,446.11,445.11,345.89,53.88,531.62,which are stored along with their certificate in the
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,441.01,334.79,442.01,441.01,349.99,306.79,277.21,"value, timestamp, a signature of the block and nonce. A"
+1,1,0,0,0,6,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,434.78,79.88,435.78,434.78,356.22,53.88,532.12,immutable authentication blockchain and the pointer
+1,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,429.49,336.29,430.49,429.49,361.51,306.79,275.71,transaction is signed with a private key of the sender and
+1,1,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,424.46,187.92,425.46,424.46,366.54,53.88,424.08,"corresponding to the entry in  blockchain, enables the Road"
+1,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,417.96,336.79,418.96,417.96,373.04,306.79,275.21,public key of the receiver. Miners are special nodes of the
+1,1,0,0,0,12,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,414.14,85.38,415.14,414.14,376.86,53.88,526.62,Side Units (RSUs) to verify the identity of a vehicle on road.
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,406.44,334.29,407.44,406.44,384.56,306.79,277.71,"network, which compute a complex puzzle [3] to include"
+1,1,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,403.7,82.38,404.7,403.7,387.3,53.88,529.62,The efficiency and performance of the framework has been
+1,0,0,0,0,17,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,393.38,335.29,396.04,393.38,395.96,53.88,276.71,the block into the chain within a specified time and are validated using the Omnet++ simulation environment.
+1,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,383.49,320.29,384.49,383.49,407.51,306.79,291.71,incentivized for the same.
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,372.49,344.85,373.49,372.49,418.51,320.35,267.15,Though most of the researches in VANETS focusing
+1,1,0,0,0,4,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,56.4,369.24,124.43,370.24,369.24,421.76,56.4,487.57,"Keywords Blockchain, Authentication, Revocation,"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,361.57,331.79,362.57,361.57,429.43,306.79,280.21,majorly on the security aspect have predominantly
+1,1,0,0,0,3,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,53.88,358.91,67.88,359.91,358.91,432.09,53.88,544.12,"Security, Vehicular Networks"
+1,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,350.65,335.29,351.65,350.65,440.35,306.79,276.71,"addressed authentication and conditional privacy issues,"
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,132.5,339.73,332.79,340.74,339.73,451.26,132.5,279.21,"but they lack to suffice the scalability, efficient I. I"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,328.82,438.68,329.82,328.82,462.18,306.79,173.32,"authentication, quick check  on revocation and reducing"
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,324.37,92.46,325.37,324.37,466.63,67.46,519.54,Privacy and security in Vehicular Ad Hoc Networks
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,317.91,332.79,318.91,317.91,473.09,306.79,279.21,dependency on the centralized authority. In proposed
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,312.85,79.38,313.85,312.85,478.15,53.88,532.62,(VANETs) have gained huge prominence after Vehicle
+1,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,306.87,433.82,307.87,306.87,484.13,306.79,178.18,"work, users associate with the  CA"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,301.32,81.38,302.32,301.32,489.68,53.88,530.62,"Safety Communication (VSC) project [1], delivering the"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,289.8,79.38,290.8,289.8,501.2,53.88,532.62,concept of pseudonym certificates for vehicles and
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,285.01,507.78,286.01,285.01,505.99,306.79,104.22,revocation of vehicles is performed by the  RSUs using the
+1,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,278.39,80.88,279.39,278.39,512.61,53.88,531.12,effectively safeguarding the communication within the
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,274.1,335.79,275.1,274.1,516.9,306.79,276.21,shared blockchain ledger. Security requirements with user
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,266.87,81.38,267.87,266.87,524.13,53.88,530.62,network for a comfortable and safe driving experience.
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,263.18,332.79,264.18,263.18,527.82,306.79,279.21,"anonymity are fulfilled by the shared ledger, which"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,255.35,83.38,256.35,255.35,535.65,53.88,528.62,The self-structured technology entails Vehicle to roadside
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,252.27,335.79,253.27,252.27,538.73,306.79,276.21,reduces the steps in authentication and performing secure
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,243.82,78.88,244.82,243.82,547.18,53.88,533.12,Infrastructure (V2I) and Vehicle-to-Vehicle (V2V)
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,232.33,75.88,233.33,232.33,558.67,53.88,536.12,wireless communication using Dedicated Short
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,229.93,469.84,230.93,229.93,561.07,320.35,142.16,The paper is organized as follows : Section II presents
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,220.81,76.38,221.81,220.81,570.19,53.88,535.62,"Communication (DSRC) of 5.9 GHz band, with a"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,218.53,331.29,219.53,218.53,572.47,306.79,280.71,"the related work, Section III elucidates research"
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,209.4,77.38,210.4,209.4,581.6,53.88,534.62,bandwidth of 75 MHz and an approximate range of
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,207.0,333.29,208.0,207.0,584.0,306.79,278.71,"motivation. In section IV, the proposed framework is"
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,197.85,76.38,198.85,197.85,593.15,53.88,535.62,1000m [2]. The cloud servers deployed in the
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,195.45,334.79,196.45,195.45,595.55,306.79,277.21,given. Section V details the implementation and results
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,186.32,80.88,187.32,186.32,604.68,53.88,531.12,conventional centralized mechanism in VANETs serve as
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,183.92,330.29,184.92,183.92,607.08,306.79,281.71,"followed by section VI and VII, which focus on"
+1,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,174.8,82.38,175.8,174.8,616.2,53.88,529.62,an excellent bait for the attackers as a single point of
+1,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,172.4,331.29,173.4,172.4,618.6,306.79,280.71,theoretical analysis and conclusion respectively.
+1,0,0,0,0,25,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,140.35,385.37,164.28,140.35,627.72,53.88,226.63,"failure leading to certain treacherous situations and II. RELATED WORKSdisrupting the entire network. In addition, the malicious messages from suspicious parties or alteration in genuine"
+1,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,137.48,343.35,138.48,137.48,653.52,320.35,268.65,The open access environment catered by VANETs
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,128.83,81.88,129.83,128.83,662.17,53.88,530.12,messages influence the driver's behaviour and can cause
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,125.96,334.29,126.96,125.96,665.04,306.79,277.71,instigates open challenges in the field of privacy and
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,117.34,81.38,118.34,117.34,673.66,53.88,530.62,mishaps jeopardizing the safety of passengers on road.
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,114.46,334.79,115.46,114.46,676.54,306.79,277.21,security making it unfit for implementation in the real
+1,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,105.82,79.88,106.82,105.82,685.18,53.88,532.12,"Lack of privacy and security breaches, for instance,"
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,102.94,335.29,103.94,102.94,688.06,306.79,276.71,"world [4-8]. In a study, pre-shared keys were introduced"
+1,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,94.31,82.88,95.31,94.31,696.69,53.88,529.12,"tracking of a vehicle, impose a restriction on using them"
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,91.43,334.79,92.43,91.43,699.57,306.79,277.21,to implement the authentication of nodes in the network
+1,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,82.78,71.88,83.78,82.78,708.22,53.88,540.12,for providing personalized services.
+1,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,80.02,447.41,81.02,80.02,710.98,306.79,164.59,[9]. Calandriello et al. [10]  focused on security and
+1,0,0,0,0,6,2,/IXXHAU+HelveticaLTStd-Roman-Identity-H,8.0,51.0,28.0,311.33,44.0,28.0,748.0,51.0,300.67,2324-9013/18/31.00 ©2018 IEEE  674 DOI 10.1109/TrustCom/BigDataSE.2018.00099
+1,0,0,0,0,22,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,27.5,0.0,-1.0,792.0,0.0,584.5,"Xiangjian He and  arushi1250@gmail.com Authentication and revocation of users in  NTRODUCTION  -Range  only in the registration  post which, on-road authentication, verification, and"
+2,0,0,0,0,125,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,667.59,516.72,760.56,667.59,31.44,53.88,95.28,"privacy in VANETs and proposed a hybrid method, which  vehicles. The vehicles revocated should be easy to strengthens the framework using pseudonyms with self- identify without circula certification, thus, eliminating the need for managing  Revocation List (CRL) as it causes lot of overhead. them without compromising on the robustness of the  The novel blockchain-based framework proposed in system. To obtain high accuracy and privacy with respect  this paper ensures privacy and security of vehicles in the blockchain is usedto the vehicle's location, Memon et al. [11] developed a decentralized network. Here, a private which gives selective access to ledger, where Revocation methodology based on dynamic pseudonym generation Authority ( RA ) and  CAfor mix-zones environment and verified the results using ledger, giving  RSUsthe SUMO simulator."
+2,0,0,0,0,16,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.47,656.07,357.66,657.08,656.07,134.92,67.47,254.34,"OBUs , hence avoiding any exposure to untrusted entities. With the launch of Bitcoin blockchain [12]"
+2,0,0,0,0,124,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,564.0,412.77,645.58,564.0,146.42,53.88,199.23,"the focus of industry and academia shifted towards  The hash table and pointer to the ledger entry, which approaches which could secure the way centralized  reside with the  CA networks operated [13]. From th en on, some researches in  of any suspicious behaviour. This framework makes use of-Work) [3] mechanism, hence, VANETs focused on methodologies to improve of no POW (Proof reducing the computational costs. We have used the efficiency, guaranteeing privacy and security using the Proof-of-authority [16], whereby access rights are issued blockchain technology. Yuan et al. [14] introduced a based on predefined authority. The framework eliminates seven-layer secure and decentralized conceptual model for the need of any CRL and makes it easy with a quick step Intelligent Transport System (ITS), discussing the"
+2,0,0,0,0,10,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.88,552.48,322.79,553.49,552.48,238.51,53.88,289.21,to discover a node’s revocation.relationship between Blockchain-based ITS and parallel
+2,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,540.96,80.88,541.96,540.96,250.04,53.88,531.12,transportation management systems claiming the former
+2,0,0,0,1,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,363.79,532.93,434.78,533.95,532.93,258.05,363.79,177.22,ROPOSED  F RAMEWORKIV. P
+2,0,0,0,0,95,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,460.53,509.44,530.55,460.53,261.45,53.88,102.56,"to be the future of ITS. After the introduction of autonomous/self-driving vehicles on the road for which  This section presents functioning of the  proposed efficient and timely communication amongst the nodes is  framework, which is unique due to the introduction of a of utmost importance, Rowan et al. [15] explored the use  private blockchain in authentication and revocation. This of sensing and signalling devices using blockchain public  blockchain mainly contributes in the operation of the key infrastructure and an inter-vehicle session key  framework by reducing dependency on the  CA . establishment protocol. The decentralized framework"
+2,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,453.98,327.29,454.98,453.98,337.02,306.79,284.71,A. Fundamental Operation of the Framework
+2,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,449.01,79.38,450.01,449.01,341.99,53.88,532.62,proposed in this paper is claimed to be secure and
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,439.58,344.85,440.58,439.58,351.42,320.35,267.15,The notations used in the proposed framework are
+2,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,437.48,217.29,438.48,437.48,353.52,53.88,394.71,"trustable, thus providing reduced  CA"
+2,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,428.07,524.01,429.07,428.07,362.93,306.79,87.99,"given in  Table 1. The physical entities, i.e.  CA , , and"
+2,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,425.96,74.88,426.96,425.96,365.04,53.88,537.12,authentication with minimal overheads and
+2,0,1,0,1,1,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.78,416.55,308.28,417.55,416.55,374.45,306.78,303.72,RSU
+2,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,414.51,71.88,415.51,414.51,376.49,53.88,540.12,communication with validation check.
+2,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,405.02,417.1,406.02,405.02,385.98,306.78,194.9,achieve the security for safety-on-road
+2,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,110.66,393.5,331.28,395.95,393.5,396.05,110.66,280.72,III. R ESEARCH M OTIVATION explained in the following three phases briefly.
+2,0,0,0,1,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,378.07,384.49,383.07,385.49,384.49,406.51,378.07,228.93,TABLE I. N
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,379.57,89.96,380.57,379.57,411.43,67.46,522.04,"When vehicles begin their travel on road, the"
+2,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,356.52,180.24,369.05,356.52,422.95,53.88,431.76,infrastructure should uphold the monumental purpose of user safety and security for  administering and provisioning
+2,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,345.0,83.88,346.0,345.0,446.0,53.88,528.12,these services. Authentication and authorisation of network
+2,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,333.48,80.88,334.48,333.48,457.52,53.88,531.12,"users with reduced latency is the most essential part,"
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,322.07,259.41,323.09,322.07,468.91,53.88,352.59,Keeping considering the dynamic nature of the network.
+2,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,310.57,83.88,311.57,310.57,480.43,53.88,528.12,"all these scenarios into consideration, we have derived our"
+2,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,287.52,323.19,300.05,287.52,491.95,53.88,288.81,"problem statement, which is broadly categorized into the  H () following requirements."
+2,0,0,0,1,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,321.19,284.17,341.61,286.13,284.17,505.87,321.19,270.39,{} DS X
+2,0,1,0,0,7,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,276.0,79.88,277.0,276.0,515.0,53.88,532.12,Mutual Authentication with Reduced Dependency on CA:
+2,0,0,0,1,2,3,/BNOGPJ+TimesNewRomanPSMT,1.0,321.19,272.17,326.61,274.13,272.17,517.87,321.19,285.39,E X
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,264.59,80.38,265.59,264.59,526.41,53.88,531.62,Mutual authentication between OBU and RSU should not
+2,0,0,0,1,2,3,/BNOGPJ+TimesNewRomanPSMT,1.0,321.19,259.33,327.45,261.29,259.33,530.71,321.19,284.55,D X
+2,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,253.07,74.38,254.07,253.07,537.93,53.88,537.62,involve complex computations or frequent
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,241.55,81.38,242.55,241.55,549.45,53.88,530.62,communications with the CA unlike some earlier schemes
+2,0,0,0,1,2,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,228.25,321.69,231.02,228.25,560.98,53.88,290.31,[17]. M
+2,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,218.5,282.57,219.53,218.5,572.47,53.88,329.43,The framework should reckon with scalab leScalability:
+2,0,0,0,0,28,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,172.52,368.75,208.01,172.52,583.99,53.88,243.25,attributes to the vastness of vehicular networks. authentication Query ()Privacy Protection:The authentication of users should not incur at the cost of their identity disclosure or perturbing their privacy.
+2,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,161.0,181.54,162.0,161.0,630.0,53.88,430.46,"Message Confidentiality, In tegrity and Non-Repudiation:"
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,148.66,412.33,150.48,148.66,641.52,53.88,199.67,The security mechanism should verify authenticity and  th
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,137.95,83.38,138.95,137.95,653.05,53.88,528.62,"integrity and prevent unauthorized access by intruders, to"
+2,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,321.19,131.86,387.19,133.82,131.86,658.18,321.19,224.81,Tx transaction of block X in the ledgeri
+2,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,126.55,75.88,127.55,126.55,664.45,53.88,536.12,avoid any compromise of confidentiality and
+2,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,115.03,133.76,116.06,115.03,675.94,53.88,478.24,prevent repudiation. authentication to
+2,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,103.54,268.53,104.54,103.54,687.46,53.88,343.47,Speedy Revocation Without Additional Overhead :T h e
+2,0,0,0,1,2,3,/BNOGPJ+TimesNewRomanPSMT,1.0,321.19,100.9,324.19,101.9,100.9,690.1,321.19,287.81,MAP ()
+2,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,91.06,365.53,93.03,91.06,698.97,53.88,246.47,framework should not just be able to perform  th
+2,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,80.5,79.38,81.5,80.5,710.5,53.88,532.62,"authentication, but quickly revocate the malicious"
+2,0,0,0,0,134,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,29.5,0.0,-1.0,792.0,0.0,582.5,"in 2008,  dependency,  ting an entire Certificate  have complete control over the  only read rights, and no rights to  support traceability of vehicles, in case  - RA collaboratively communicate via the shared ledger to  motive which is  OTATIONS Meaning Unicast communication Broadcast Communication An entity stores the data in the data structure following  An entity operates on the data structure/object  Hash function Digitally signed by X () Encrypt with X () Decrypt with X Function to check integrity and authenticity of a  Message Function to include a vehicle in the group after  Function to search Pseudo ID of the OBU in β Authentication and revocation ledger  Pointer to the ledger entry Previous hash of the block Private key of i i Transaction ID of i transaction of block B, given as  Mapping function i"
+3,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,759.56,337.29,760.56,759.56,31.44,53.88,274.71,hash of the recipient and a signature verification called as B. System Initialization
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.47,745.02,91.47,746.02,745.02,45.98,67.47,520.53,The framework focuses on reducing dependency on
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,736.61,331.79,737.61,736.61,54.39,306.79,280.21,"output needs to provide an appropriate hash value,"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,725.09,332.79,726.09,725.09,65.91,306.79,279.21,generated using its public key and signed using the
+3,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.87,722.09,82.37,723.09,722.09,68.91,53.87,529.63,"dynamic vehicular networks. During system initialization,"
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,713.57,333.29,714.57,713.57,77.43,306.79,278.71,"corresponding private key. Thus, for redemption, the"
+3,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.87,710.57,67.37,711.57,710.57,80.43,53.87,544.63,different participants prep
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,702.06,333.29,703.06,702.06,88.94,306.79,278.71,output script should evaluate to true with the above
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.87,699.04,81.37,700.04,699.04,91.96,53.87,530.63,numerous domain parameters required for later security
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,690.54,332.29,691.54,690.54,100.46,306.79,279.71,conditions satisfied and the output being an unused
+3,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.87,687.52,121.73,688.52,687.52,103.48,53.87,490.27,operations. The  CA
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,679.02,333.29,680.02,679.02,111.98,306.79,278.71,"transaction output (UTXO). However, an output script"
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,676.02,286.85,677.02,676.02,114.98,53.88,325.15,"PKI, by establishing the  system parameters  X=p , , , ,"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,667.61,333.79,668.61,667.61,123.39,306.79,278.21,containing the OP_return has no amount to be redeemed
+3,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.87,663.66,226.87,665.62,663.66,126.38,53.87,385.13,"F .  Here, integer p nhCpp"
+3,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,656.09,321.29,657.09,656.09,134.91,306.79,290.71,and thus the output script ev
+3,0,1,0,0,5,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,652.14,171.65,654.1,652.14,137.9,53.88,440.35,", bdefines the field Fp"
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,644.56,333.79,645.56,644.56,146.44,306.79,278.21,output is only used to verify the authenticity of the
+3,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.89,640.62,279.19,642.58,640.62,149.42,53.89,332.81,",curve equation, GZp"
+3,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,633.04,539.54,634.04,633.04,157.96,306.79,72.46,certificate by matching it with the one sent by the  OBU .
+3,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,630.06,284.24,631.06,630.06,160.94,53.88,327.76,"which determines the order of  G , is a prime number and  h"
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,621.52,335.29,622.52,621.52,169.48,306.79,276.71,The second output assigns a small amount of 0.02$ to the
+3,0,0,0,0,24,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,618.53,262.18,619.53,618.53,172.47,53.89,349.82,i s  t h e  c u r v e ’ s  c o f a c t o r   given by . These
+3,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,609.99,437.18,610.99,609.99,181.01,306.79,174.82,"RA , which is redeemed by the  RA"
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,607.01,78.39,608.01,607.01,183.99,53.89,533.61,parameters along with the publicly known hashing
+3,0,0,0,0,10,3,/BNOHAM+TimesNewRomanPSMT,1.0,306.79,598.59,335.29,599.59,598.59,192.41,306.79,276.71,going rogue and thus setting up the ‘revocation flag’ in
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,595.6,84.39,596.6,595.6,195.4,53.89,527.61,functions are stored in the vehicles during registration. In
+3,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,587.07,417.09,588.1,587.07,203.9,306.79,194.91,", thus,the revocation transaction"
+3,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,584.08,242.74,585.08,584.08,206.92,53.89,369.26,"addition, the RSUs ar e supplied with the  CA ’s public key"
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,575.58,331.79,576.58,575.58,215.42,306.79,280.21,"Post creation of the transaction, SHA-256 hashing"
+3,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,572.56,74.39,573.56,572.56,218.44,53.89,537.61,for signature verification in the ledger.
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,564.02,493.1,565.02,564.02,226.98,306.79,118.9,function is used to compute the  block’s  cryptographic
+3,0,1,0,0,14,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.89,560.07,262.89,562.03,560.07,229.97,53.89,349.11,"= x. G , where public key with its private key given by PCA"
+3,0,1,0,0,9,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,551.55,446.34,553.51,551.55,238.49,306.79,165.66,"T , ) and the ledger is updated.hash asHOBiBij"
+3,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.89,549.51,155.93,550.51,549.51,241.49,53.89,456.07,x CA .
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,540.99,334.29,541.99,540.99,250.01,306.79,277.71,"The result forms the hash previous for the next block,"
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,537.99,268.68,538.99,537.99,253.01,67.46,343.32,"The blockchain network among the  CA , RSUs"
+3,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,529.58,513.81,530.58,529.58,261.42,306.79,98.19,"which is uploaded to Ledger  CA, RA"
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,526.59,82.88,527.59,526.59,264.41,53.88,529.12,"is setup by their public keys, through which they address"
+3,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,518.06,346.41,519.06,518.06,272.94,306.78,265.59,and  RSUs .
+3,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,515.06,65.88,516.06,515.06,275.94,53.88,546.12,and verify each other wh
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,506.53,451.05,507.53,506.53,284.47,320.35,160.95,"Conforming to the bitcoin tr ansactions, these are also"
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,503.54,83.38,504.54,503.54,287.46,53.88,528.62,transactions. The genesis block for the authentication and
+3,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,495.01,361.68,496.01,495.01,295.99,306.79,250.32,added by the  CA
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,492.01,276.93,493.01,492.01,298.99,53.88,335.07,"revocation ledger is securely generated. Here, the  CA"
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,483.49,538.94,484.49,483.49,307.51,306.79,73.06,serial number. Each transaction has a transaction Id ( TID )
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,480.49,191.72,481.49,480.49,310.51,53.88,420.28,"creates new Identities, just as new coins are generated in"
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,472.08,337.29,473.08,472.08,318.92,306.79,274.71,that unlike the bitcoin transactions is just the hash of the
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,469.09,197.29,470.09,469.09,321.91,53.88,414.71,"the bitcoin blockchain. Apart  from these, vehicles are"
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,460.56,493.01,461.56,460.56,330.44,306.79,118.99,"input transaction, digitally signed by the  CA . This ensures"
+3,0,0,0,0,8,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.88,457.56,249.79,458.56,457.56,333.44,53.88,362.21,assumed to obtain their Vehicles’ ID before  registration
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,449.04,336.79,450.04,449.04,341.96,306.79,275.21,its verification. The steps of registration are depicted in
+3,0,0,0,0,8,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.88,446.04,221.73,447.04,446.04,344.96,53.88,390.27,from the Motor Vehicle’s Division ( MVD ).
+3,0,1,0,1,1,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,428.52,54.88,429.52,428.52,362.48,53.88,557.12,C.
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,425.99,346.35,426.99,425.99,365.01,320.35,265.65,"However, since this is a private blockchain with no"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,414.03,365.95,415.51,414.03,376.49,67.46,246.05,", withproof of workThe users register with the CA"
+3,0,0,0,0,45,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,378.61,529.82,404.11,378.61,387.89,53.88,82.18,"the shared ledger and a few positive assumptions, submitting their VIDMVD. The CA transactions can be modified in an extreme case. The  CA, assigns a Pseudo ID () and verifies the VIDii , assigned  PIDthen returns Hash_pointergenerates an ECC Public-Private key pair namely P iki"
+3,0,1,0,0,23,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,355.57,487.02,369.53,355.57,422.47,53.88,124.98,"corresponding certificate, and  TID.S Biki S ) are stored in the  OBU’s TPM.key-pair (Pin a hash map in its database. This ensures PIDkki"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,345.01,80.88,346.01,345.01,445.99,53.88,531.12,easy lookup in case of traceability and revocation of
+3,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.78,339.49,330.78,340.49,339.49,451.51,306.78,281.22,D. Mutual Identity Authentication and Revocation
+3,0,1,0,0,5,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,332.53,157.12,334.48,332.53,457.52,53.88,454.88,malicious users. The  PID i
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.34,325.09,408.26,326.09,325.09,465.91,320.34,203.74,"When the  OBU  is active on the road, it authenticates"
+3,0,1,0,0,4,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,322.09,231.57,323.09,322.09,468.91,53.88,380.43,CA in the ledger.
+3,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.77,313.56,372.95,314.56,313.56,477.44,306.77,239.05,itself with the  RSU
+3,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,73.34,300.61,449.81,303.04,300.61,488.96,73.34,162.19,vehicles in range of the  RSU  as shown in Fig 1. The TABLE II. RVCAI
+3,0,1,0,0,17,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,59.28,290.52,478.84,292.97,290.52,499.03,59.28,133.16,"1.  V : VID , Other Details ⟩ i i RSU , obtained from the  CA,identity R"
+3,0,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,59.28,280.21,151.26,282.17,280.21,509.83,59.28,460.74,2.  CA*VID : Verify ( VID ) ⟩ ii
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,279.01,522.64,280.01,279.01,511.99,306.79,89.36,as its Identity as well its Public key. When the  OBU
+3,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,59.28,269.41,165.18,271.37,269.41,520.63,59.28,446.82,3.  CA # T : input → ( PID )DSBii CA
+3,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,267.61,336.29,268.61,267.61,523.39,306.79,275.71,"comes in the range of the first RSU on road, it is notified"
+3,0,0,0,0,6,3,/BNOHAM+TimesNewRomanPSMT,1.0,126.26,258.61,240.11,260.57,258.61,531.43,126.26,371.89,output 1 →  (OP_Return “H(Cert ”))PIDi
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,256.08,391.77,257.08,256.08,534.92,306.79,220.23,"from the  OBU , since it contains all requisite identity"
+3,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,126.26,247.81,261.57,249.77,247.81,542.23,126.26,350.43,"output 2 → Script: Verify (H( PK ), Sig ))RARA"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,244.56,336.29,245.56,244.56,546.44,306.79,275.71,information and certificates of the nearest RSUs stored in
+3,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,163.46,237.13,199.51,239.09,237.13,552.91,163.46,412.49,Value:  val )0
+3,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,233.03,349.09,234.03,233.03,557.97,306.79,262.91,it. The  OBU
+3,1,0,0,0,9,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,59.28,227.53,113.27,228.53,227.53,563.47,59.28,498.73,4.  CA #  :        Update Ledger with the transaction
+3,0,1,0,0,5,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,220.57,533.78,222.53,220.57,569.47,306.79,78.22,", Ptr , which RiHash_pointerBBii"
+3,0,1,0,0,18,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,59.28,215.89,248.37,217.85,215.89,574.15,59.28,363.63,"5.  CA V : PID , Certificate ( PID , DS ), ECC ( P , S ),iiiCAkiki"
+3,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,210.01,325.28,211.01,210.01,580.99,306.78,286.72,using IBE scheme as shown in table 3.
+3,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,123.38,205.09,217.27,207.05,205.09,584.95,123.38,394.73,"TID H_PrevBiB,  B"
+3,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,198.58,346.35,199.58,198.58,592.42,320.35,265.65,The RSU upon receiving the message decrypts it with
+3,0,1,0,0,10,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,59.28,194.26,184.51,196.22,194.26,595.78,59.28,427.49,6.   CA # Hashmap : MAP ( PID ||VIDi i
+3,0,1,0,0,12,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,186.1,484.5,188.06,186.1,603.94,306.79,127.5,"its private key  S , and gets the  PID , corresponding RSUi"
+3,0,0,0,0,21,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,173.98,333.79,176.54,173.98,615.46,67.46,278.21,ledger entry and pointer to the block. It queries the The input of the transaction can be easily verified as it
+3,0,0,0,0,77,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,104.96,413.37,165.01,104.96,626.99,53.88,198.63,"blockchain using the  PID iincludes CA’s public key hash address and its ECDSA verifies both the outputs for the respective transaction. signature. The output of the transaction is the most Once confirmed, the  RSUimportant part for identity verification. There are two ) to the  OBUoutputs corresponding to each input for a new vehicle for the response. If the  OBUregistration. The first output is the hash value of the message and send response as the next positive integercertificateCert"
+3,0,0,0,0,31,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,82.06,346.18,96.01,82.06,695.99,53.88,265.82,"( ‘n+1’ ), it is authenticated bythe output script. For an output script without an provided with the corresponding group key. Now, post OP_return, the output is redeemed with the public-key-"
+3,0,0,0,0,215,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,27.0,0.0,-1.0,792.0,0.0,585.0,"but does not completely deny its importance in the  are to be occupied with  builds the system for the ECC based  a b G and  for the curve  in the field  a and  are constants defining the  is the generator of the cyclic group  n h= (1/n) |C(Fp) CA generates its  is the private key of  RA and  ile storing and retrieving  Registration of the Vehicle for the first time by  obtained from the  PID and  The mapping of the actual identity with the assigned  is stored  issued is digitally signed by the  and forms a transaction of the Block  EGISTRATION OF THE VEHICLE  WITH  CA → ⟨ Hash_pointer ⟨ embedded in the OP_Return instruction of  [3]. The transaction redeeming this aluates to be false. This  in case of the vehicle  redeeming this amount.  = H ( HPrev shared among the  in the chronological order and there is no  a layer of access control on the top of  B with  to the OBU. The ECC  and  and becomes part of the group of  of the  serves both  forms a message M containing its  TID and  is encrypted with  as the index and when found, sends a challenge integer (say  encrypted with its public key and waits  could decrypt the challenge   the RSU. The OBU is"
+4,0,0,0,0,89,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,713.56,407.49,760.56,713.56,31.44,53.88,204.51,"authentication, the new vehicle becomes part of the group  RSU, it can be identified through the revocation flag. In of vehicles in the range of the RSU and is hence  addition, the immutable nature of the ledger is not authorized to request an tampered. Also, the Hash map is updated accordingly by CA .N o w ,   RSUs instead of looking for a CRL can now accumulated from the surroundings or receive emergency the easily verify the status by a transaction as shown in Fig 2.alerts from the RSU."
+4,0,0,0,1,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,335.23,693.06,492.94,694.06,693.06,97.94,335.23,119.06,TABLE IV. R O F ALICIOUS  V EHICLE
+4,1,1,0,0,8,3,/BNOHLO+TimesNewRomanPS-BoldItalicMT,1.0,312.19,682.98,438.02,684.46,682.98,107.54,312.19,173.98,1.   V  RSU : ” Bogus Message”  ⟩ii
+4,0,0,0,0,26,3,/BNOGPJ+TimesNewRomanPSMT,1.0,312.19,663.78,503.9,675.1,663.78,116.9,312.19,108.1,2.   RSU RA : E ( PID ||’Bogus Message’)  ⟩PKRAi 3.   RA # T : input → ( PID ) || ( val )D SDjiPIDi0) RA
+4,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,378.18,654.3,493.96,656.26,654.3,135.74,378.18,118.04,"output 1 → (OP_Return “H (Cert )”,PIDi"
+4,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,339.19,644.58,465.87,645.58,644.58,146.42,339.19,146.13,Revocation Flag = True ”))  ⟩
+4,1,0,0,0,19,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,312.19,622.98,502.82,634.78,622.98,157.22,312.19,109.18,4.   RA #  : Update Ledger with the Revocation transaction 5.  CA #HashMap : PID and delete entry ⟩
+4,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,594.54,521.48,595.54,594.54,196.46,320.35,90.52,"For an emergency scenario detection, we assume  RSUs"
+4,0,0,0,0,16,3,/BNOGPJ+TimesNewRomanPSMT,1.0,102.38,583.14,334.29,585.34,583.14,206.66,102.38,277.71,Figure 1.  Mutual Authentication of OBU-RSU to form a Mesh Network and hence easy connectivity and
+4,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,571.61,335.79,572.61,571.61,219.39,306.79,276.21,"reachability is attained. Upon detection of an event, the"
+4,0,1,0,1,2,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,560.06,507.05,561.06,560.06,230.94,306.79,104.95,OBU RSU
+4,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.8,548.53,335.3,549.53,548.53,242.47,306.8,276.7,forwarded either to the group of vehicles in range or to
+4,0,1,0,1,1,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.8,537.01,308.3,538.01,537.01,253.99,306.8,303.7,RSU
+4,0,0,0,0,40,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.8,479.51,449.72,526.49,479.51,265.51,306.8,162.28,"protocol. This avoids network fl ooding with the broadcast messages. Also, as the vehicles are authenticated by the RSU and are part of a group, RSU maintains a group table after authentication, to elude repeated ledger check for these vehicles."
+4,0,0,0,1,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,348.33,459.95,468.58,460.99,459.95,331.01,348.33,143.42,A ND ESULTSV. I
+4,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,111.02,446.31,131.52,447.31,446.31,344.69,111.02,480.48,Figure 2. Revocation of malicious vehicle
+4,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,438.51,314.29,439.51,438.51,352.49,306.79,297.71,A. System Setup
+4,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,424.11,347.85,425.11,424.11,366.89,320.35,264.15,"To demonstrate functionality of the proposed protocol,"
+4,0,0,0,1,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.47,414.75,277.23,415.75,414.75,376.25,67.47,334.77,TABLE III. M I DENTITY  A UTHENTICATION :O B U S IRST
+4,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,412.58,334.79,413.58,412.58,378.42,306.79,277.21,"we have used the Veins [18] framework, which supports a"
+4,0,0,0,1,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,406.47,204.47,407.47,406.47,384.53,67.46,407.53,E NCOUNTER W ITH  AR S UO R HANGING  RSU
+4,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,389.54,334.79,402.06,389.54,389.94,306.79,277.21,range of models to displa network simulation. For network simulation we have used
+4,0,0,0,0,12,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,63.74,384.37,265.27,386.33,384.37,405.67,63.74,346.73,"1. * M :          PID ,C e r t , TID )iiiPIDiRiBBi"
+4,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,377.99,331.79,378.99,377.99,413.01,306.79,280.21,OMNeT++ 4.6 (Objective Modular Network Testbed in
+4,1,1,0,0,6,3,/BNOHLO+TimesNewRomanPS-BoldItalicMT,1.0,63.74,375.01,143.7,376.97,375.01,415.03,63.74,468.3,2. RSU : M ⟩ iii
+4,0,0,0,0,17,3,/BNOGPJ+TimesNewRomanPSMT,1.0,63.74,365.65,328.29,367.61,365.65,424.39,63.74,283.71,"3 . * M : D (Hash_Pointer TID ) C++), which is a discrete event simulator. iiSRSUiBBi"
+4,1,0,0,0,6,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,63.74,356.29,181.39,358.25,356.29,433.75,63.74,430.61,4. * : Query(β|| PID )ii
+4,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,63.74,346.09,459.76,349.01,346.09,442.99,63.74,152.24,5.   RSU * T Verify(H(Cert ) = H(Cert ) ))Xi:ii TABLE V. S P ARAMETERS
+4,1,0,0,0,8,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,63.75,300.85,176.22,302.81,300.85,489.19,63.75,435.78,6.   RSU * Cert Extract  P ⟩ iki
+4,1,0,0,0,8,3,/BNOHLO+TimesNewRomanPS-BoldItalicMT,1.0,63.74,291.49,226.77,293.45,291.49,498.55,63.74,385.23,7 .   RSU OBU : E ⟩ iiPki
+4,0,0,0,0,3,3,/BNOGPJ+TimesNewRomanPSMT,1.0,314.71,286.09,322.21,287.09,286.09,504.91,314.71,289.79,Number of nodes
+4,1,0,0,0,6,3,/BNOHBN+TimesNewRomanPS-BoldMT,1.0,63.74,282.13,228.93,284.09,282.13,507.91,63.74,383.07,8.   OBU *(Challenge): D ⟩ Pki
+4,1,0,0,0,12,3,/BNOHLO+TimesNewRomanPS-BoldItalicMT,1.0,63.74,272.77,321.71,274.73,272.77,517.27,63.74,290.29,9.   OBU RSU : E Response Integer N+1) ⟩  Size of groundiiPki
+4,1,1,0,0,7,3,/BNOHLO+TimesNewRomanPS-BoldItalicMT,1.0,63.74,263.41,183.91,265.37,263.41,526.63,63.74,428.09,10.   RSU OBU : Group( OBU )iii
+4,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,314.71,248.29,320.21,261.65,248.29,530.35,314.71,291.79,Packet size PHY Layer
+4,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,243.61,188.51,244.61,243.61,547.39,67.46,423.49,"For revocation, suppose the  RSU"
+4,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,232.09,81.38,233.09,232.09,558.91,53.88,530.62,from a malicious node and the message content is proven
+4,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,209.04,324.21,221.56,209.04,570.44,53.88,287.79,"fallacious, then in such a scenario, the  RSU Measured parameterscommunicate with the RA"
+4,0,1,0,0,9,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,185.14,243.21,198.49,185.14,593.51,53.88,368.79,well as the  PID i RAcorresponding to the PIDi
+4,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,178.18,517.34,179.18,178.18,612.82,320.35,94.66,"To prototype intermodal traffic systems, SUMO -0.19.0"
+4,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.89,173.62,199.65,175.58,173.62,616.42,53.89,412.35,"initiating revocation of this  PID i,"
+4,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,166.66,334.79,167.66,166.66,624.34,306.79,277.21,(Simulation of Urban Mobility) framework is used as the
+4,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,162.1,259.89,164.06,162.1,627.94,53.88,352.11,‘revocation transaction’ taking the current  PID i registration
+4,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,155.13,334.29,156.13,155.13,635.87,306.79,277.71,mobility generator to test and optimize the potent and
+4,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,151.54,81.38,152.54,151.54,639.46,53.88,530.62,transaction as the input transaction and redeeming the
+4,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,143.61,334.79,144.61,143.61,647.39,306.79,277.21,efficiency of the proposed framework. The simulation is
+4,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,140.02,286.63,141.02,140.02,650.98,53.88,325.37,"0.02$ in its output, thus setting the  revocation flag = true ."
+4,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,132.09,335.29,133.09,132.09,658.91,306.79,276.71,run on a Windows 7 (ultimate -x86) operating system with
+4,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,128.49,83.88,129.49,128.49,662.51,53.88,528.12,"The original transaction is only verified without updating,"
+4,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,120.56,333.29,121.56,120.56,670.44,306.79,278.71,8 GB of RAM. The simulation parameters are listed in
+4,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,117.09,202.33,118.09,117.09,673.91,53.88,409.67,"and a new revocation transactio n is generated, so that,"
+4,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,105.56,81.88,106.56,105.56,685.44,53.88,530.12,when the malicious vehicle tries communication with the
+4,0,0,0,0,126,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,26.5,0.0,-1.0,792.0,0.0,585.5,"y data, send information  UTUAL  F C OBU E (Hash_Pointer ||  ⟩  OBU →  ⟨ RSU ||  ⟩  RSU ⟩  stored received → not redeemed and Revocation Flag =  go to step 6, else, do not authenticate.      :            →  (Challenge integer N) (Challenge integer N) →  (Challenge- →  ⟨ receives a message  would sending the ‘bogus message’ as  responsible (Table 4). This transaction is verified by the  and for  RA creates a new  EVOCATION  M → || H (Cert ⟨ Search Revoked  forms a message, which is verified by the  and  of the respective area using an appropriate routing  MPLEMENTATION  R y both the road traffic and  IMULATION  Value 6000s 5.9 GHz 1-100 5000m 100-200 bytes IEEE 802.11P IEEE 1609.4 18Mbps Delay, Throughput and packet delivery"
+5,0,0,0,0,18,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.76,677.22,508.94,678.22,677.22,113.78,53.76,103.06,Fi gure 3. End-to-end delay performance ure 4. Throughput with increasing vehicles ure 5. PDR with increasing ve
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,659.82,93.46,660.82,659.82,131.18,67.46,518.54,The vehicles in the sumo simulator are shown as the
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,656.1,333.79,657.1,656.1,134.9,306.79,278.21,increases linearly with nodes advancing from 5 to 10.
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,648.3,79.88,649.3,648.3,142.7,53.88,532.12,"dynamic nodes in the Omnet framework, where we code"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,644.58,331.29,645.58,644.58,146.42,306.79,280.71,"However, witnessing the nature of the two graphs,"
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,636.77,79.38,637.77,636.77,154.23,53.88,532.62,their functionality and behavior while in movement
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,633.05,331.79,634.05,633.05,157.95,306.79,280.21,considering the minimal amount of time in the ECC
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,625.25,81.88,626.25,625.25,165.75,53.88,530.12,utilizing the inbuilt libraries and procedures. For our
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,621.53,332.79,622.53,621.53,169.47,306.79,279.21,"encryption and decryption, signature generation and"
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,613.84,81.38,614.84,613.84,177.16,53.88,530.62,"testing, the number of vehicles range from 1- 50, with"
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,610.02,333.29,611.02,610.02,180.98,306.79,278.71,"verification, querying the ledger, and verifying the"
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,602.32,78.38,603.32,602.32,188.68,53.88,533.62,speeds ranging from 14 to 20 m/s. The parameters
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,598.62,333.29,599.62,598.62,192.38,306.79,278.71,"outputs, the delay is admissible, with the amount of"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,590.8,79.88,591.8,590.8,200.2,53.88,532.12,"associated with delay, throughput and PDR have been"
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,587.1,334.79,588.1,587.1,203.9,306.79,277.21,"security it acheives. Thus, we conclude that the slight"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,579.27,80.88,580.27,579.27,211.73,53.88,531.12,"considered to showcase how the protocol performs, and"
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,575.57,333.29,576.57,575.57,215.43,306.79,278.71,variation in the two graphs is attributable to these
+5,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,567.75,189.24,568.75,567.75,223.25,53.88,422.76,the average values over an in terval of every 5 vehicles is
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,564.02,327.79,565.02,564.02,226.98,306.79,284.21,additional steps as depicted in the Fig 4.
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,544.79,219.81,545.83,544.79,246.17,67.46,392.19,located on road and The scenario consists of two RSUs
+5,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,540.98,321.29,541.98,540.98,250.02,306.79,290.71,D. Packet-Delivery Ratio(PDR)
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,533.31,83.38,534.31,533.31,257.69,53.88,528.62,authenticating vehicles by means of the shared ledger. The
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,529.58,343.85,530.58,529.58,261.42,320.35,268.15,PDR defines the number of packets successfully
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,521.79,81.38,522.79,521.79,269.21,53.88,530.62,above-discussed parameters are evaluated for assessing
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,518.05,440.32,519.05,518.05,272.95,306.79,171.68,delivered over the gross pack ets transmitted. The graph in
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,510.26,80.88,511.26,510.26,280.74,53.88,531.12,the performance as they could successfully depict how
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,506.53,332.79,507.53,506.53,284.47,306.79,279.21,Fig. 5 shows the comparison of how many packets are
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,498.74,81.38,499.74,498.74,292.26,53.88,530.62,"addition of a few fields in the message communication,"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,495.01,336.29,496.01,495.01,295.99,306.79,275.71,delivered successfully before and after application of the
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,487.33,81.38,488.33,487.33,303.67,53.88,530.62,and encryption and decryption of messages affected the
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,483.48,332.29,484.48,483.48,307.52,306.79,279.71,framework. The PDR values before encryption shows a
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,475.81,82.38,476.81,475.81,315.19,53.88,529.62,original working. Detailed analysis of the results under
+5,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,472.08,435.55,473.08,472.08,318.92,306.79,176.45,linear rise between 90% an d 96% with 35 vehicles and
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,464.29,81.88,465.29,464.29,326.71,53.88,530.12,these parameters and the mentioned simulation setup are
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,460.55,333.29,461.55,460.55,330.45,306.79,278.71,further increasing to 98% as number of vehicles move
+5,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,452.76,72.38,453.76,452.76,338.24,53.88,539.62,examined in the following subsection.
+5,0,0,0,0,20,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,437.51,333.79,450.03,437.51,341.97,306.79,278.21,"from 35 to 50 vehicles. With our proposed security framework, it is evident from the graph that up to 35"
+5,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,435.24,65.38,436.24,435.24,355.76,53.88,546.62,B. Performance Analysis
+5,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,425.98,335.79,426.98,425.98,365.02,306.79,276.21,"vehicles it is constant at 95%, which starts to drop with"
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.47,420.72,93.97,421.72,420.72,370.28,67.47,518.03,The protocol performs comparatively well considering
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,414.46,331.79,415.46,414.46,376.54,306.79,280.21,increasing traffic on road from 35 to 50 vehicles.
+5,0,0,0,0,18,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,397.83,82.88,410.35,397.83,381.65,53.88,529.12,the time taken with and without addition of secur features. The difference in performance occurs due to the
+5,0,0,0,1,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,363.79,394.9,447.84,395.95,394.9,396.05,363.79,164.16,HEORITICAL  A NALYSISVI. T
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,386.3,81.38,387.3,386.3,404.7,53.88,530.62,"time consumption in executing the security operations,"
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,379.57,345.85,380.57,379.57,411.43,320.35,266.15,RSU uses Diffie-Hellman key-agreement protocol for
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,374.76,82.88,375.76,374.76,416.24,53.88,529.12,thus establishing the security requirements. The proposed
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,368.05,503.3,369.05,368.05,422.95,306.79,108.7,"key establishment [19], whereas in this paper, TA"
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,363.24,191.22,364.24,363.24,427.76,53.88,420.78,protocol has been analyzed ba sed on three parameters i.e.
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,356.52,336.28,357.52,356.52,434.48,306.78,275.72,"public private key-pair for vehicles using ECC, along with"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,351.71,81.88,352.71,351.71,439.29,53.88,530.12,"delay, throughput, and packet delivery ratio (PDR) with"
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,345.0,471.27,346.0,345.0,446.0,306.78,140.73,IBE scheme for key establishment. The  OBU
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,340.31,286.75,341.31,340.31,450.69,53.88,325.25,unicast communications between the vehicles and  RSUs .
+5,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.77,333.48,524.8,334.49,333.48,457.51,306.77,87.2,"f a new RSU, sends a message to the  RSUthe vicinity o"
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,328.78,81.38,329.78,328.78,462.22,53.88,530.62,The graphs show the comparison of the framework before
+5,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,322.09,335.79,323.09,322.09,468.91,306.79,276.21,which is encrypted with the OBU's private key and is then
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,317.26,81.88,318.26,317.26,473.74,53.88,530.12,"and after applying the security features of encryption,"
+5,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,310.56,383.41,311.56,310.56,480.44,306.79,228.59,decrypted by the  RSU
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,305.74,82.88,306.74,305.74,485.26,53.88,529.12,"decryption, verification and authorization for successful"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,299.04,513.88,300.04,299.04,491.96,306.79,98.12,"[19]. Whereas, in the proposed framework, the  PID"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,294.21,268.57,295.21,294.21,496.79,53.88,343.43,authentication and access control. The delay at  RSUs
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,287.51,333.79,288.51,287.51,503.49,306.79,278.21,"vehicle, the transaction id and the block pointer are"
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,282.81,191.2,283.81,282.81,508.19,53.88,420.8,increases with the increasing  number of vehicles due to
+5,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,275.99,390.53,276.99,275.99,515.01,306.79,221.47,encrypted with the  RSU's
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,271.28,79.88,272.28,271.28,519.72,53.88,532.12,"the time taken by encryption, decryption and ledger"
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,264.59,399.97,265.59,264.59,526.41,306.79,212.03,the private key of the  RSU
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,259.76,79.38,260.76,259.76,531.24,53.88,532.62,verification for upholding identity and confirming
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,253.09,335.79,254.09,253.09,537.91,306.79,276.21,fetch the contents of the message. The proposed algorithm
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,241.57,333.79,242.57,241.57,549.43,306.79,278.21,implements traceability using the concept of hash map
+5,0,1,0,0,15,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,230.05,334.29,231.72,230.05,560.28,53.88,277.71,C. End-to-End Delay and Throughput and pointer to the ledger and revocation by taking the
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,218.52,334.79,219.52,218.52,572.48,306.79,277.21,authenticated transaction as the input and spending the
+5,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,216.2,251.33,217.2,216.2,574.8,53.88,360.67,End-to-end delay between the  OBUs and  RSUs is the most
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,207.0,334.29,208.0,207.0,584.0,306.79,277.71,"received amount, which sets the revocation flag in the"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,204.79,79.88,205.79,204.79,586.21,53.88,532.12,important factor in assessing the performance as it
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,195.56,476.42,196.56,195.56,595.44,306.79,135.58,revocation transaction to be true. The  CA
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,193.24,77.88,194.24,193.24,597.76,53.88,534.12,evidently depicts how an additional overhead of
+5,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,184.04,336.29,185.04,184.04,606.96,306.79,275.71,"status as revocated in the hash map. In [19], authors use a"
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,181.71,78.38,182.71,181.71,609.29,53.88,533.62,encryption and decryption increases the delay in
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,172.52,331.79,173.52,172.52,618.48,306.79,280.21,group table for traceability but do not implement
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,170.19,79.38,171.19,170.19,620.81,53.88,532.62,processing and response from the receiving RSU. We
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,160.99,334.29,161.99,160.99,630.01,306.79,277.71,revocation. It utilizes the concept of secret keys for
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,158.67,82.88,159.67,158.67,632.33,53.88,529.12,"have only considered the computation delay, which is, the"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,149.5,331.29,150.5,149.5,641.5,306.79,280.71,message forwarding within the group and hops for
+5,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,147.14,134.12,148.14,147.14,643.86,53.88,477.88,time consumed by  RSU
+5,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,137.98,334.79,138.98,137.98,653.02,306.79,277.21,"communication between the groups. In [19], more time is"
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,135.74,221.28,136.74,135.74,655.26,53.89,390.72,get the pointer information and  PID
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,126.58,330.29,127.58,126.58,664.42,306.79,281.71,consumed when the revocation list grows larger.
+5,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,124.22,80.4,125.22,124.22,666.78,53.9,531.6,corresponding transaction and generate the challenge
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,320.35,115.05,456.25,116.05,115.05,675.95,320.35,155.75,Issue of the key-pair by the  CA
+5,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,112.69,286.78,113.69,112.69,678.31,53.9,325.22,"message, with encryption using the public key of the  PID ."
+5,0,1,0,0,3,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,306.79,102.58,387.33,104.53,102.58,687.47,306.79,224.67,corresponding  PID i
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.91,101.17,80.91,102.17,101.17,689.83,53.91,531.09,"The communication delay, which totally depends on the"
+5,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,92.03,329.79,93.03,92.03,698.97,306.79,282.21,"assures two things, firstly, when the vehicle"
+5,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,89.74,121.58,90.74,89.74,701.26,53.88,490.42,"increasing number of vehicles, is also shown in Fig. 3. We"
+5,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,80.5,333.29,81.5,80.5,710.5,306.79,278.71,"communicates with the RSU with these credentials, by"
+5,0,0,0,0,14,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,78.22,83.88,79.22,78.22,712.78,53.88,528.12,"noted the delay to be around 45ms for up to 5 nodes, but it"
+5,0,0,0,0,40,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,18.0,0.0,-1.0,792.0,0.0,594.0,"ity  to decrypt the received message, from the  issues  when enters  using the former's public key in  of  identity for authentication and  is further used to decrypt and  updates the  and storing the  and certificate on the blockchain,  Fig Fig"
+6,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,748.02,409.45,760.56,748.02,31.44,53.88,202.55,confirming with the matching transaction on the  EFERENCESR blockchain  RSU
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,745.86,338.79,746.86,745.86,45.14,306.79,273.21,"[1] U.S. Department of Transportation, National Highway Traffic"
+6,0,0,0,0,25,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.89,713.56,354.79,737.61,713.56,54.39,53.89,257.21,"Second, it ensures that the vehicles have not been  Safety Administration, Vehicle Safety Communications Project revocated. Final Rep., Apr. 2006. [Online]. Available: http://www.nhtsa.gov/DOT/NHTSA/NRD/Multimedia/PDFs/CrashA. Security Analysis"
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,702.06,339.79,704.5,702.06,87.5,67.46,272.21,%20Avoidance/2005/CAMP3scr.pdfOur security analysis is based on the following claims
+6,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,692.94,531.47,693.94,692.94,98.06,306.79,80.53,"[2] Y. J. Li, An overview of the DSRC/WAVE technology ,I n"
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,690.54,80.88,691.54,690.54,100.46,53.88,531.12,"where we argue that, justifications to our claims are"
+6,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.8,683.83,353.3,684.83,683.83,107.17,324.8,258.7,International Conference on Heterogeneous Networking for
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,679.02,79.38,680.02,679.02,111.98,53.88,532.62,validated by experimental results obtained through
+6,0,1,0,0,7,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.8,674.59,489.01,675.59,674.59,116.41,324.8,122.99,"Quality, Reliability, Security and Robustness, 2010 ,"
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.8,665.35,338.8,666.35,665.35,125.65,306.8,273.2,"[3] Nakamoto, Satoshi. ""Bitcoin: A peer-to-peer electronic cash"
+6,0,1,0,0,10,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,654.78,332.29,657.1,654.78,134.9,53.88,279.71,"Claim-1: Proposed method  reduces the dependency on  CA system."" (2008)"
+6,0,0,0,0,27,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,633.06,354.29,645.58,633.06,146.42,53.88,257.71,"thereby  reducing the communication overhead in vehicle  [4] L. Buttyán, T. Holczer, and I. Vajda. ""On the effectiveness of changing pseudonyms to provide location privacy in VANETs"",authentication."
+6,0,1,0,0,7,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,621.54,374.1,623.99,621.54,168.01,53.88,237.9,"2007, ESAS , vol. 4572, pp 129-141Proof:RSU"
+6,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.8,612.43,337.3,613.43,612.43,178.57,306.8,274.7,"[5] L. Zhu, C. Chen, X. Wang and A. O. Lim, ""SMSS: Symmetric-"
+6,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,610.02,158.7,611.02,610.02,180.98,53.88,453.3,communicates with the  CA
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.8,601.87,507.21,602.87,601.87,189.13,324.8,104.79,"masquerade security scheme for VANETs.""  Autonomous"
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,598.62,82.88,599.62,598.62,192.38,53.88,529.12,"verification for every communication, in our case we have"
+6,0,1,0,0,7,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.8,591.3,438.2,592.32,591.3,199.68,324.8,173.8,"Decen tralized Systems (ISADS),  2011, pp 617-622."
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,587.1,79.38,588.1,587.1,203.9,53.88,532.62,eliminated that dependency by introducing a shared
+6,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,580.74,340.29,581.74,580.74,210.26,306.79,271.71,"[6] K. Gai, M. Qiu, Z. Xiong, and M. Liu, Privacy-preserving multi-"
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,575.58,191.01,576.58,575.58,215.42,53.88,420.99,ledger. The dependency on the  CA
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,570.42,354.29,571.42,570.42,220.58,324.79,257.71,"channel communication in Edge-of-Things, Future Generation"
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,564.03,83.38,565.03,564.03,226.97,53.88,528.62,"initial System parameters, key generation and distribution."
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,560.19,346.29,561.19,560.19,230.81,324.79,265.71,"Computer Systems, 2018, vol 85, pp 190-200."
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,552.51,80.88,553.51,552.51,238.49,53.88,531.12,"Unlike traditional methods, the communication overhead"
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,549.87,339.29,550.87,549.87,241.13,306.79,272.71,"[7] D. Puthal. ""Lattice-modelled Information Flow Control of Big"
+6,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,539.55,527.0,541.99,539.55,250.01,53.88,85.0,"is reduced with ‘no certificates’ in communication. Sensing Data Streams for Smart Health Application.""  IEEE"
+6,0,1,0,0,13,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,529.35,414.68,530.59,529.35,261.41,53.88,197.32,Claim-2: An  impersonation attack cannot be launched by  Internet of Things Journal (2018).
+6,0,0,0,0,16,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,518.07,340.78,520.02,518.07,271.98,53.88,271.22,"[8] K. Gai, and M. Qiu, Blend arithmetic operations on tensor-based an internal or external attacker."
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,508.94,351.29,509.94,508.94,282.06,324.79,260.71,"fully homomorphic encryption over real numbers, IEEE"
+6,0,1,0,0,4,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,506.55,195.16,507.55,506.55,284.45,53.88,416.84,Proof: against any impersonation
+6,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,498.86,347.29,499.86,498.86,292.14,324.79,264.71,"Transactions on Industrial Informatics, 2017."
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,495.03,80.38,496.03,495.03,295.97,53.88,531.62,"attack, which in turn prevents data tampering of the"
+6,0,0,0,0,17,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,488.78,340.78,489.78,488.78,302.22,306.78,271.22,"[9] S. F. Tzeng, S. J. Horng, T. Li, X. Wang, P. H. Huang and M. K."
+6,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,483.51,185.29,484.51,483.51,307.49,53.88,426.71,packets and thus provides in tegrity of data packets. Since
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,478.45,356.29,479.45,478.45,312.55,324.79,255.71,"Khan, ""Enhancing Security and Privacy for Identity-Based Batch"
+6,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,472.11,201.27,473.11,472.11,318.89,53.88,410.73,"we are using the ECC cryptograp hy, to gain access to user"
+6,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.79,468.02,452.28,469.03,468.02,322.97,324.79,159.72,"IEEE Transactions on Vehicular Verification Scheme in VANETs"""
+6,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,460.59,82.38,461.59,460.59,330.41,53.88,529.62,"keys, he must be able to solve the ECDLP as discussed in"
+6,0,1,0,0,7,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.79,457.59,376.73,458.59,457.59,333.41,324.79,235.27,"Technology , 2017, vol, 4, pp 3235-3248."
+6,0,0,0,0,19,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,447.51,340.3,450.07,447.51,341.93,53.88,271.7,"section III.D, which is computationally hard enough to  [10] G. Calandriello, P. Papadimitratos, J. P. Hubaux and A. Lioy,"
+6,0,0,0,0,15,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.88,437.55,356.3,439.51,437.55,352.49,53.88,255.7,"“Efficient and robust pseudonymous authentication in VANET”, Inmake the system secure. Firstly, an external attacker"
+6,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.8,429.39,352.8,430.39,429.39,361.61,324.8,259.2,Proceedings of the fourth ACM international workshop on
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,426.03,82.38,427.03,426.03,364.97,53.88,529.62,cannot have block pointer details for authentication and
+6,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.8,420.4,419.83,421.4,420.4,370.6,324.8,192.17,"Vehicular ad hoc networks , 2007, pp. 19-28."
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,414.51,77.38,415.51,414.51,376.49,53.88,534.62,"second, the ledger is cryptographically secure."
+6,0,0,0,0,4,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.8,411.16,485.37,412.16,411.16,379.84,306.8,126.63,"[11] , “DPMM: dynamic"
+6,0,1,0,0,11,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,403.11,118.76,404.11,403.11,387.89,53.88,493.24,Claim-3: There is no single point of failure for the actual
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.8,400.6,353.3,401.6,400.6,390.4,324.8,258.7,pseudonym-based multiple mix-zones generation for mobile
+6,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,389.93,507.54,392.59,389.93,399.41,53.88,104.46,"user data. traveler”,  Multimedia Tools and Applications , 2017,  vol"
+6,0,1,0,0,10,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,53.88,379.34,330.81,381.04,379.34,410.96,53.88,281.19,"Proof:  Considering that, each of the  CA , RSUs 24359-24388."
+6,0,0,0,0,21,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,368.52,340.3,369.67,368.52,422.33,53.9,271.7,"[12] D. Puthal, N. Malik, S. P. Mohanty, E. Kougianos, and G. Das. maintain a copy of the authentication and revocation"
+6,0,0,0,0,20,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.9,357.0,527.02,359.11,357.0,432.89,53.9,84.98,"“Everything You Wanted to Know About the Blockchain.” IEEE ledger; if one of them loses these copies, then they are"
+6,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,345.47,433.33,348.43,345.47,443.57,53.9,178.67,"Consumer Electronics Magazine , 2018.easily recovered. The RSUs due to storage crunch might"
+6,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,334.07,82.4,335.07,334.07,456.93,53.9,529.6,not contain the complete copy at any single time but can
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,326.29,526.88,327.29,326.29,464.71,324.79,85.12,"The blockchain as a decentralized security framework,  IEEE"
+6,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.9,322.54,68.9,323.54,322.54,468.46,53.9,543.1,access the ledger if required.
+6,0,1,0,0,8,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.79,315.61,442.32,316.61,315.61,475.39,324.79,169.68,"Consumer Electronics Magazine , 2018, vol. 2, pp.18-21."
+6,0,0,0,0,25,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,305.06,448.37,306.06,305.06,485.94,306.79,163.63,"[ 1 4 ] Y .   Y u a n ,  a n d   F .   Y .   W a n g , “Towards  Blockchain"
+6,0,0,0,1,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,80.9,303.01,227.89,304.01,303.01,487.99,80.9,384.11,VII. ONCLUSION AND  F UTURE  D IRECTIONS
+6,0,0,0,0,5,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.78,294.38,471.33,295.38,294.38,496.62,324.78,140.67,Intelligent In 2016 IEEE 19th
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,67.46,287.53,94.96,288.53,287.53,503.47,67.46,517.04,This paper presents a novel and efficient technique of
+6,0,1,0,0,6,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.78,283.82,356.28,284.82,283.82,507.18,324.78,255.72,International Conference on Intelligent Transportation Systems
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,276.01,79.88,277.01,276.01,514.99,53.88,532.12,mutual authentication in the VANET environment. The
+6,0,1,0,0,4,3,/BNOHAL+TimesNewRomanPS-ItalicMT,1.0,324.78,273.15,377.62,274.15,273.15,517.85,324.78,234.38,"(ITSC), 2016, pp. 2663-2668."
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,264.6,79.88,265.6,264.6,526.4,53.88,532.12,framework not only just authenticates vehicles with
+6,0,0,0,0,13,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.78,262.59,339.78,263.59,262.59,528.41,306.78,272.22,"[15] S. Rowan, M. Clear, M. Gerla, M. Huggard and C. M. Goldrick,"
+6,0,0,0,0,52,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,218.53,410.48,254.08,218.53,537.92,53.88,201.52,"reduced dependency on the trusted third party but, also  “Securing vehicle  to vehicle communications using blockchain preserves their anonymity without revealing the original  through visible light and acoustic sidepreprint arXiv:1704.02553.identity of users. Despite reducing the communication [16] P. technologies, Proof of authority chains (2017). URL overhead, the framework serves to achieve statutory"
+6,0,0,0,0,8,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,207.01,83.38,208.01,207.01,583.99,53.88,528.62,security requirements. It eliminates the need to circulate
+6,0,0,0,0,12,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,195.57,173.98,196.57,195.57,595.43,53.88,438.02,"CRLs by the  CA RSUs , and instead mends the status of"
+6,0,0,0,0,15,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,192.94,478.28,193.94,192.94,598.06,306.79,133.72,"[17] C. T. Li, M. S. Hwang and Y. P. Chu, A secure and efficient"
+6,0,0,0,0,18,3,/BNOHAM+TimesNewRomanPSMT,1.0,53.88,182.26,355.79,185.05,182.26,606.95,53.88,256.21,"a vehicle’s revocation flag to be true. In future, we would  communication scheme with authenticated key establishment and"
+6,0,0,0,0,36,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,149.48,407.79,173.52,149.48,618.48,53.88,204.21,"like to decentralize the VANET environment by further  privacy preserving for vehicular ad hoc networks. Communications , 12, pp 2803-2814,2008.exploring the characteristics of the blockchain technology. [18]and aimto deal We aim to use smart contracts particularly"
+6,0,0,0,0,10,3,/BNOGPJ+TimesNewRomanPSMT,1.0,306.79,140.86,461.18,141.86,140.86,650.14,306.79,150.82,"[19] K. Lim, and D. Manivannan, An efficient protocol for"
+6,0,0,0,0,7,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,137.98,81.38,138.98,137.98,653.02,53.88,530.62,"with an emergency scenario, which automatically either"
+6,0,0,0,0,9,3,/BNOGPJ+TimesNewRomanPSMT,1.0,324.79,131.62,355.79,132.62,131.62,659.38,324.79,256.21,authenticated and secure message delivery in vehicular ad hoc
+6,0,0,0,0,6,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,126.57,180.34,127.57,126.57,664.43,53.88,431.66,updates the ledger for nearby  RSUs
+6,0,0,0,0,8,3,/BNOHAM+TimesNewRomanPSMT,1.0,324.79,122.5,465.94,123.5,122.5,668.5,324.79,146.06,"networks”, Vehicular Communications , 2016, vol 4, pp.30-37."
+6,0,0,0,0,11,3,/BNOGPJ+TimesNewRomanPSMT,1.0,53.88,103.52,77.88,116.05,103.52,675.95,53.88,534.12,the nearby vehicles depending on the entries of authenticated vehicle database.
+6,0,0,0,0,71,3,/BNOGPJ+TimesNewRomanPSMT,1.0,0.0,-1.0,31.5,0.0,-1.0,792.0,0.0,580.5,"knows they have not been tampered.  Unlike traditional methods, whereby the  for identity or pseudonym exists, but only for  Our protocol is secured  RA and  C or  or sends an alarm to  “ pp. 544-558. I. Memon, Q. Ali, A. Zubedi and F. A. Mangi 22, pp  D. Puthal, N. Malik, S. P. Mohanty, E. Kougianos and C. Yang,  -based   Transportation Systems,”  channels”, 2017, arXiv  “ ” Computer  vol  http://veins.car2x.org “"
