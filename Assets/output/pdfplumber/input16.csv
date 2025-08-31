@@ -1,0 +1,567 @@
+page_number,is_bold,is_italic,is_underline,is_all_caps,word_count,norm_font_size,font,font_size,x0,y0,x1,y1,space_above,space_below,space_left,space_right,text
+1,0,0,0,0,3,10,NTSHOG+NimbusSanL-Regu,10.9,117.91,522.83,472.87,547.29,522.83,294.6,117.91,122.41,: CreativeCommons: Attribution-Noncommercial-NoDerivativeWorks4.0
+2,0,0,0,0,4,19,TimesNewRomanPSMT,8.0,179.3,197.0,418.96,205.04,197.0,636.88,179.3,176.36,"a b, a a"
+2,0,0,0,0,11,7,TimesNewRomanPSMT,12.0,72.02,319.32,523.57,494.66,319.32,347.26,72.02,71.75,"Continuous authentication protocol suite consisting of a user authentication protocol andin-transitvehicletoinfrastructure(P_1)andvehicletovehicle(P_2)keyexchangeprotocolsprovideshandoffcapabilitywithkeyexchangeprotocolswhichensurecontinuityofauthenticationandnetworkconnectivityasavehiclemovesfromoneroadsideunit(RSU)coveragetoanother.Evaluationoftheproposedsuiteincludes(i)formalandinformalsecurityproofs,(ii)securitypropertyverificationsusingTamarintool,and(iii)simulationstudyusingOmnet++."
+3,0,0,0,0,4,1,WRCOFY+CMR17,17.2,161.58,109.2,433.7,126.42,109.2,715.47,161.58,161.57,Continuous Authentication for VANET
+3,0,0,0,0,4,19,FUDOLA+CMR8,8.0,169.71,144.68,426.99,152.65,144.68,689.24,169.71,168.29,"a b, a a"
+8,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,277.18,530.76,289.13,277.18,552.76,64.51,64.51,"ispossibletocheckquadraticconstraintssuchasp q=rbyonlyknowingP=G,Q=G and"
+8,0,0,0,1,3,19,FUDOLA+CMR8,8.0,233.34,339.96,346.59,347.93,339.96,493.96,233.34,248.68,1 2 T
+8,0,0,0,1,3,7,DNFEDH+MSBM10,12.0,78.43,347.08,207.25,359.04,347.08,482.85,78.43,388.03,F F F
+8,0,0,0,0,9,7,NJVWMM+CMMI12,12.0,64.51,349.4,530.76,375.81,349.4,466.08,64.51,64.51,"E( (q)),E( (q ))andE( (q )),respectively. Thegroupsareofprimeorderq. P andQGGGGGarepointsofthegroupand,respectively,Further,letamape:bean"
+8,0,0,0,1,5,19,FUDOLA+CMR8,8.0,193.51,368.86,497.56,376.83,368.86,465.06,193.51,97.72,1 2 1 2 T
+8,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,378.3,530.77,462.98,378.3,378.91,64.51,64.51,"admissiblebilinearmapthatsatis esthefollowingproperties: bilinearity,non-degenerateandcomputability[25].3.2.AtepairingThebilinearmapcanbecomputedbythreetypesofpairing.TheyareWeil,TateandAtepairings.Weconsideratepairingbecauseitismoreecientthanotherpairings.Let"
+8,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,465.47,530.76,477.42,465.47,364.47,64.51,64.51,"E(F)beacollectionofpointsde nedbytheellipticcurveE(F):y =x +ax+bmodr,"
+8,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,479.92,530.76,491.87,479.92,350.02,64.51,64.52,"where(a,b) F [26].Apairing-friendlycurveisaBarreto-Naehrig(BN)curve,whichisrep-"
+8,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,141.39,484.92,187.14,501.2,484.92,340.69,141.39,408.14,q 2 3
+8,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,494.36,530.76,506.32,494.36,335.57,64.51,64.51,"resentedasE(F):y =x +bmodr,whereb F. Thebilinearmapisusuallyimplemented"
+8,0,0,0,0,9,7,NAUQMW+CMR12,12.0,64.51,537.7,530.76,549.65,537.7,292.24,64.51,64.51,"bytheFrobeniusendomorphism ,i.e. : E E:(x,y) (x,y). Now,G andG can"
+8,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,241.74,542.7,510.15,558.99,542.7,282.9,241.74,85.13,q q 1 2k
+8,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,552.14,530.76,564.1,552.14,277.79,64.51,64.51,"bewrittenasG=E(r) Ker( [1])=E(F)[r]andG=E(r) Ker( [q])=E(F )[r],"
+8,0,0,0,0,6,19,FUDOLA+CMR8,8.0,147.46,557.15,507.89,566.28,557.15,275.61,147.46,87.38,1 q q 2 q q
+8,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,566.59,530.77,578.55,566.59,263.34,64.51,64.51,whereKerdenotesthekernelof andE(r)speci esr torisionwhichmeansthatentire
+8,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,389.86,581.11,485.69,589.08,581.11,252.81,389.86,109.59,m m(q 1)/r
+8,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,582.23,444.1,594.19,582.23,247.7,64.51,151.18,"groupofpointsoforderr. TheAtepairingisgivenbyT(Q,P) =f (P)"
+8,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,597.87,530.77,609.83,597.87,232.06,64.51,64.51,"=f (P) ,whererisnotthefactorofm,f =r(Q)-r(O),Oisapointatin nity,"
+8,0,0,0,0,10,7,NJVWMM+CMMI12,12.0,64.51,612.32,530.76,624.27,612.32,217.62,64.51,64.51,"T isatatepairing,m Z,P E(r) Ker( [1])andQ E(r) Ker( [q]). Weusethe"
+8,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,191.36,617.32,433.96,625.29,617.32,216.6,191.36,161.32,p q q
+8,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,626.77,530.77,710.95,626.77,130.94,64.51,64.51,"samenotationsaspresentedin[26]. Figure1presentstheAtepairing. Itpresentsthewayamappingoperationisdoneinatargetedgroup.Now,wediscusthecomputationalintractabilityassumptionsthatareusedinourpro-tocols.Computationalintractability1:EllipticCurveDiscretelogarithmicproblem(ECDLP)FZGivenPandxPinE((q)),wherex,itiscomputationallyinfeasibletondxin"
+9,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,113.43,530.77,139.83,113.43,702.06,64.51,64.51,"Computationalintractability2:EllipticCurveDi e-Hellmanproblem(ECDHP) GivenFZP,xPandyPinE((q)),wherex,y,itiscomputationallyinfeasibletocompute"
+9,0,0,0,0,10,7,NAUQMW+CMR12,12.0,64.51,142.32,530.77,195.29,142.32,646.6,64.51,64.51,"theproductx y P inpolynomialtime.Computationalintractability3:Elliptic Curve q-Strong Di e-Hellman problem (ECq-SDHP)Basedontheq-SDHproblem[28],wedeneECqSDHPasfollows:GivenaZFF"
+9,0,0,0,0,4,19,FUDOLA+CMR8,8.0,231.25,184.53,497.43,192.5,184.53,649.39,231.25,97.84,2 q k q+1
+9,0,0,0,0,13,7,NAUQMW+CMR12,12.0,64.51,185.66,530.77,197.61,185.66,644.28,64.51,64.51,"(q+3)-tuple(t,P,Q,x Q,x Q,. . . ,x Q) E( (q)) E( (q ) ),itis"
+9,0,0,0,1,2,7,DNFEDH+MSBM10,12.0,394.57,197.78,437.83,209.74,197.78,632.15,394.57,157.45,Z F
+9,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,200.1,530.77,212.06,200.1,629.83,64.51,64.51,"computationallyintractabletocomewithapair( , P) E( (q))inpolynomial"
+9,0,0,0,0,11,7,NAUQMW+CMR12,12.0,64.51,214.55,530.77,400.35,214.55,441.54,64.51,64.51,"time.3.3.NetworkarchitectureFigure2presentsthe network architecture of a VANET. It includes a key distribu-tioncentre(KDC),tracemanagers(TMs),vehicles(V1toV3)andRSUs(RSU1andRSU2).TheKDCisatrustedauthorityinthenetwork.Itisresponsiblefortheregis-trationofvehicleowner/driver,vehiclesandRSUs,generationanddistributionofsessionkeystovehiclesandRSUs(P1inFigure2)andrevocationofvehicles.KDCgeneratesanewsessionkeyonthefollowingevents:avehicleisnewlyregistered,ontheexpiryofapublickey,avehicleisrevoked,orthecurrentsessionkeyisexpired.TMsaredistributedthroughoutVANET[29].Inpractice,TMisthelawauthority[30].TheroleofTMsistotracemaliciousactivitiesandupdatevehicleswiththerevocationlist.Themaliciousactiv-itiesduringPandParereportedtoaTMbyvehicles.Uponreceivingcomplaintsfrom"
+9,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,402.84,530.77,751.04,402.84,90.85,64.51,64.51,"vehicles,TMcommunicateswithKDC toreportthemaliciousvehicle. Dependingonthedecision,KDCupdatesTMswiththerevocationlistsuchthatvehiclescanbenotiedtoupdatetherevocationlist.Vehiclesareequippedwithanon-boardunit(OBU)andasmartcardreader.OBUs,RSUsandTMscontainatamper-resistanthardwaresecuritymodule[31],wherelong-termsecretsofthevehiclearestored.Everyvehiclehasauniqueidentity,suchasachassisnumber.Vehiclescanbeoperatedmanuallyordriveautonomously.EveryRSUpossessesauniqueserialnumber.RSUsassistvehiclesbyprovidingLBSIs.Vehicledriver/ownerknowsthepasswordofthevehicleandholdsasmartcard,whichstorestheregistrationcredentials.Forsimplicity,weconsideradriverandanownerarethesame.V2IandV2Vinteractionscanbecarriedoutusingdedicatedshort-rangecom-munication(DSRC)[32].RSUsandKDCcancommunicateusingahighbandwidthwiredchannel(e.g.opticlink).Similarly,KDCandTMscancommunicateusinganopticlink.Weusethefollowingassumptionsaboutentities,communicationchannelandmobilityofvehicles.B1.Entityassumptions:Beingatrustedauthority,KDCcannotbecompromised.ButvehiclesandRSUsaresusceptibletocompromise.Nevertheless,long-termsecretsarestoredinthevehiclesandRSUscannotbedisclosed.B2.Channelassumptions:ThewirelesschannelbetweenvehiclesandRSUsandthewiredchannelbetweenRSUsandKDCinV2Icommunicationaresusceptibletocompromise.ThewirelesschannelbetweentwovehiclesinV2Vcommunicationisalsosusceptibletocompromise.7"
+10,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,296.23,530.77,751.04,296.23,90.85,64.51,64.51,"B3. Mobilityassumptions: ThereexistsomevehiclesintheregionthatisnotcoveredbyRSUs.Forinstance,V2andV3inFigure2presentthelocationofvehiclesintheregion.SomevehiclesmaycrosstheboundarybetweentwoRSUs.Forexample,V1crossestheboundary(ellipsedportion)ofRSU1andentersintotheboundaryofRSU2inFigure2.3.4.AdversarialcapabilitiesAnadversaryisaprobabilisticpolynomial-timealgorithm(A)withcompletecontrolovermessages.Precisely,itcaneavesdrop,inject,delete,spoofandreplaymessages.TheadversarycantamperwithhardwareunitsofeitherOBUsofvehiclesorRSUstoacquirestoredsecrets[21].ThismeansthattheadversarycanacquiresecretrandomnumbersandsessionkeysthatareusedbyvehiclesandRSUsduringpreviouskeyexchanges.However,theadversarycannotacquirethelong-termsecretsofKDC.Theadversarycantamperwiththesmart-cardandrecoverallthestoredcredentials,anditcanaccuratelyguessthepasswordinpolynomialtime.3.5.SecurityGoalsandRequirementsAnauthenticatedkeyexchangeprotocol(AKEP)shouldsatisfythefollowingsecuritygoals:D1.Mutualentityauthenticationallowstwocommunicatingentities(parties)toverifytheiridentities(throughacquisitionorcollaborativeevidence).D2.Explicitkeyauthenticationconvincespartiesthattheyaretheonlyonesthatholdacorrectsessionkey.D3.Keyconrmation(KC)isguaranteedifapartyprovesthepossessionofasessionkey.D4.Keyfreshnessguaranteesthatthecurrentsessionkeyischosenatrandomandindependently[33,34].8"
+11,0,0,0,0,6,7,LNZLED+CMBX12,12.0,64.51,378.93,530.77,557.76,378.93,284.13,64.51,64.51,"4. AnalysisofParketal. andYingetal. ProtocolSuitesWepresentouranalysisoftheprotocolsuiteofParketal.[17]andYingetal. [15]. Weusethesamenotationsasusedintheworks[17,15].4.1.Parketal.ProtocolSuiteV2IgroupkeytransmissionprotocolissusceptibletoMITMattack,andtheprotocoldoesnotpreservetheprivacyofvehicles.V2VgroupkeytransmissionprotocollacksKKS.4.1.1.V2IKDCupdateskeysviaRSUs.Theobjectiveofthisprotocolistoexchangekeysbetweenvehiclesandatrustedserver.Avehicleshouldpossessthemostrecentkeytoexecutetheprotocol.Theprotocolispresentedbelow."
+12,0,0,0,0,5,14,MDCGGI+CMR6,9.1,78.06,288.76,501.9,320.41,288.76,521.48,78.06,93.37,", KDCssecretsY&DHelpervalues,whereY =(cid:15) QandD= QGK,GKGroupkeypart1andpart2"
+12,0,0,0,0,4,20,IJFKHY+CMMI5,7.6,140.77,370.82,367.03,386.6,370.82,455.29,140.77,228.25,part part gk12 th
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,381.6,404.74,390.73,381.6,451.16,78.06,190.54,ID Identityofthei vehicle
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,407.17,499.52,416.31,407.17,425.58,78.06,95.75,L Long-termsecretbetweeni RSUandKDC
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,421.4,495.01,430.53,421.4,411.36,78.06,100.27,L Long-termsecretbetweeni TMandKDC
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,435.63,492.64,444.76,435.63,397.13,78.06,102.63,L Long-termsecretbetweeni RSUandTM
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,449.86,461.94,458.99,449.86,382.9,78.06,133.34,RL i revocationlistgeneratedbyKDC
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,462.78,510.25,471.91,462.78,369.98,78.06,85.03,L Long-termsecretbetweeni vehicleandKDC
+12,0,0,0,1,1,20,IJFKHY+CMMI5,7.6,85.78,466.06,102.86,473.67,466.06,368.22,85.78,492.41,VK
+12,0,0,0,0,4,14,OXGNIZ+CMMI6,9.1,78.06,509.49,430.98,518.62,509.49,323.27,78.06,164.3,"H(.):{0,1} {0,1} {0,1} Hashfunction(kisaconstant)"
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,520.75,459.55,529.88,520.75,312.01,78.06,135.73,"IBF:Z {0,1} Integertobinaryconversionfunction"
+12,0,0,0,0,4,14,OXGNIZ+CMMI6,9.1,78.06,533.46,378.77,542.59,533.46,299.3,78.06,216.5,"IBF :{0,1} Z InverseIBFfunction"
+12,0,0,0,0,4,14,OXGNIZ+CMMI6,9.1,78.06,546.38,517.26,555.51,546.38,286.38,78.06,78.02,"ID &ID Identityofthei vehicleandRSU,respectively"
+12,0,0,0,0,3,20,IJFKHY+CMMI5,7.6,92.88,549.66,412.36,565.7,549.66,276.19,92.88,182.91,Vehicle RSUii th
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,560.69,450.07,569.82,560.69,272.07,78.06,145.2,PWD Passwordchosenbythei vehicle
+12,0,0,0,0,4,14,OXGNIZ+CMMI6,9.1,78.06,573.61,431.57,582.74,573.61,259.15,78.06,163.7,Cert i certi cateofAliceandBob
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,78.06,588.89,433.39,598.02,588.89,243.87,78.06,161.89,PKV i publickeyofAliceandBob
+12,0,0,0,0,3,14,OXGNIZ+CMMI6,9.1,87.19,601.42,509.12,610.55,601.42,231.34,87.19,86.16,"T,T &T Acceptedtimedelay,currentandreceivedtime"
+13,0,0,0,0,15,7,NAUQMW+CMR12,12.0,64.51,416.32,530.76,428.28,416.32,413.61,64.51,64.51,"Consequently, the vehicle holds group key GK while KDCs version of the group key is"
+14,0,0,0,0,3,7,NAUQMW+CMR12,12.0,93.78,445.32,263.76,457.27,445.32,384.62,93.78,331.52,ComputeK=N H(PW (cid:107)n).
+14,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,172.85,450.32,255.46,476.57,450.32,365.32,172.85,339.82,i 0 i iH(ID)
+14,0,0,0,0,5,7,NAUQMW+CMR12,12.0,93.78,494.13,480.08,506.09,494.13,335.8,93.78,115.19,"ComputeDIDV =H(C (cid:107)H(ID (cid:107)n)),wheren isarandomnumber."
+14,0,0,0,0,7,19,VYYMPD+CMMI8,8.0,177.52,499.14,368.83,507.11,499.14,334.78,177.52,226.45,"i,j 0 1 0 V j j"
+14,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,160.56,523.55,233.71,531.52,523.55,310.37,160.56,361.57,"i 0 i,j"
+14,0,0,0,0,4,7,NAUQMW+CMR12,12.0,93.78,542.95,435.82,554.9,542.95,286.99,93.78,159.45,"Send<DIDV ,CV,n,T >toR,whereT isthetimestamp."
+14,0,0,0,0,6,19,VYYMPD+CMMI8,8.0,167.83,547.95,335.13,555.92,547.95,285.97,167.83,260.14,"i,j i j V i V"
+14,0,0,0,0,3,7,NAUQMW+CMR12,12.0,82.07,567.36,500.16,603.72,567.36,238.17,82.07,95.11,"Step2: Wheni RSUreceivestheloginmessageattimeT,itwillactasfollows:Check(TT)T."
+14,0,0,0,0,3,7,NAUQMW+CMR12,12.0,93.78,616.17,300.57,628.13,616.17,213.76,93.78,294.7,ComputeDIDR=DIDV H(ID ).
+14,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,179.61,621.18,289.11,629.15,621.18,212.74,179.61,306.17,"i i,j 0 R"
+14,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,169.92,645.59,238.81,653.56,645.59,188.33,169.92,356.47,i i j R
+14,0,0,0,1,2,19,FUDOLA+CMR8,8.0,140.31,694.41,172.89,702.38,694.41,139.51,140.31,422.39,1 R
+14,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,157.24,712.49,181.85,720.46,712.49,121.43,157.24,413.43,PVID
+15,0,0,0,0,4,7,NAUQMW+CMR12,12.0,93.78,113.43,315.76,125.38,113.43,716.51,93.78,279.52,ComputeDIDV =H(C (cid:107)PVID (cid:107)n).
+15,0,0,0,0,5,19,VYYMPD+CMMI8,8.0,177.52,118.43,306.99,126.4,118.43,715.49,177.52,288.28,"i,j 0 1 V j"
+15,0,0,0,0,6,7,NAUQMW+CMR12,12.0,93.78,137.37,483.86,149.32,137.37,692.57,93.78,111.42,ComputeH(ID )=DIDV DIDR andcheckH(ID )=H(ID ).
+15,0,0,0,0,5,19,FUDOLA+CMR8,8.0,154.2,142.37,472.39,151.57,142.37,690.32,154.2,122.88,"0 i 0 0 RRi,jR"
+15,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,93.78,161.3,234.11,173.26,161.3,668.63,93.78,361.17,k=H(x(cid:107)PVID (cid:107)T )
+15,0,0,0,0,3,19,FUDOLA+CMR8,8.0,125.71,166.31,228.78,174.28,166.31,667.61,125.71,366.5,0 V reg
+15,0,0,0,0,7,7,NAUQMW+CMR12,12.0,93.78,185.24,530.76,197.2,185.24,644.69,93.78,64.52,"CheckCV=H(DIDV (cid:107)k),K =H(C),M =E (K k),whereK isacommon"
+15,0,0,0,0,10,19,VYYMPD+CMMI8,8.0,143.95,190.25,464.93,198.22,190.25,643.67,143.95,130.34,"i 0 i,j s 1 3 i K c c"
+15,0,0,0,0,3,19,FUDOLA+CMR8,8.0,143.19,228.63,184.91,237.83,228.63,604.06,143.19,410.36,3 i V
+15,0,0,0,1,4,7,NAUQMW+CMR12,12.0,93.78,269.62,171.9,281.58,269.62,560.31,93.78,423.38,(T T ) T
+15,0,0,0,1,2,19,FUDOLA+CMR8,8.0,105.19,274.63,137.77,283.83,274.63,558.06,105.19,457.5,2 R
+15,0,0,0,0,3,19,FUDOLA+CMR8,8.0,208.36,299.83,250.07,309.02,299.83,532.87,208.36,345.2,3 i V
+15,0,0,0,1,4,7,NAUQMW+CMR12,12.0,93.78,340.82,170.45,352.77,340.82,489.12,93.78,424.82,(T T ) T
+15,0,0,0,1,2,19,FUDOLA+CMR8,8.0,105.19,345.82,136.33,355.02,345.82,486.87,105.19,458.95,3 V
+15,0,0,0,0,3,7,NAUQMW+CMR12,12.0,93.78,364.76,353.6,376.71,364.76,465.18,93.78,241.68,ComputeC=H(k(cid:107)H(ID ))andcheckC =C
+15,0,0,0,1,5,19,FUDOLA+CMR8,8.0,152.88,369.76,357.84,378.89,369.76,463.0,152.88,237.44,3 1 0 V 33
+15,0,0,0,1,3,7,NJVWMM+CMMI12,12.0,93.78,388.7,155.93,400.65,388.7,441.24,93.78,439.34,K =H(C )
+15,0,0,0,0,3,7,NAUQMW+CMR12,12.0,93.78,412.63,268.9,424.59,412.63,417.3,93.78,326.38,DecryptM usingK andstoreK
+15,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,435.63,530.77,476.48,435.63,365.41,64.51,64.51,"SecurityAnalysis: Theprotocolisvulnerabletoamasqueradingattack. Thefollowingattackexplainsthewayanyvehiclegetsthesecretkeykofanotherregisteredvehicle.Theprotocolisagroupkeyprotocol,andthesessionkeyKisknowntoallgroupmembers."
+15,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,123.75,483.98,407.84,491.95,483.98,349.94,123.75,187.43,c s 1 3
+15,0,0,0,0,8,7,NAUQMW+CMR12,12.0,64.51,493.42,530.76,505.37,493.42,336.52,64.51,64.51,"Step3)asC isapublicvalue. ItcandecryptM =E (K k). FromK k,thesession"
+15,0,0,0,0,5,19,FUDOLA+CMR8,8.0,128.2,498.42,448.63,506.39,498.42,335.5,128.2,146.65,3 i K c c
+15,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,507.86,530.76,519.82,507.86,322.07,64.51,64.52,keyk ofanyothergroupmembercanberecoveredasK k K. Itisnotedthatthe
+15,0,0,0,0,3,7,LNZLED+CMBX12,12.0,64.51,582.87,530.77,751.04,582.87,90.85,64.51,64.51,"5. OurProtocolSuiteOurprotocolsuiteconsistsoftenprotocols: vehicleregistrationprotocol(VRP),RSUregistrationprotocol(RSURP),TMregistrationprotocol(TMRP),vehicleuserauthentica-tionprotocol(VUAP),tri-partykeydisseminationprotocolforV2Icommunication(TV2I),keydisseminationprotocolforV2Vcommunication(KV2VP),aprotocolforexchangingmessages(PEM),oinepasswordchangeprotocol(OPCP)andvehiclecomplainproto-col(VCP).Inparticular,VUAP,TV2IP,PEMandVCParesymmetric-keyprotocolsandKV2VPisanasymmetrickeyprotocol.TheprotocolstartswithTMsregistration(TMRP),vehicleownersregistration(VRP)andRSUsregistration(RSURP).Figure3presentsthestepsinvolvedinVRPandVUAP.13"
+16,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,436.11,530.77,574.1,436.11,267.79,64.51,64.51,"Table 2presentsgoalsoftheprotocols,partiesandspeci esthetypeofcommunicationchannelused.WefollowthenotationsfromTable1.Beforepresentingtheprotocols,wedescribetheprocedureforgeneratingkeysbyKDC.5.1.GroupKeyGenerationProcedureandSetup(GGPS)Theobjectiveoftheprotocolistogenerategroupkeys.GGPSassuresthekeyintegrity,i.e.vehiclescanchecktheintegrityofkeysandensurethatthekeysareindeedgeneratedbytheKDC.KDCgeneratesagroupkeyasfollows:ver=ver+1"
+16,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,171.75,591.56,293.99,617.43,591.56,224.46,171.75,301.28,gk c R p11
+16,0,0,0,0,7,7,NJVWMM+CMMI12,12.0,93.78,610.96,341.61,622.91,610.96,218.98,93.78,253.66,"GK =K, GK = P for (cid:54)=(0,1)"
+16,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,112.97,615.96,298.61,626.26,615.96,215.63,112.97,296.66,part2 part1 K(cid:15) K(cid:15)
+16,0,0,0,0,6,7,NJVWMM+CMMI12,12.0,93.78,635.37,269.84,647.32,635.37,194.57,93.78,325.43,"GK=f(GK , GK , ver )"
+16,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,160.37,640.37,264.58,648.34,640.37,193.55,160.37,330.7,part1 part2 gk
+16,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,659.78,530.76,671.73,659.78,170.16,64.51,64.52,"ConsumingGK ,GK andver asseparatevalues,vehiclescanchecktheintegrity"
+16,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,145.17,664.78,265.79,672.75,664.78,169.14,145.17,329.48,part1 part2 gk
+16,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,674.22,283.3,710.59,674.22,131.3,64.51,311.98,"ofthekeyasfollows:e(GK,GK Y) e(P,Q)"
+17,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,64.51,245.08,530.77,257.03,245.08,584.86,64.51,64.51,"KDCpublishesthedescriptionofthegroupsG,G andG .Then,itannouncestwopoints"
+17,0,0,0,1,3,19,FUDOLA+CMR8,8.0,304.14,250.08,368.5,258.05,250.08,583.84,304.14,226.78,1 2 T
+17,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,259.52,530.76,271.48,259.52,570.41,64.51,64.51,"P andQthatgenerateG andG,respectively. Itmakesthefollowingpublic:e,f()and ,"
+17,0,0,0,0,17,7,NAUQMW+CMR12,12.0,64.51,302.86,530.77,383.86,302.86,458.03,64.51,64.51,"A group key is generated if any of the following events occurs in VANET: (1) a newvehicleoranRSUisregistered,(2)certicatevalidityofaregisteredvehiclehasexpired,(3)avehicleisrevokedand(4)anyoftheregisteredRSUsisreplacedduetorepair.5.2.VehicleRegistrationProtocol(VRP)Thisprotocolaimstoregistervehicleswithatrustedauthority,KDC.Theregistration"
+17,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,386.35,530.77,456.09,386.35,385.8,64.51,64.51,"procedurebetweenthei vehicleandKDC ispresentedbelow. AvehicleownerchoosesapasswordandsubmitsittoKDC.Theownergivesanidentityofthevehicle,whichisthechassisnumber(Step1)andprovidestheircontactnumber,dateofbirth(DoB)andprimaryandsecondaryemailIDs.KDCgeneratescredentialsforthevehicle(Step3).Forthexeddeparturetime(t)ofthevehicle,KDCgeneratescerticates(Cert)andcorre-"
+17,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,458.58,530.76,470.54,458.58,371.35,64.51,64.51,spondingpublickeys(PKV )su cientforthevehiclebyvaryingx(s.t. x). KDCsends
+17,0,0,0,0,5,11,NZSRLW+CMBX10,10.0,70.49,523.15,324.96,545.07,523.15,296.82,70.49,270.31,"KDC2)Choosex,t,d,L Z;Ensurex + t (cid:54)=(0,1);"
+17,0,0,0,0,5,22,BNVFXK+CMMI7,7.0,136.83,539.01,286.27,545.98,539.01,295.91,136.83,309.0,d VK R p d
+17,0,0,0,0,6,11,SUOVAD+CMR10,10.0,70.49,547.06,284.63,557.02,547.06,284.87,70.49,310.65,"3)ComputePKV =H(x (cid:107) (cid:107)ID ) Q,"
+17,0,0,0,0,3,11,JROCXJ+CMMI10,10.0,83.77,559.07,280.25,569.03,559.07,272.86,83.77,315.03,"Cert = P,m=H(PWD),"
+17,0,0,0,0,5,11,JROCXJ+CMMI10,10.0,83.77,572.61,335.79,582.57,572.61,259.32,83.77,259.49,"n=H(m(cid:107) (cid:107)ID ),SID=H( (cid:107)d(cid:107)ID ),"
+17,0,0,0,0,4,11,JROCXJ+CMMI10,10.0,70.49,584.57,327.18,618.44,584.57,223.45,70.49,268.1,"y=m n,C=H(y);4)Maintainatuple<SID,H(x(cid:107)(cid:107)ID),m,n,C,PKV ,Cert,ver >;"
+17,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,620.43,340.49,630.4,620.43,211.49,70.49,254.79,"5)SendH(x (cid:107) (cid:107)ID),SID,C,n,m,PKV ,Cert,t,GK;"
+17,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,644.74,289.19,654.7,644.74,187.19,70.49,306.08,"6)StoreH(x (cid:107) (cid:107)ID),PKV ,Cert,m,C,ver"
+17,0,0,0,0,10,7,GGAXSG+CMTI12,12.0,64.51,691.11,530.76,718.66,691.11,123.23,64.51,64.51,5.3. RSURegistrationProtocol(RSURP)ThefollowingprotocolregistersRSUs with KDC. KDC delivers L and GK to
+17,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,444.32,711.71,462.08,719.68,711.71,122.21,444.32,133.2,RSU
+18,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,124.8,94.26,134.76,124.8,707.13,70.49,501.01,RSU
+18,0,0,0,1,1,22,BNVFXK+CMMI7,7.0,121.88,140.65,138.62,147.63,140.65,694.26,121.88,456.65,RSU
+18,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,125.31,164.96,161.11,171.94,164.96,669.95,125.31,434.17,RSU R
+18,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,173.02,193.57,182.98,173.02,658.91,70.49,401.71,"3)SendL ,GK,L ;"
+18,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,115.25,176.92,187.15,183.89,176.92,658.0,115.25,408.13,RSU RTM
+18,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,185.37,94.26,195.33,185.37,646.56,70.49,501.01,RSU
+18,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,197.32,311.2,207.29,197.32,634.6,70.49,284.07,"4)StoreL ,L intamper resistantmodule;"
+18,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,117.29,201.23,168.3,208.2,201.23,633.69,117.29,426.97,RSU RTM
+18,0,0,0,0,5,11,NZSRLW+CMBX10,10.0,70.49,209.68,280.41,231.59,209.68,610.3,70.49,314.86,"KDC5)Maintainatuple <Id ,L ,ver >;"
+18,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,187.35,225.54,266.46,232.51,225.54,609.38,187.35,328.81,RSU RSU gk
+18,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,245.93,530.77,275.32,245.93,566.57,64.51,64.51,5.4. TMRegistrationProtocol(TMRP)ThegoalofthisprotocolistoregisterTMswiththeKDC. Thebelowprotocolexplains
+18,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,277.81,530.76,289.77,277.81,552.12,64.51,64.51,thestepsinvolvedduringtheregistrationofi TMwithKDC. KDC deliversL and
+18,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,489.59,282.82,503.83,290.79,282.82,551.1,489.59,91.44,TM
+18,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,64.51,292.26,530.76,304.21,292.26,537.68,64.51,64.51,RL toTM. KDCmaintainsalistofregisteredTMsanditslong-termsecret. Theexecu-
+18,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,332.52,89.34,342.48,332.52,499.41,70.49,505.94,TM
+18,0,0,0,1,1,22,BNVFXK+CMMI7,7.0,121.88,348.38,135.26,355.35,348.38,486.54,121.88,460.01,TM
+18,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,125.31,372.68,157.75,379.66,372.68,462.23,125.31,437.53,TM R
+18,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,380.74,191.49,390.7,380.74,451.19,70.49,403.78,"3)SendL ,L ,RL;"
+18,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,115.25,384.64,188.23,391.61,384.64,450.28,115.25,407.05,TM RTM i
+18,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,393.09,89.34,403.05,393.09,438.84,70.49,505.94,TM
+18,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,405.05,307.84,415.01,405.05,426.88,70.49,287.44,"4)StoreL ,L intamper resistantmodule;"
+18,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,117.29,408.95,164.94,415.92,408.95,425.97,117.29,430.34,TM RTM
+18,0,0,0,0,5,11,NZSRLW+CMBX10,10.0,70.49,417.4,268.07,439.32,417.4,402.57,70.49,327.21,"KDC5)Maintainatuple <Id ,L ,RL >;"
+18,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,187.35,433.26,254.29,440.23,433.26,401.66,187.35,340.99,TM TM i
+18,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,453.65,530.77,526.38,453.65,315.51,64.51,64.51,"5.5. VehicleUserAuthenticationProtocol(VUAP)Theobjectiveofthisprotocolistoauthenticatevehicleuser/owner. Theprotocolpre-sentedbelowpreservestheconditionalanonymityandunlinkabilityofvehicles.Avehicleuser/ownerentersapasswordafterinsertingasmartcard(Step1).Thesmartcardperformsthecomputations(Step2),whereTisthecurrenttime,andsendsthemessage(Step3)."
+18,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,528.87,526.21,540.82,528.87,301.07,64.51,69.07,"Thevehicleperformstwochecks(Step4). The rstcheckisforthetimedelay,whereT"
+18,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,672.64,316.01,682.6,672.64,159.29,70.49,279.27,"4)Check|T T| T,H(H(y)(cid:107)T)==H(C(cid:107)T);"
+18,0,0,0,0,4,22,BNVFXK+CMMI7,7.0,122.6,676.54,308.87,683.52,676.54,158.37,122.6,286.41,r c c c
+19,0,0,0,0,10,7,GGAXSG+CMTI12,12.0,64.51,113.43,530.77,171.71,113.43,670.18,64.51,64.51,"5.6. Tri-party Key Dissemination Protocol for Vehicle to Infrastructure Communication(TV2I)TheobjectiveofthisprotocolistoexchangekeystovehiclesfromatrustedauthorityviaRSUs.Thepartiesinvolvedinthisprotocolarevehicles,RSUsandKDC.TheTV2Iproto-"
+19,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,153.55,187.52,337.35,195.49,187.52,646.4,153.55,257.93,th th th
+19,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,188.64,515.85,200.6,188.64,641.29,64.51,79.42,theboundaryofi RSUtoeither(i 1) or(i+1) RSU.ThevehicleforwardsMand
+19,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,203.09,530.77,215.05,203.09,626.84,64.51,64.51,toRSU forprovingitsidentitytoKDC(Step3). TheRSUconstructsUand( )(Step5)
+19,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,217.54,530.77,243.94,217.54,597.95,64.51,64.51,"toproveitsauthenticity,anditforwardsthemessagetoKDC(Step6). KDCveri esthetagoftheRSU,matchesSIDwiththestoredSID,checksthevalidity(t)ofthevehicle"
+19,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,246.43,530.76,258.38,246.43,583.51,64.51,64.51,andtheversionofthekey(ver )heldbythevehicleandveri esthetagofthevehicle(Step
+19,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,260.87,530.77,316.17,260.87,525.72,64.51,64.51,"7). KDC abortsauthenticationifeitheroneofthecasesoccurs: thetagsareinvalid,thevalidityofthevehicleisexpiredandversionofthekeymatcheswiththecurrentversion.KDCrecoversrandomnumbersthataresentbythevehicleandtheRSU(Step9),anditperformsStep10.ThetagsinStep10arecomputedbasedontherequestreceivedfromthe"
+19,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,333.1,530.77,402.84,333.1,439.05,64.51,64.51,"willbeadditionallycomputedfor(i 1) and(i+1) RSU.Thetwoadditionaltagsaregeneratedtouninterruptedlydeliverthemessagetothevehicleregardlessofitsdirectionofmobility.Thevehiclecanacquirethekeyandconstructthenextsessionidentier(SID)byfollowingStep14.Asthekeyconrmationstep,thevehiclecomputesatag(Step15),anditforwardstotheRSU.Now,thevehicleisassumedtobeontheboundaryofnewRSU"
+19,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,405.33,530.76,460.62,405.33,381.27,64.51,64.51,"(i.e. either(i 1) or(i+1) . TheRSUcomputesatag,anditforwardsthemessagetoKDC(Step17and18,respectively).KDCveriesthetagsandupdatesthetuple(Step19and20).Itshouldbenotedthatifanyofthevericationsordecryptionsfail,thentheconcernedpartyabortstheprotocol."
+20,0,0,0,0,6,11,SUOVAD+CMR10,10.0,70.49,123.8,350.64,133.76,123.8,708.13,70.49,244.64,"1)S {0,1},T=H(L (cid:107)GK),B=S T L GK;"
+20,0,0,0,1,3,22,BNVFXK+CMMI7,7.0,98.76,127.7,317.7,134.68,127.7,707.21,98.76,277.57,R VK VK
+20,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,135.75,264.02,145.72,135.75,696.17,70.49,331.26,"2) =H(SID(cid:107)B(cid:107)L ),M=SID,B;"
+20,0,0,0,1,2,22,QHYYYP+CMR7,7.0,91.68,139.66,191.75,146.63,139.66,695.26,91.68,403.53,1 VK
+20,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,160.06,94.26,170.03,160.06,671.86,70.49,501.01,RSU
+20,0,0,0,0,6,11,SUOVAD+CMR10,10.0,70.49,172.02,356.47,181.98,172.02,659.91,70.49,238.81,"4)R {0,1},U=H(L (cid:107)GK),Q=R L U GK;"
+20,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,180.08,175.92,300.8,182.9,175.92,658.99,180.08,294.48,RSU RSU
+20,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,183.97,248.19,193.94,183.97,647.95,70.49,347.09,5) =H(Q(cid:107)M(cid:107) (cid:107)RSU (cid:107)L );
+20,0,0,0,0,4,22,QHYYYP+CMR7,7.0,88.36,187.88,237.89,194.85,187.88,647.04,88.36,357.38,2 1 i RSU
+20,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,195.93,191.8,205.89,195.93,636.0,70.49,403.48,"6)SendM,RSU,Q, , ;"
+20,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,144.23,199.83,188.53,206.81,199.83,635.08,144.23,406.75,i 1 2
+20,0,0,0,0,6,11,NZSRLW+CMBX10,10.0,70.49,208.28,309.63,230.2,208.28,611.69,70.49,285.65,"KDC7)Verify ,Match <SID,ver ,t >,Verify ;"
+20,0,0,0,0,4,22,QHYYYP+CMR7,7.0,123.74,224.14,306.37,231.11,224.14,610.78,123.74,288.91,2 gk d 1
+20,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,232.19,260.21,242.16,232.19,599.73,70.49,335.07,"8)Checkthetuple <ID ,...,ver >;"
+20,0,0,0,1,7,11,SUOVAD+CMR10,10.0,70.49,244.15,319.67,254.11,244.15,587.78,70.49,275.6,"9)S=B T L GK,R=Q U L GK;"
+20,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,149.03,248.05,284.07,255.02,248.05,586.87,149.03,311.21,VK RSU
+20,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,256.1,293.71,266.07,256.1,575.82,70.49,301.57,"10)Chooser {0,1}, ={GK (cid:107)r(cid:107)SID}S,"
+20,0,0,0,1,2,22,BNVFXK+CMMI7,7.0,137.69,260.01,192.93,266.98,260.01,574.91,137.69,402.35,R S
+20,0,0,0,0,6,11,SUOVAD+CMR10,10.0,94.11,268.06,263.85,278.02,268.06,563.87,94.11,331.42,"={GK }R, =H( (cid:107) (cid:107)L ),"
+20,0,0,0,1,5,22,BNVFXK+CMMI7,7.0,84.81,271.96,253.56,278.94,271.96,562.95,84.81,341.72,R 3 S R RSU
+20,0,0,0,0,8,11,SUOVAD+CMR10,10.0,93.85,280.01,332.31,289.98,280.01,551.91,93.85,262.96,"=H( (cid:107) (cid:107)L ), =H( (cid:107) (cid:107)L );"
+20,0,0,0,1,6,22,BNVFXK+CMMI7,7.0,86.14,283.92,313.51,291.87,283.92,550.02,86.14,281.77,S R RSU S R RSU33
+20,0,0,0,0,3,24,IJFKHY+CMMI5,5.0,182.91,286.52,324.67,291.5,286.52,550.39,182.91,270.6,i 1 i+1
+20,0,0,0,0,6,11,SUOVAD+CMR10,10.0,70.49,291.97,203.75,301.93,291.97,539.96,70.49,391.53,"11)Send , , , , ;"
+20,0,0,0,1,5,22,BNVFXK+CMMI7,7.0,117.81,295.87,195.93,303.82,295.87,538.07,117.81,399.34,S R 3 3 3
+20,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,304.32,94.26,314.28,304.32,527.61,70.49,501.01,RSU
+20,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,316.28,228.22,326.24,316.28,515.65,70.49,367.06,"12)Verify , , ,Decrypt ;"
+20,0,0,0,1,2,22,QHYYYP+CMR7,7.0,128.72,320.18,224.92,328.13,320.18,513.76,128.72,370.36,3 R33
+20,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,352.54,257.61,374.46,352.54,467.43,70.49,337.67,"14)Decrypt ,SID =H(r(cid:107)SID(cid:107)GK);15)=H((cid:107)SID(cid:107)L);"
+20,0,0,0,1,2,22,QHYYYP+CMR7,7.0,93.34,368.4,195.03,375.37,368.4,466.52,93.34,400.25,4 VK
+20,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,388.81,94.26,398.77,388.81,443.12,70.49,501.01,RSU
+20,0,0,0,0,3,22,QHYYYP+CMR7,7.0,94.26,393.01,206.71,407.0,393.01,434.89,94.26,388.56,(i 1)/i/(i+1) //
+20,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,402.8,297.68,412.76,402.8,429.13,70.49,297.6,17)Compute =H( (cid:107) (cid:107)L );
+20,0,0,0,1,3,22,QHYYYP+CMR7,7.0,137.02,406.7,249.41,414.84,406.7,427.05,137.02,345.86,5 4 RSU3
+20,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,415.24,210.58,425.2,415.24,416.69,70.49,384.7,"18)Send ,RSU , ;"
+20,0,0,0,0,4,22,QHYYYP+CMR7,7.0,119.15,419.14,207.31,426.42,419.14,415.47,119.15,387.97,4 i 1/i/i+1 5
+20,0,0,0,0,3,11,NZSRLW+CMBX10,10.0,70.49,427.59,305.64,449.51,427.59,392.38,70.49,289.63,"KDC19)Verify ,ComputeSID =H(r(cid:107)SID(cid:107)GK);"
+20,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,451.5,331.1,461.47,451.5,380.42,70.49,264.17,"20)Verify ,Update <SID,...,ver > inthetuple;"
+20,0,0,0,0,4,7,GGAXSG+CMTI12,12.0,64.51,476.39,530.77,520.23,476.39,321.66,64.51,64.51,"5.7. KeyDisseminationProtocolforV2VCommunicationProtocol(KV2VP)ThepurposeofthisprotocolistoexchangekeysfromBobtoAlice.To transfer anupdatedkey,Aliceneedstoprovethevalidityofthecerticate(tt)toBob.Also,Bob"
+21,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,123.8,225.87,133.76,123.8,708.13,70.49,369.41,1)TakeCert &PKV ;
+21,0,0,0,0,3,11,DNFEDH+MSBM10,10.0,70.49,135.19,227.75,147.08,135.19,694.81,70.49,367.53,"Z2)Choosea,a PKV ;"
+21,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,133.2,141.02,224.48,148.3,141.02,693.59,133.2,370.79,R p Alice(i)
+21,0,0,0,0,7,11,SUOVAD+CMR10,10.0,70.49,149.08,358.29,159.04,149.08,682.85,70.49,236.99,"3) =H(a PKV (cid:107)Cert ,(cid:107)PKV (cid:107)t (cid:107)GK);"
+21,0,0,0,0,3,22,QHYYYP+CMR7,7.0,88.36,152.98,323.63,161.67,152.98,680.22,88.36,271.65,1 Alice(i) dAlice(i)Alice(i)
+21,0,0,0,0,7,11,SUOVAD+CMR10,10.0,70.49,162.4,352.02,172.36,162.4,669.53,70.49,243.25,"4)Sendver ,a PKV ,t,Cert ,PKV , ;"
+21,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,122.79,166.3,348.76,174.99,166.3,666.9,122.79,246.52,gk d 1Alice(i)Alice(i)Alice(i)
+21,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,200.03,330.02,209.99,200.03,631.9,70.49,265.26,"6)Checke(Cert ,PKV +t Y) e(P,Q);"
+21,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,213.35,205.24,223.31,213.35,618.58,70.49,390.03,7)SK=a PKV PKV
+21,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,225.3,170.32,235.26,225.3,606.63,70.49,424.96,"8){GK , ,ver }SK,"
+21,0,0,0,0,7,11,SUOVAD+CMR10,10.0,93.38,237.26,368.46,247.22,237.26,594.67,93.38,226.82,"=H({GK , ,ver }SK(cid:107)Cert (cid:107)PKV (cid:107) (cid:107)GK);"
+21,0,0,0,0,4,22,QHYYYP+CMR7,7.0,86.14,241.16,333.79,249.85,241.16,592.04,86.14,261.48,2 gk Bob(i) 1Bob(i)
+21,0,0,0,0,7,11,SUOVAD+CMR10,10.0,70.49,250.58,335.81,260.54,250.58,581.35,70.49,259.47,"9)Send{GK , ,ver }SK,t,Cert ,PKV , ;"
+21,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,164.03,254.48,332.54,263.17,254.48,578.72,164.03,262.74,gk d 2Bob(i)Bob(i)
+21,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,288.21,325.17,298.17,288.21,543.72,70.49,270.11,"11)Checke(Cert ,PKV +t Y) e(P,Q);"
+21,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,301.53,210.22,311.49,301.53,530.4,70.49,385.05,12)SK=a PKV PKV
+21,0,0,0,0,5,11,SUOVAD+CMR10,10.0,70.49,313.49,264.06,323.45,313.49,518.44,70.49,331.22,"13)VerifyGK , =H(GK (cid:107) (cid:107)SK);"
+21,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,404.73,530.77,416.69,404.73,425.2,64.51,64.51,"withvehiclesbyi RSUasID(cid:107)LBSIMSG(cid:107)T (cid:107)H(ID(cid:107)LBSIMSG(cid:107)GK(cid:107)T),where"
+21,0,0,0,0,3,7,DNFEDH+MSBM10,12.0,64.51,416.86,530.76,431.13,416.86,410.76,64.51,64.51,"ZIDforeachmessageisgeneratedasr,H(r(cid:107)L )andID=r(cid:107)H(r(cid:107)L )"
+21,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,276.23,424.18,522.55,432.15,424.18,409.74,276.23,72.73,R p RSU RSU
+21,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,433.62,530.77,445.58,433.62,396.31,64.51,64.51,andT isthecurrenttime. ThepartiesinvolvedinthisprotocolarevehiclesandRSUs.
+21,0,0,0,0,9,7,NJVWMM+CMMI12,12.0,64.51,577.39,530.76,589.34,577.39,252.55,64.51,64.51,"KDCcomputesm,n,y andC asfollows:m =H(PWD ),n =H(m (cid:107) (cid:107)ID ),"
+21,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,591.83,530.77,751.04,591.83,90.85,64.51,64.51,"y=m n andC =H(y )anddeliversthegeneratedcredentialstotheowner.Theownerstoresn,andyandCinthesmartcardandthetamper-resistantmodule,respectively.TheownerconrmsKDCaboutthestorage.5.10.VehicleComplainProtocol(VCP)TheobjectiveofthisprotocolistocomplainaboutamisbehavingvehicleinKV2VPandPEM.Thepartiesinvolvedintheprotocolarevehicle,RSUandTM.Vehiclesmakecomplaintsontwoinstances.Whenabenignvehicletriestogetakeyaftertheexpiryofitsdeparturetime.Whenabenignvehicletriestoinjectaninvalidoroldkey.Themisbe-haviourinPEMcouldbeinjectionsorreplaysofmessages.MessageinStep1cancontain19"
+22,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,185.66,530.76,226.5,185.66,615.39,64.51,64.51,"8and9. Ifthemisbehaviourisidenti edinKV2VP,KDC canidentifythemisbehavingvehiclebyidentifyingthecerticate.IfthemisbehaviourisinPEM,KDCcancomputeH(r(cid:107)L)andH(m(cid:107)r)totraceRSUsandvehicles,respectively.KDCupdatesthe"
+22,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,108.18,219.55,125.93,227.52,219.55,614.37,108.18,469.35,RSU
+22,0,0,0,1,2,22,QHYYYP+CMR7,7.0,88.36,325.96,220.12,332.93,325.96,508.96,88.36,375.16,1 VK
+22,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,346.37,94.26,356.33,346.37,485.56,70.49,501.01,RSU
+22,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,358.32,254.72,368.28,358.32,473.61,70.49,340.56,3) =H(Message(cid:107)SID(cid:107) (cid:107)L );
+22,0,0,0,1,3,22,QHYYYP+CMR7,7.0,88.36,362.22,244.42,369.2,362.22,472.69,88.36,350.86,2 1 RSU
+22,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,370.28,247.12,380.24,370.28,461.65,70.49,348.16,"4)SendSID,Message,RSU, , ;"
+22,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,205.21,374.18,243.85,381.15,374.18,460.74,205.21,351.42,i 1 2
+22,0,0,0,0,5,11,NZSRLW+CMBX10,10.0,70.49,382.63,315.71,404.55,382.63,437.34,70.49,279.56,TM5)Compute =H(SID(cid:107)Message(cid:107) (cid:107) (cid:107)L );
+22,0,0,0,1,4,22,QHYYYP+CMR7,7.0,132.04,398.49,305.42,405.46,398.49,436.43,132.04,289.86,3 1 2 TM
+22,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,406.54,232.84,416.5,406.54,425.39,70.49,362.44,"6)SendSID,Message, , , ;"
+22,0,0,0,0,3,22,QHYYYP+CMR7,7.0,189.78,410.44,229.57,417.42,410.44,424.47,189.78,365.7,1 2 3
+22,0,0,0,0,4,11,NZSRLW+CMBX10,10.0,70.49,418.89,166.8,440.81,418.89,401.08,70.49,428.48,"KDC7)Verify , , ;"
+22,0,0,0,0,3,22,QHYYYP+CMR7,7.0,123.74,434.75,163.53,441.72,434.75,400.17,123.74,431.74,1 2 3
+22,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,478.67,217.36,488.63,478.67,353.26,70.49,377.92,11)Compute =(RL (cid:107)L );
+22,0,0,0,0,3,22,QHYYYP+CMR7,7.0,137.02,482.57,207.06,489.55,482.57,352.34,137.02,388.21,4 i TM
+22,0,0,0,0,4,11,SUOVAD+CMR10,10.0,70.49,526.89,232.48,536.85,526.89,305.04,70.49,362.79,14)Compute =H(RL (cid:107)L );
+22,0,0,0,0,3,22,QHYYYP+CMR7,7.0,137.02,530.79,222.19,537.76,530.79,304.13,137.02,373.09,5 i RTM
+22,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,538.84,185.63,548.81,538.84,293.08,70.49,409.64,"15)SendID ,RL ;"
+22,0,0,0,0,3,22,BNVFXK+CMMI7,7.0,126.86,542.75,182.37,549.72,542.75,292.17,126.86,412.91,TM i 5
+22,0,0,0,1,1,11,NZSRLW+CMBX10,10.0,70.49,551.2,94.26,561.16,551.2,280.73,70.49,501.01,RSU
+22,0,0,0,0,3,11,SUOVAD+CMR10,10.0,70.49,575.11,219.64,585.07,575.11,256.82,70.49,375.63,17)Compute =H(RL (cid:107)GK);
+22,0,0,0,0,3,7,LNZLED+CMBX12,12.0,64.51,652.54,530.76,702.35,652.54,139.54,64.51,64.51,"6. SecurityAnalysisInthissection,wepresentformalsecurityanalysisofTV2IandKV2VPprotocols. In-formalanalysisofthesecurityprotocolsisalsopresented."
+23,0,0,0,0,10,7,GGAXSG+CMTI12,12.0,64.51,113.43,519.82,142.82,113.43,699.07,64.51,75.45,"6.1. FormalSecurityAnalysisofTV2IandKV2VPTheTV2IandKV2VPprotocolsuselong-term secrets (L , L , L , K,"
+23,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,387.84,135.87,516.07,143.84,135.87,698.05,387.84,79.2,VK RSU RSU c
+23,0,0,0,0,3,23,OXGNIZ+CMMI6,6.0,437.13,138.69,492.89,145.19,138.69,696.7,437.13,102.38,i (i 1)
+23,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,145.31,530.76,157.26,145.31,684.63,64.51,64.51,"andL )and(x ,x ,(cid:15)K and ),respectively,toestablishasessionkeyGK ina"
+23,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,95.71,150.31,234.5,158.28,150.31,683.61,95.71,360.78,RSU A B c
+23,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,159.75,530.77,200.6,159.75,641.29,64.51,64.51,"givensession. Theformalsecurityanalysisappliestherandomoraclemodel [19]withtheadversarialcapabilitiesmentionedinthework[35].Weusethefollowingassumptions.AgenericpartyGisintroducedonbehalfofKDC,theRSUandthevehicle.Theexecution"
+23,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,203.09,530.76,215.05,203.09,626.84,64.51,64.51,"oftheprotocol(P)istermedasaninstance. Forexample,aninstanceofP runbyG is"
+23,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,219.16,530.76,231.12,219.16,610.77,64.51,64.52,"denotedbyP ,whereiisthei-thrunoftheprotocol. Acollectionofprotocolinstances"
+23,0,0,0,0,19,7,NAUQMW+CMR12,12.0,64.51,236.26,530.76,248.22,236.26,593.67,64.51,64.51,"that are run by the same parties is called an oracle O = {P |i = 1,2,...}. To prove"
+23,0,0,0,1,2,19,MJYXCG+CMSY8,8.0,352.14,242.5,398.08,250.69,242.5,591.2,352.14,197.2,G G
+23,0,0,0,0,18,7,NAUQMW+CMR12,12.0,64.51,250.71,530.77,349.34,250.71,492.55,64.51,64.51,"the security of P, we de ne a sequence of games. We start from an initial game, whichreectstherealprotocol.Thenwemodifyitafewtimesuntilweendupwiththenalgamethatreectsanattackagainstanidealprotocol,whereanadversaryAhasanegligibleadvantageofwinning.Astheadvantagebetweenanytwoconsecutivegamesisnegligible,wecanconcludethatAhasanegligibleadvantageofwinningthegameagainsttherealprotocol.NowacollectionofqueriesthatcanbemadebyAareprovided."
+23,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,93.78,351.83,530.76,363.79,351.83,478.1,93.78,64.51,"Send(P ,M): Thisquerymodelstheadversarialabilityofsendingmessages. Acan"
+23,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,368.93,329.98,380.89,368.93,461.0,64.51,265.29,"initiatePbysendingthequerySend(P , start )."
+23,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,93.78,386.03,530.77,397.99,386.03,443.9,93.78,64.51,Hash(P )& Enc(P ): Theseoraclesmodelhashandencryptionqueriesmade
+23,0,0,0,1,2,19,MJYXCG+CMSY8,8.0,135.66,392.48,221.0,400.45,392.48,441.44,135.66,374.28,G G
+23,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,400.48,530.77,441.32,400.48,400.57,64.51,64.51,"byA. ThehashHandtheencryptiontablesE areusedtostoreentriesofthehashandtheciphertextfortheinquiredmessage(M)intheform(M,f)and(C,M).IfMisstoredalreadyinHandE,itwillreturnthestoredhash(f)andthestoredciphertext(C)."
+23,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,93.78,474.33,530.77,486.29,474.33,355.6,93.78,64.51,Session keyreveal(P ): ThisquerymodelsabilityofAtoforceP torevealits
+23,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,491.43,496.9,503.39,491.43,338.5,64.51,98.38,"sessionkey. Forinstance,ifAissuesthisquery,thenP returnsthei sessionkey."
+23,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,93.78,508.53,530.76,520.49,508.53,321.4,93.78,64.51,Session statereveal(P ): TheabilityofAinlearningtheinternalstatesofG is
+23,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,525.63,530.76,537.59,525.63,304.3,64.51,64.51,"modeledbythisquery. WhenAissuesthisquery,P returnssecretrandomnumbersof"
+23,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,93.78,554.53,507.18,566.48,554.53,275.41,93.78,88.09,Corrupt(P ): Ausesthisquerytoacquirethelong-termsecretkeysheldbyG.
+23,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,93.78,571.63,530.77,583.58,571.63,258.31,93.78,64.51,Execute(P ): ThisquerymodelsthepassiveattackbyA. Theadversaryreadsall
+23,0,0,0,0,14,7,NJVWMM+CMMI12,12.0,93.78,605.83,530.76,617.78,605.83,224.11,93.78,64.52,Remover(P ): This query models the expiry time of sessions. For instance if the
+23,0,0,0,0,3,19,MJYXCG+CMSY8,8.0,154.06,612.28,240.39,629.77,612.28,212.12,154.06,354.89,G (i) th
+23,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,622.93,530.76,634.88,622.93,207.01,64.51,64.52,"queryisissuedtoP ,thenthei sessiontimeisexpiredforG. Weusethisquerytoprove"
+23,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,93.78,651.82,530.76,663.77,651.82,178.12,93.78,64.52,Test(P ): ThisquerycanbeaskedbyAonceonlyattheveryendofthegame. The
+24,0,0,0,0,16,7,LNZLED+CMBX12,12.0,64.51,171.34,530.76,183.3,171.34,658.59,64.51,64.52,De nition1. (Freshness) The i session is fresh if P ends in the accepted state even
+24,0,0,0,0,3,19,MJYXCG+CMSY8,8.0,205.67,194.9,555.17,210.61,194.9,631.28,205.67,40.11,G(i)(i) ( i)
+24,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,205.54,560.22,217.5,205.54,624.39,64.51,35.06,"(i)Session statereveal(P ),(ii)Session statereveal(P )andSession keyreveal(P )"
+24,0,0,0,0,3,19,MJYXCG+CMSY8,8.0,169.45,212.0,544.1,227.72,212.0,614.17,169.45,51.18,G G G(i)(i)
+24,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,222.64,530.76,234.6,222.64,607.29,64.51,64.51,and(iii)Corrupt(P )andCorrupt(P )intheTV2IandKV2VPpro-
+24,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,168.47,229.19,367.55,244.13,229.19,597.76,168.47,227.72,RSU &Vehicle Alice&Bob(i)
+24,0,0,0,0,16,7,LNZLED+CMBX12,12.0,64.51,266.45,530.76,290.54,266.45,551.35,64.51,64.51,"De nition2. (Negligible function) A function (n) is negligible, if for all c > 0, thereZ"
+24,0,0,0,0,5,7,GGAXSG+CMTI12,12.0,64.51,280.9,320.86,292.86,280.9,549.03,64.51,274.42,existsn suchthat| (n)| foralln n.
+24,0,0,0,0,3,7,LNZLED+CMBX12,12.0,64.51,308.3,530.77,349.14,308.3,492.75,64.51,64.51,"De nition3. (ECDLP,ECDHPandECq-SDHPassumption)AnyprobabilisticpolynomialtimealgorithmAhasanegligibleadvantageinsolvingECDLP,ECDHPandECq-SDHP.Ifnisthenumberofbitsusedtorepresentamemberofthegroups,then"
+24,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,194.9,363.59,400.38,375.55,363.59,466.34,194.9,194.9,Adv (n) (n).
+24,0,0,0,0,4,7,LNZLED+CMBX12,12.0,64.51,390.99,530.77,402.94,390.99,438.95,64.51,64.51,"De nition4. (Semanticsecurity)LetaprotocolP withthesecurityleveln,anadversary"
+24,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,421.51,530.76,433.46,421.51,408.43,64.51,64.51,askedbyAinthesession. ThentheprotocolP issemanticallysecureiftheadvantageofA
+24,0,0,0,1,1,19,FUDOLA+CMR8,8.0,163.32,434.46,323.61,442.8,434.46,399.09,163.32,271.67,1SS
+24,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,435.95,367.47,447.91,435.95,393.98,64.51,227.81,"isnegligibleorAdv (P,n)=Pr[A(P,n)=b] (n)."
+24,0,0,0,1,2,19,MJYXCG+CMSY8,8.0,162.89,442.18,323.61,451.26,442.18,390.63,162.89,271.67,A 2
+24,0,0,0,0,4,7,LNZLED+CMBX12,12.0,64.51,463.35,530.76,533.09,463.35,308.8,64.51,64.51,"Di erencelemma [40]LetW,XandYbeeventsde nedinsomeprobabilitydistribution,andsupposethatWYXY.Then,Pr[W]Pr[X]Pr[Y].Theorem1ConsidertheTV2Iprotocol(a.k.a.P)andthefollowingassumptions:alongtermsecretkeycanbeguessedwithanadvantageAdv,ECDLPcanbesolvedwith"
+24,0,0,0,0,14,7,NAUQMW+CMR12,12.0,64.51,535.58,530.77,547.53,535.58,294.36,64.51,64.51,"an advantage Adv , the hash function generates MACs with (cid:96) bits, the encryption"
+24,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,159.26,540.58,190.82,548.55,540.58,293.34,159.26,404.46,ECDLP
+24,0,0,0,0,3,23,MDCGGI+CMR6,6.0,118.98,590.91,452.73,596.95,590.91,244.94,118.98,142.55,2 2 2
+24,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,85.46,592.11,448.79,602.22,592.11,239.67,85.46,146.49,q q qSS11
+24,0,0,0,0,10,7,NJVWMM+CMMI12,12.0,64.51,595.38,530.76,607.34,595.38,234.55,64.51,64.51,"Adv + +max{max(Adv , ),( +Adv ),(Adv + )}+Adv +"
+24,0,0,0,0,3,23,OXGNIZ+CMMI6,6.0,118.7,596.49,462.43,602.47,596.49,239.42,118.7,132.85,hash Enc Enc
+24,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,85.03,600.39,518.16,609.58,600.39,232.31,85.03,77.11,sk sk ECDLP skP
+24,0,0,0,0,5,23,OXGNIZ+CMMI6,6.0,125.47,602.05,457.75,608.06,602.05,233.83,125.47,137.53,(cid:96) k m m k
+24,0,0,0,0,5,19,FUDOLA+CMR8,8.0,121.24,602.72,453.8,610.71,602.72,231.18,121.24,141.48,2 2 2 2 2
+24,0,0,0,0,10,7,NJVWMM+CMMI12,12.0,64.51,613.6,530.76,625.56,613.6,216.33,64.51,64.52,"Adv +max{ , ,( +Adv +Adv )},whereq ,q andq standsforthe"
+24,0,0,0,0,6,19,VYYMPD+CMMI8,8.0,85.03,618.61,458.13,626.58,618.61,215.31,85.03,137.14,ECDLP sk ECDLP hash enc s
+24,0,0,0,0,3,23,OXGNIZ+CMMI6,6.0,162.52,620.28,218.07,626.28,620.28,215.61,162.52,377.2,m k m
+24,0,0,0,0,3,19,FUDOLA+CMR8,8.0,158.29,620.94,211.54,628.93,620.94,212.96,158.29,383.74,2 2 2
+25,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,113.43,530.76,125.38,113.43,716.51,64.51,64.52,"canbesolvedwithanadvantageAdv ,Adv ,Adv ,respectively; the"
+25,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,260.91,118.43,436.28,126.4,118.43,715.49,260.91,158.99,ECDLP ECDHP ECq SDHP
+25,0,0,0,0,4,23,MDCGGI+CMR6,6.0,252.23,168.76,417.51,174.8,168.76,667.09,252.23,177.76,2 2 2 2
+25,0,0,0,0,5,19,VYYMPD+CMMI8,8.0,218.5,169.96,457.82,180.07,169.96,661.82,218.5,137.45,q q q qSS 1
+25,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,173.23,530.76,185.18,173.23,656.71,64.51,64.51,"byAwiththeadvantageAdv + +max{max{ , + ,Adv },"
+25,0,0,0,0,4,23,OXGNIZ+CMMI6,6.0,251.94,174.34,429.78,180.32,174.34,661.57,251.94,165.5,hash Enc hash hash
+25,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,218.07,178.23,519.86,187.43,178.23,654.46,218.07,75.42,ECDLPP
+25,0,0,0,0,5,23,OXGNIZ+CMMI6,6.0,258.72,179.9,460.84,185.9,179.9,655.99,258.72,134.43,(cid:96) k (cid:96) (cid:96) m
+25,0,0,0,0,5,19,FUDOLA+CMR8,8.0,254.49,180.56,454.31,188.56,180.56,653.33,254.49,140.97,2 2 2 2 2
+25,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,207.06,188.25,365.11,198.3,188.25,643.59,207.06,230.17,q 1 2
+25,0,0,0,0,12,7,NJVWMM+CMMI12,12.0,64.51,191.45,530.76,203.41,191.45,638.48,64.51,64.51,"Adv ,Adv , , + Adv }}+3 Adv +2 Adv +max{Adv ,"
+25,0,0,0,0,6,19,VYYMPD+CMMI8,8.0,85.03,196.46,525.84,204.43,196.46,637.46,85.03,69.44,ECq SDHP ECDHP sk sk ECDLP
+25,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,209.71,530.77,221.67,209.71,620.22,64.51,64.51,"max( +Adv )},whereq andq standsforthenumberofqueriestothehash"
+25,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,152.87,214.72,303.81,222.69,214.72,619.2,152.87,291.47,ECDLP hash enc
+25,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,360.34,530.77,372.3,360.34,469.59,64.51,64.51,"ofincrementofver bycomputinge(GK ,GK Y) e(P,Q). Therefore, the"
+25,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,165.35,365.35,350.23,373.32,365.35,468.57,165.35,245.04,gk part1 part2
+25,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,194.66,567.59,239.89,575.56,567.59,266.33,194.66,355.39,R S
+26,0,0,0,0,4,7,NAUQMW+CMR12,12.0,82.07,113.43,530.77,125.38,113.43,716.51,82.07,64.51,"TV2I Withoutknowingthelong-termkeys(L andL )inSection5.6,Acannot"
+26,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,325.55,118.43,392.21,126.4,118.43,715.49,325.55,203.06,VK RSU
+26,0,0,0,0,9,7,NAUQMW+CMR12,12.0,64.51,127.87,530.77,168.72,127.87,673.17,64.51,64.51,"masqueradewithhighprobability.KV2VPTomountasuccessful masquerading attack in KV2VP, A must know thelong-termsecrets(xandx)inSection5.7."
+26,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,166.89,161.77,213.44,169.74,161.77,672.15,166.89,381.84,A B
+26,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,315.67,530.77,751.04,315.67,90.85,64.51,64.51,"toacquirethegroupkey,thenitwillbeidenti edbyBob(Lemma 2inSection6.1). IfBobcomplainsAlicetoKDCbyhercredentialreceivedfromStep4inSection5.7,thenKDCcanidentifyandrevokeAlicebyidentifyingheridentityfromthepublickeyandthecerticate.TheroleofBobintheprotocolistodeliveranupdatedkeytoAlice.IfBobmisbehavesbyinjectinganinvalidgroupkey(i.e.contrarytothevericationstepofStep13inSection5.7oftheprotocol),thenAlicecanreportthemisbehaviourtoKDCusingthemessagefromStep9inSection5.7.LikeAlice,BobcanbeidentiedandrevokedbyKDC.Therefore,KDCcanrevokebothvehicleswhentheymisbehaveintheprotocol.Proposition9:FortheVUAPprotocol,onlineandoinepasswordguessingattacksuc-ceedswithnegligibleprobability.Acanguessthepasswordbysubjectingeitheronlineoroinepasswordguessingattack.Buttheneedofntocomputeyrestrictstheadversaryinthesuccessfulmountingoftheattack.Asnisahashvalue,whichiscomputedusingthesecretofKDC,itcannotbeobtainedbyAwithnon-negligibleprobability.Thus,onlineandoinepasswordguessingattackagainstVUAPfailswithnon-negligibleprobability.Proposition10:GiventheVUAPprotocol,lostsmartcardverierattackfailswithnon-negligibleprobability.Afterattainingthesmart-card,iftheadversarytriestoauthenticateasalegitimatedriver/owner,itcannotvalidateitself.Theneedforthepasswordwillrestricttheadversaryfromauthentication.Thismeansthatavalidycanbeconstructedusingmandn.Astheadversarydoesnotknowm,avalidycannotbeconstructed.Hence,theprotocolresiststhelostsmart-cardverierattackwithnon-negligibleprobability.Itshouldbenotedthatthisattackandthepasswordguessingattackcannotbeconjunctive.Proposition11:GiventheVUAP,TV2I,KV2VPprotocols,anyattemptofDoScanbedetectedbypartiesoftheprotocols.VUAPIfStep3inSection5.5isblocked,thenthevehicleusercanidentifytheDoSastheaccesstothevehicleisdeniedforthevehicleuser.TV2IOutofthesteps3,6,11and13inSection5.6,ifanyoneofthemisblocked,then24"
+27,0,0,0,0,5,7,LNZLED+CMBX12,12.0,64.51,203.59,530.77,701.72,203.59,140.17,64.51,64.51,"7. FormalSecurityVeri cationThissectionpresentstheformalveri cationofourprotocolsuite. Initially,theTamarintoolandauthenticationpropertiesareintroduced.Forbrevity,weexplainthedescriptionsecurityprotocoltheory(SPTHY)formatofTV2Ialone.Theentiresetofscriptsofthenewprotocolsuitecanbefoundinthelink[41].7.1.TamarinOverviewTamarinisastate-of-the-arttoolthatisusedforthevericationofthesecurityprop-ertiesclaimedbycryptographicprotocols.Thetoolishighlyversatiletocheckthesecuritypropertiesfordierentadversaries.ThismeansthatthetoolcanbedeployedfortestingprotocolsfortheDolev-Yaoadversary[42]anduser-specicadversarialcapabilities.Inaddition,thetoolpossessesthefollowingattractivefeatures:supportsmodellingofglobalstatesinprotocols[43],theoremprovingofsecuritygoalscanbeaccomplishedusinglem-mata,relevantgraphsillustratediscrepancyinsecuritygoals/claimsininteractivemode.Thecompletedescriptionofthetoolanditspotentialscanbefoundinthemanual[44].ProtocolsinTamarinshouldbedescribedinSPTHYformat.Itfacilitatesthedescrip-tionofprotocolsusingstates,factsandrules.Thestatesareusedtostorevariablesandconstantsinprotocolswhichdenoteknowledgeofparticipantsofaprotocol.Factsareusedtodeclarethenatureofvariablesandchannels.Forinstance,theFactthatdenotesfreshnessisdeclaredasFr()andchannelsasIn()andOut().Aruleisalwaysascertainedoftheformat[L]-[A]->[R],whereL,AandRdenotepremise,actionandconclusion,respectively.Foreveryrule,thepremiseisthebeginningstatethatisupdatedaccordingtotheaction.Theactioncanbeseveraleventsinaprotocol,suchasasendandreceiveevent,securitypropertiesandadversarialqueries.Theconclusionistheendstateinarule.Thepredicatesofthemutualentityauthenticationareasfollows:aliveness,weakagree-ment,non-injectiveagreementandinjective-agreement.Theauthenticationclaimsfollowahierarchy.Injectiveagreementsitsonthetopoftheauthenticationclaims[45].Theinjectiveagreementisguaranteedonthefollowingconditions:asourceandanintendeddestinationagreeonvariables.Foreverycommittedvariablebyasource,thereuniquelyexistanin-tendeddestinationthatacceptsthevariable.Theauthenticationpropertiescanbeveriedusingcommitandrunningactionsinthetoolaspartiesofprotocolsagreeondataitems.Ingeneral,anypropertiessupportedbythetoolcanbeveriedusinglemmatathataredescribedusingtherst-orderlogic.Beforeverifyingsecurityproperties,thereachabilityofstatesonthespecicationofaprotocolisveriedusingalemmaexist-trace."
+30,0,0,0,0,3,7,LEEMER+CMTT12,12.0,80.1,119.03,424.61,289.89,119.03,552.0,80.1,170.66,"rule Recv_1:letm=h(<PWD>)y=h(<m,n>)M1=h(<h(<y>),Tc>)in[In(<Tc,M1>),!LTKTR(KDC,TR,C),!LTKSC(KDC,SC,<n>),St_TR_2(TR,~id,C,PWD,KDC,Vehicle_driver,SC)]--[Receive(<TR,<n>>),Role(TR),Check(<h(C,Tc),M1>),Running_strongA(PWD),Unique(M1) ]->[St_TR_3(TR,~id,C,PWD,Tc,M1,KDC,Vehicle_driver,SC),St_Veh_dri_3(Vehicle_driver,~id,PWD,Tc,M1,KDC,TR,SC)]"
+30,0,0,0,0,5,7,GGAXSG+CMTI12,12.0,64.51,329.51,534.57,704.21,329.51,137.68,64.51,60.7,"7.3. Veri cationofVUAPSecuritypropertiesareveri edbyspecifyingitinthe rst-orderlogic.VUAPhasthefol-lowinglemmata:1)executable,2)lemmaInjectiveagreementVehicleand3)secrecy.1)lemmaexecutable:all-traces""AllVehicledriverm#i.Send(<Vehicledriver,<m>>)@i==>ExTRm#j.Receive(<TR,<m>>)@j""ThelemmaexecutablestatesthatforallthatsendsmessageatVehicledrivermtimei,thereexistsTRthatrecievesthemattimej.Thislemmaisessentialtoverifythereachabilityofstates.2)lemmaInjectiveagreementVehicle:""(AllPWD#i.CommitstrongA(PWD)@#i==>(Ex#j.RunningstrongA(PWD)@#j&#j<#i)&(not(Ex#j.CommitstrongA(PWD)@#j&not(#i=#j))))""Theabovelemmataverifytheinjectiveagreementproperty.Thelemmaveriesthatforeachcommitbyapartythereuniquelyexistarunningpartner.ThelemmatastatethatforallcommittedvaluePWDattimei,thereexistrunningapartrunningPWDatj,wherejisprecedentto,anditcannotbethatthereexistacommittedvalueat,andandiPWDjjiareequalvalued.Itisnotedthattheinjectiveagreementaloneisveriedasitsitsonthetopofthehierarchyofauthenticationclaims.3)lemmasecrecy:all-traces""AllVehicledriverSCPWDn#i.Secret(<Vehicledriver,SC,PWD,n>)@i==>not(ExPWDn#r.K(<PWD,n>)@r)""TheabovelemmastatesthatforeveryVehicledriver,smartcardSC,PWDandn,password(PWD)andnaresecretifthosevaluesdoesnotexistintheknowledgeoftheadversary.Thislemmaspeciesthesecrecyofthepasswordandthesmart-cardsecretn.4)lemmaAnonymity:exists-trace""not(ExVehicledriverM1#m.K(<Vehicledriver,M1>)@m)""Thislemmastatesthatitcannotbethatthereexistavehicledriverandhis/herinter-action(M1=H(H(y)(cid:107)T))intheknowledgeoftheadversary."
+30,0,0,0,0,12,7,NAUQMW+CMR12,12.0,64.51,706.7,514.71,751.04,706.7,90.85,64.51,80.56,"5)lemma Unlinkability: all-traces ""All #i #m M1 Tc. Unique(M1) @ i &Unique(M1)@m&K(<Tc>)@i&K(<Tc>)@m==>#i=#m""28"
+31,0,0,0,0,6,18,NAUQMW+CMR12,8.4,152.96,340.35,523.57,348.72,340.35,493.17,152.96,71.71,Injectiveagreement Sessionkey/secretsecurity KKS PFS Conditionalanonymity Unlinkability
+31,0,0,0,0,4,18,RXNEKG+MSAM10,8.4,71.71,354.11,503.82,384.92,354.11,456.97,71.71,91.45,(cid:88) (cid:88) (cid:88) (cid:88)VUAPNANA(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)TV2I(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)V2V
+31,0,0,0,0,3,7,LNZLED+CMBX12,12.0,64.51,420.97,530.77,629.69,420.97,212.2,64.51,64.51,"8. PerformanceComparisonThissectioncomparesthecomputatione ciency,securityandfunctionalattributesofourprotocolsuitewithotherprotocols.WeusetheTEPLAlibrary[46]toevaluatethevariousellipticcurveoperations.BN-254curvewiththebaseeldsizeof512bitsischosenfortheevaluation.Forthedetailsofthecurve,readerisrequestedtoreferSection3.2.Weruntheevaluationforseveraltimes,andweconsidertheaveragecomputationtimeasthecomputationtimesoftheprimitivesinthelibrary.Weusethepycryptolibrary[47]forevaluatingtheexecutiontimeofhashandencyptionalgorithms.ThecomputationtimeofahashoperationisevaluatedbyrunningSHA-256algorithm,andthecomputationtimeofencryptionoperationisevaluatedbyrunningAES-128algorithm.FortheAESevaluation,plaintextsizeof16bytes,initialisationvectorof16bytesandthekeysizeof128bitsischosenwithCBCmodeoperation.Forthehashfunctionevaluation,plaintextsizeof32bytesandkeyof128bitsareselectedfortheevaluation.Alltheoperationsandalgorithmsareranfor1000iterations,andtheaveragevalueistakenasthecomputationtime(C)of"
+32,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,64.51,113.43,530.76,125.38,113.43,716.51,64.51,64.51,"GT isthetimerequiredforapointmultiplicationonthecurve,GT isthetimerequiredfor"
+32,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,80.61,118.43,411.92,126.4,118.43,715.49,80.61,183.35,M P
+32,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,142.32,530.76,154.27,142.32,687.62,64.51,64.51,"thecurve,T isthetimeneededtoperformanencryption/decryptionoperation,T isthe"
+32,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,126.08,147.32,497.65,155.29,147.32,686.6,126.08,97.62,E H
+32,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,321.0,161.77,341.63,169.74,161.77,672.15,321.0,253.65,XOR
+32,0,0,0,1,3,7,NJVWMM+CMMI12,12.0,64.51,214.55,148.78,226.5,214.55,615.39,64.51,446.49,GT GT [6].
+32,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,80.61,219.55,128.33,227.52,219.55,614.37,80.61,466.95,M E
+32,0,0,0,0,6,4,NAUQMW+CMR12,13.8,76.4,276.0,460.06,289.83,276.0,552.06,76.4,135.21,Notations GT GT GT T T
+32,0,0,0,1,5,13,VYYMPD+CMMI8,9.2,166.91,281.79,468.11,291.01,281.79,550.88,166.91,127.17,A M P E H
+32,0,0,0,0,8,4,NJVWMM+CMMI12,13.8,76.4,293.17,500.96,307.0,293.17,534.89,76.4,94.32,C 0.2 s 1.38ms 13.45ms 0.21ms 55.07 s
+32,0,0,0,1,6,13,VYYMPD+CMMI8,9.2,86.09,298.96,518.3,318.25,298.96,523.64,86.09,76.98,T 4 6 6 4 4
+32,0,0,0,1,11,4,NAUQMW+CMR12,13.8,76.4,310.34,513.4,324.17,310.34,517.72,76.4,81.88,CPO 5.18 10 3.6 10 41.77 10 54.68 10 14.49 10
+32,0,0,0,0,6,6,NAUQMW+CMR12,13.2,75.9,389.69,456.53,402.94,389.69,438.95,75.9,138.75,Notations GT GT GT T T
+32,0,0,0,1,5,17,VYYMPD+CMMI8,8.8,162.64,395.24,464.24,404.07,395.24,437.82,162.64,131.04,A M P E H
+32,0,0,0,0,8,6,NJVWMM+CMMI12,13.2,75.9,406.15,502.21,419.4,406.15,422.49,75.9,93.07,C 96.6 s 36.28ms 76.8ms 5.39ms 158.07 s
+32,0,0,0,1,6,17,VYYMPD+CMMI8,8.8,85.19,411.69,518.82,430.18,411.69,411.71,85.19,76.46,T 3 6 6 6 3
+32,0,0,0,1,11,6,NAUQMW+CMR12,13.2,75.9,422.6,514.13,435.85,422.6,406.04,75.9,81.15,CPO 86.48 10 32.68 10 69.18 10 4.85 10 142.39 10
+32,0,0,0,0,3,7,NAUQMW+CMR12,12.0,82.07,454.29,530.77,466.25,454.29,375.64,82.07,64.51,WeimplementthetatepairingonasupersingularellipticcurveE:y =x x+1in
+32,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,468.74,530.77,640.09,468.74,201.8,64.51,64.51,"thea necoordinatesde nedoveraGaloisFieldGF(3 )[48]. ThefollowingenvironmentischosenfortheevaluationoftheatepairinginBNcurve:Ubuntu(V16.04)with64bitIntelcoreI7centralprocessingunit(CPU)at2.6GHzoperatingfrequency.Weestimatethecomputationtimeofapointmultiplication,pointadditionandpairingoperationsas1.165s,0.1337sand8.125s,respectively.Thesimulationisiteratedoverseveraltimes,andtheaveragevalueistakenasthecomputationtimeofvariousoperations.Weconrmthattheexecutiontimeoftheatepairingishigherthanthetatepairing.8.1.ComputationEciencyThecomputationeciencyofourprotocolsispresentedbycomparingwiththerelatedprotocolsregardingatotalnumberoftheoperationsandalgorithms(TOA),thetimedu-rationforcomputationsofTOAandCPUcycles.CandCPOaretakenfromTable5to"
+32,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,642.58,530.77,668.98,642.58,172.91,64.51,64.51,presentthecomputatione ciencyoftheVUAPprotocol.VUAP:VUAPisusedfordriver/ownerauthentication. VUAPrequires3T ( 474.21
+32,0,0,0,0,7,7,NAUQMW+CMR12,12.0,71.55,671.48,530.77,683.43,671.48,158.46,71.55,64.51,"s),andLGKPneed3T +T ( 474.21 s)TOA.2FLIPneeds9T +5T TOA"
+32,0,0,0,1,4,19,VYYMPD+CMMI8,8.0,147.52,676.48,499.44,692.76,676.48,149.13,147.52,95.84,H XOR H XOR4
+32,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,685.92,530.77,712.32,685.92,129.57,64.51,64.51,( 14.22 10 s). ButABAKArequiresunitcomputationsincepasswordandidentityvericationaredonewithoutanyofthementionedoperationsandalgorithms.VUAPand
+32,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,714.81,525.13,751.04,714.81,90.85,64.51,70.15,"LGKPrequire427.17 10 CPUcycles,whereas2FLIPneeds 1281.51 10 CPUcycles.30"
+33,0,0,0,0,18,7,NAUQMW+CMR12,12.0,64.51,272.33,530.77,284.29,272.33,557.6,64.51,64.51,"+ 3T + 2GT + T TOA, and V2V of FKDP needs 7GT + 3GT + 5T TOA."
+33,0,0,0,1,6,19,VYYMPD+CMMI8,8.0,91.76,277.34,495.12,285.31,277.34,556.58,91.76,100.15,H P E E P E
+33,0,0,0,0,16,7,NAUQMW+CMR12,12.0,64.51,286.78,530.76,298.73,286.78,543.16,64.51,64.52,"While using Table 4WhV2V of FKDP need the time durion of 34.17 ms and 51.06 ms,"
+33,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,301.22,530.76,313.18,301.22,528.71,64.51,64.52,"correspondingly. KV2VPrequirestheCPUcyclesof102.52 10,andV2VofFKDPneeds"
+33,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,315.67,530.76,342.07,315.67,499.82,64.51,64.51,"153.24 10. WhenTable5isutilised,KV2VPisinneedof335.63ms,andV2VofFKDPrequirethetimedurationof511.31ms.WhenTable5isused,KV2VPrequire307.03"
+33,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,344.56,450.65,356.51,344.56,485.38,64.51,144.63,"10 CPUcycles,andV2VofFKDPrequiretheCPUcyclesof460.5 10."
+33,0,0,0,0,4,5,NAUQMW+CMR12,13.4,76.02,393.36,500.67,406.74,393.36,435.15,76.02,94.6,Scheme/Protocol TOA Time CPUcycles
+33,0,0,0,0,7,5,NAUQMW+CMR12,13.4,76.02,409.98,500.86,423.36,409.98,418.53,76.02,94.41,TV2I 10T +12T +1T 1.17ms 19.8 10
+33,0,0,0,1,4,16,VYYMPD+CMMI8,8.9,208.33,415.58,512.15,434.25,415.58,407.64,208.33,83.12,H XOR E 6
+33,0,0,0,0,8,5,NAUQMW+CMR12,13.4,76.02,426.59,507.42,439.97,426.59,401.92,76.02,87.86,LGKP 6T +2T +1T +2GT 38.61ms 37.68 10
+33,0,0,0,1,5,16,VYYMPD+CMMI8,8.9,201.78,432.19,518.7,450.86,432.19,391.03,201.78,76.57,H XOR E E 6
+33,0,0,0,0,7,5,NAUQMW+CMR12,13.4,76.02,443.21,513.97,456.59,443.21,385.3,76.02,81.31,PAFH 2T +6T +5GT 111.71ms 105.52 10
+33,0,0,0,1,4,16,VYYMPD+CMMI8,8.9,201.78,448.81,512.15,467.48,448.81,374.41,201.78,83.12,H XOR M 6
+33,0,0,0,0,7,5,NAUQMW+CMR12,13.4,76.02,459.82,507.42,473.2,459.82,368.69,76.02,87.86,LIAP T +3T +5GT 41.95ms 47.22 10
+33,0,0,0,1,4,16,VYYMPD+CMMI8,8.9,195.23,465.42,505.6,484.09,465.42,357.8,195.23,89.67,H XOR M 6
+33,0,0,0,0,7,5,NAUQMW+CMR12,13.4,76.02,476.43,500.86,489.81,476.43,352.08,76.02,94.41,2FLIP T +GT +T 1.74ms 4.28 10
+33,0,0,0,1,4,16,VYYMPD+CMMI8,8.9,195.23,482.03,518.7,500.7,482.03,341.19,195.23,76.57,E M H 6
+33,0,0,0,0,7,5,NAUQMW+CMR12,13.4,76.02,493.05,513.97,506.43,493.05,335.46,76.02,81.31,ABAKA T +7GT +2GT 114.66ms 112.86 10
+33,0,0,0,1,4,16,VYYMPD+CMMI8,8.9,195.23,498.65,494.69,517.32,498.65,324.57,195.23,100.59,H M A 6
+33,0,0,0,0,5,5,NAUQMW+CMR12,13.4,76.02,509.66,489.95,523.04,509.66,318.85,76.02,105.33,FKDP GT 1.38ms 3.6 10
+33,0,0,0,0,16,7,NAUQMW+CMR12,12.0,64.51,556.62,530.76,568.57,556.62,273.32,64.51,64.51,PEM protocol demands 2 T TOA that requires time of 316.14 s and 0.28 10 CPU
+33,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,571.07,530.76,583.02,571.07,258.87,64.51,64.52,cycles. Azeesetal. [6]protocolneedsT +2GT TOAthatrequiretimedurationof72.71
+33,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,160.4,576.07,319.59,592.35,576.07,249.54,160.4,275.68,H M6
+33,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,585.51,530.77,655.25,585.51,186.64,64.51,64.51,"msand65.50 10 CPUcycles. ItisapparentthatEAAPhasenormouslyhigherCPUcyclesthanthePEMprotocolduetoasymmetrickeycryptographyoperations.TheheaviercomputationrestrictstheservingcapacityofRSUs.Figures4-Aand4-BpresenttheservingcapacityofanRSUofEAAPandthePEMprotocolwhenthedensityofvehiclesandtheirspeedvary.Theservingcapacityiscomputedusingtheformulamentionedin[6],whichis"
+33,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,657.74,530.77,669.7,657.74,172.19,64.51,64.51,"C = . C ,p,T,r,sandddenotetheservingcapacity,theprobabilityofsending"
+34,0,0,0,0,5,9,NAUQMW+CMR12,11.0,73.95,278.12,521.35,398.15,278.12,443.74,73.95,73.93,Attributes VUAP Yingetal.[15] Wangetal.[11] Huangetal.[12](cid:88)(cid:55)(cid:88)(cid:55)Conditionalanonymity(cid:88)(cid:55)(cid:88)(cid:55)Unlinkability(cid:88)(cid:88)(cid:88)(cid:88)AuthenticationbytheVehicle(cid:88)(cid:55)(cid:88)(cid:55)Replayattack(cid:88)(cid:88)(cid:88)(cid:88)Masqueradingattack(cid:88)(cid:88)(cid:88)(cid:55)Passwordchangephase(cid:88)(cid:88)(cid:88)(cid:55)Passwordguessingattack(cid:88)(cid:55)LostsmartcardverierattackNANA
+34,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,416.8,530.77,558.77,416.8,283.12,64.51,64.51,"FromTable 7,itisapparentthat2FLIPsatis esmostoftheattributesincomparisonwithVUAP,but2FLIPrequires50%moreCPUcyclesthanVUAPregardingcomputationeciency.AlthoughLGKPandABAKAhavelessercomputationeciencythanVUAP,theydonotsatisfytheprivacyproperties(refTable7).Hence,theVUAPprotocoliscomputationecientandrobustregardingsecurityamongtheprotocolsthatpreservetheprivacyofvehicles.FromTable8,thecomputationeciencyofTV2IislesserthanFKDPandequaltotheprotocolof2FLIP.ButTV2Iismorerobustregardingsecurityandfunctionalityfeaturesincomparisonwithitscounterpart.Theprotocoldoesnotdependonamobilitypredictionmodelasin[23]and[22]becausetheprotocolsupportshandocapabilityforavehicle"
+34,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,183.69,560.13,429.36,568.1,560.13,273.79,183.69,165.91,th th th
+34,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,561.26,530.77,751.04,561.26,90.85,64.51,64.51,"withtwoRSUs((i 1) and(i+1) )whenmovingawayfromthei RSU.TheprotocolcanassuredetectabilitytotheDoSattackasitincludesthekeyconrmationstep.Theprotocolhas67%lesserCPUcyclesthanPAFHand70%thanLIAP.Hence,amongtheprotocolsthatsupporthandocapability,TV2Iismorecomputationecientandrobust,anditsupportsmorefunctionalattributes.PAFHandLIAPdemandamobilitypredictionmodel,whereasTV2Idoesnotrequireamobilitypredictionmodelbecausetheprotocolsupportsthehandocapability.TheprotocolcanassuredetectabilitytotheDoSattackasitincludesthekeyauthenticationstep.FromTable9,KV2VPismorerobustinsecuritythanFKDP.KV2VPiscomputationecientthanitscounterpart.Inanutshell,amongtheprotocolsthatsupporthandoau-thenticationandareasnotcoveredbyV2I,theproposedprotocolsarecomputationecientandrobustintermsofsecurityandoermorefunctionalattributes.32"
+35,0,0,0,0,8,21,NAUQMW+CMR12,7.4,70.89,133.57,524.39,333.58,133.57,508.31,70.89,70.88,Attributes TV2I Yingetal.[15] Zhouetal.[23] Lietal.[22] Wangetal.[11] Huangetal.[12] Parketal.[17](cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:55)Conditionalanonymity(cid:88)(cid:88)(cid:88)(cid:55)(cid:88)(cid:88)(cid:55)UnlinkabilityMutualentityauthentication(cid:88)(cid:88)(cid:88)(cid:88)(cid:55)(cid:88)(cid:55)(VehicleandKDC)Mutualentityauthentication(cid:88)(cid:88)(cid:88)(cid:88)(cid:55)(cid:55)(cid:55)(RSUandKDC)(cid:88)(cid:55)(cid:88)(cid:88)(cid:55)(cid:55)(cid:55)Explicitkeyauthentication(cid:88)(cid:88)(cid:55)(cid:55)(cid:88)(cid:88)(cid:88)Keyfreshness(cid:88)(cid:55)(cid:88)(cid:88)KeyintegrityNANANA(cid:88)(cid:88)(cid:55)(cid:55)(cid:88)(cid:88)(cid:88)Forwardsecrecy(cid:88)(cid:55)(cid:55)(cid:55)(cid:55)(cid:88)(cid:88)Known-keysecrecy(cid:88)(cid:88)(cid:88)(cid:88)(cid:55)(cid:88)(cid:55)Replayattack(cid:88)(cid:55)(cid:88)(cid:55)(cid:88)(cid:88)(cid:55)Masqueradingattack(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:55)MITMattack(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)(cid:88)DynamicRSUaddition(cid:88)(cid:55)(cid:88)(cid:88)(cid:55)(cid:55)(cid:55)Handosupport(cid:88)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:88)LBSIservicebyRSUIndependenceofamovementprediction(cid:88)(cid:55)(cid:55)modelNANANANA(cid:88)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)DetectabilitytoDoS
+35,0,0,0,1,2,7,NAUQMW+CMR12,12.0,160.76,500.67,388.78,512.62,500.67,329.27,160.76,206.5,(A) (B)
+36,0,0,0,0,4,8,NAUQMW+CMR12,11.7,74.61,133.89,520.69,320.63,133.89,521.26,74.61,74.59,Attributes KV2VP Parketal. [17](cid:88)(cid:88)Conditionalanonymity(cid:88)(cid:88)Unlinkability(cid:88)(cid:55)Mutualentityauthentication(AlicevehicleandBobvehicle)(cid:88)(cid:55)Explicitkeyauthentication(cid:88)(cid:88)Keyfreshness(cid:88)(cid:88)Keyintegrity(cid:88)(cid:88)Forwardsecrecy(cid:88)(cid:55)Known-keysecrecy(cid:88)(cid:88)Replayattack(cid:88)(cid:55)Masqueradingattack(cid:88)(cid:88)MITMattack(cid:88)(cid:55)DetectabilitytoDoS
+36,0,0,0,1,2,7,NAUQMW+CMR12,12.0,167.85,467.03,410.04,478.98,467.03,362.91,167.85,185.23,(A) (B)
+39,0,0,0,0,5,7,LNZLED+CMBX12,12.0,64.51,576.19,518.25,628.99,576.19,212.9,64.51,77.03,"Appendix A. SecurityProofsAppendixA.1.ProofofTV2I(Theorem1)WedenedgamesG,andSistheeventthatAwinsthegameG,where0 i 4."
+39,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,186.96,622.04,425.95,630.01,622.04,211.88,186.96,169.33,i i i
+39,0,0,0,0,4,7,LNZLED+CMBX12,12.0,64.51,645.93,530.76,657.88,645.93,184.01,64.51,64.51,GameG: Thegamespeci esthereal-worldattackagainstsemanticsecurityofP. After
+39,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,674.82,530.76,701.22,674.82,140.67,64.51,64.51,"saryissuesaTest(P)querytoanarbitrarysession(s.t. i session),whichisintheacceptstateandthefreshnessholds.Awinsthegameifitcanguessthebitbcorrectly.According"
+40,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,260.11,142.77,270.86,150.74,142.77,691.15,260.11,324.42,SS
+40,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,239.17,144.49,356.11,156.45,144.49,685.44,239.17,239.17,Adv =|Pr(S) |.
+40,0,0,0,1,1,19,FUDOLA+CMR8,8.0,259.69,149.5,321.63,158.63,149.5,683.26,259.69,273.65,0P
+40,0,0,0,0,8,7,NAUQMW+CMR12,12.0,64.51,188.4,529.9,200.35,188.4,641.54,64.51,65.37,"forMACs,i.e. . Ifthecollisionhappensfor , , , and ,AcanfakeKDC"
+40,0,0,0,0,5,19,FUDOLA+CMR8,8.0,148.72,193.4,433.64,202.51,193.4,639.38,148.72,161.64,1..5 1 2 4 53
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,202.84,530.76,214.8,202.84,627.09,64.51,64.51,"astheregisteredvehicle,KDC asthelegitimateRSU,theRSUfortheciphertext( ),"
+40,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,217.29,530.77,243.69,217.29,598.2,64.51,64.51,"KDC forthekeycon rmationandKDC forthelegitimateRSU,respectively. Accordingtothebirthdayparadox,thenumberofqueriestothehashtable(H)needstobeatleast"
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,87.39,248.86,311.22,260.82,248.86,581.07,87.39,284.06,. Weusethedi erencelemmatoshowthat
+40,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,229.42,283.52,365.85,295.48,283.52,546.41,229.42,229.42,|Pr[S] Pr[S]| .
+40,0,0,0,0,3,19,FUDOLA+CMR8,8.0,261.29,288.53,353.88,299.45,288.53,542.44,261.29,241.39,1 0 (cid:96)
+40,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,327.42,530.76,339.38,327.42,502.51,64.51,64.52,"texts( & ). Ifthecollisionhappensfor & intheE,Acanforcethevehicleand"
+40,0,0,0,1,4,19,VYYMPD+CMMI8,8.0,103.45,332.43,334.9,340.4,332.43,501.49,103.45,260.37,S R S R
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,341.87,530.76,353.83,341.87,488.06,64.51,64.51,"theRSUtodecrypt & ,respectively. Accordingtothebirthdayparadox,thenumber"
+40,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,175.02,346.88,209.77,354.85,346.88,487.04,175.02,385.5,S R
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,358.27,454.63,370.22,358.27,471.67,64.51,140.65,ofqueriestotheEmustbeatleast . Accordingtothedi erencelemma
+40,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,230.78,392.93,364.5,404.89,392.93,437.0,230.78,230.78,|Pr[S] Pr[S]| .
+40,0,0,0,0,16,7,LNZLED+CMBX12,12.0,64.51,422.39,530.76,434.34,422.39,407.55,64.51,64.52,"Game G: This game corresponds to the KKS of P, and it proceeds similarly to the"
+40,0,0,0,0,17,7,NAUQMW+CMR12,12.0,64.51,436.83,530.76,448.79,436.83,393.1,64.51,64.51,"previous game unless A identi es the current session key, GK . In this game, A asks"
+40,0,0,0,0,4,19,FUDOLA+CMR8,8.0,194.22,448.38,413.64,456.35,448.38,385.54,194.22,181.63,( i) ( i)
+40,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,451.28,530.76,463.23,451.28,378.66,64.51,64.51,Session statereveal(P )andSession keyreveal(P )withoutlosing
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,480.17,530.76,506.57,480.17,335.32,64.51,64.51,"thei sessiontoacquiresession-speci crandomvalues(S,Randr)andsessionkey(GK).Despitepossessingtheremainingsessionsecretsandsessionkeys,ArequireseitherSorR"
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,509.06,530.76,535.46,509.06,306.43,64.51,64.51,"ofthei sessiontoknowthei sessionkey. Otherwise,Aneedsthelong-termsecret(cid:15)andK,andthesession-specicsecrettoconstructthekey.TheadvantageofAinattaining"
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,537.95,530.76,549.91,537.95,291.98,64.51,64.51,"eitherSorRismax(Adv , )sinceboththevaluescanbeidenti edbyknowingthelong-"
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,552.4,530.76,564.35,552.4,277.54,64.51,64.51,"termsecrets(L andL )orreplacingS andRbyarandomnumber,whichisdrawn"
+40,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,143.74,557.4,212.03,565.37,557.4,276.52,143.74,383.24,VK RSU
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,566.84,530.76,578.8,566.84,263.09,64.51,64.51,"randomlyfromanuniformdistribution. TheadvantageofAforattainingthe ,K and(cid:15)"
+40,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,581.29,529.14,593.24,581.29,248.65,64.51,66.14,"are ,Adv andAdv ,respectively. Alternatively,Acanacquire(cid:15)byfeedingY =(cid:15) P"
+40,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,595.74,529.9,607.69,595.74,234.2,64.51,65.37,"toanECDLPsolver. Thesolveroutputs(cid:15)withanadvantageofAdv . Similarly,K"
+40,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,424.4,600.74,455.96,608.71,600.74,233.18,424.4,139.32,ECDLP
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,611.42,530.77,623.38,611.42,218.51,64.51,64.51,canbeacquiredbyqueryingEwiththeadvantageof . ThetotaladvantageofAinthis
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,285.47,662.74,459.97,674.69,662.74,167.2,285.47,135.31,1 1 q
+40,0,0,0,0,9,7,BNDSAH+CMSY10,12.0,84.45,670.83,490.9,682.78,670.83,159.11,84.45,104.37,"|Pr[S] Pr[S]| max{max(Adv , ),( +Adv ),(Adv + )}."
+40,0,0,0,0,5,19,FUDOLA+CMR8,8.0,116.31,675.83,437.49,683.8,675.83,158.09,116.31,157.79,3 2 sk sk ECDLP
+40,0,0,0,0,3,7,LNZLED+CMBX12,12.0,64.51,700.28,530.76,712.24,700.28,129.65,64.51,64.52,"GameG: ThisgamepresentstheanonymityandtheunlinkabilityoftheP,whichdi ers"
+40,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,714.73,530.76,751.04,714.73,90.85,64.51,64.51,"bythefactthatAtracesthevehicleandlinksitscommunication. Inthisgame, Aasks38"
+41,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,64.51,113.56,530.76,125.51,113.56,716.38,64.51,64.51,Session statereveal(P )withoutlosingthefreshnessofthesessiontoacquire
+41,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,129.31,530.77,155.71,129.31,686.18,64.51,64.51,"thesession-speci crandomvaluesexceptthei sessionvalues. Thatis,Aissuesthequerytoacquirerandoftheremainingsessions.AlthoughAholdsroftheremainingsessions,"
+41,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,158.2,530.77,170.16,158.2,671.73,64.51,64.51,itrequiresGK ofthe(i 1) sessiontocomputeSIDandlinkitscommunication. Given
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,174.27,530.77,186.23,174.27,655.66,64.51,64.51,"theSession statereveal(P )query,theremainingsessionkeyscanbecomputed"
+41,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,188.72,530.76,200.67,188.72,641.22,64.51,64.51,"byknowingK and(cid:15). K canbereplacedwiththeadvantageAdv ,and(cid:15)canbereplaced"
+41,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,136.7,193.72,412.32,201.69,193.72,640.2,136.7,182.95,c c sk
+41,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,203.16,530.76,215.12,203.16,626.77,64.51,64.51,intwoways: withtheadvantageAdv andAdv . TheadvantageofAinthisgame
+41,0,0,0,0,5,7,BNDSAH+CMSY10,12.0,183.72,258.46,391.63,270.41,258.46,571.48,183.72,203.65,|Pr[S] Pr[S]| Adv +Adv .
+41,0,0,0,0,4,19,FUDOLA+CMR8,8.0,215.59,263.46,386.7,271.43,263.46,570.46,215.59,208.58,4 3 sk ECDLP
+41,0,0,0,0,3,19,FUDOLA+CMR8,8.0,111.96,289.86,421.5,306.15,289.86,535.74,111.96,173.77,5 (i) (i)th
+41,0,0,0,0,5,7,NAUQMW+CMR12,12.0,71.02,299.3,530.76,311.26,299.3,530.63,71.02,64.52,esGK ofthei session.AasksCorrupt(P )andCorrupt(P )toacquire
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,315.74,530.77,327.7,315.74,514.19,64.51,64.51,"thelong-termsecrectsofthevehicleandtheRSUs(L andL ,respectively)."
+41,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,343.75,320.75,411.81,328.72,320.75,513.17,343.75,183.47,VK RSU
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,359.08,530.76,371.03,359.08,470.86,64.51,64.51,"queryRemover(P )atthevehicleandtheRSUs. AneedseitherSorR,"
+41,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,376.51,530.76,388.46,376.51,453.43,64.51,64.51,"or ofthei sessionand(cid:15)andK toacquireandcomputethekey,respectively. Acan"
+41,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,409.15,530.76,421.11,409.15,420.78,64.51,64.51,"toacquirethekeywithadvantage . Tocomputethekey,Acanreplace byarandom"
+41,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,423.6,530.77,435.55,423.6,406.34,64.51,64.51,numberchosenfromauniformdistributionwithadvantage . (cid:15)andK canbeacquired
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,438.04,530.77,450.0,438.04,391.89,64.51,64.51,withtheadvantageAdv andAdv .TheadvantageofAinthisgameisthemaximum
+41,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,454.44,530.77,466.4,454.44,375.49,64.51,64.51,"probabilityinoneofthethreeadvantages: , and +Adv +Adv . Applying"
+41,0,0,0,0,3,23,OXGNIZ+CMMI6,6.0,295.67,461.11,371.18,467.12,461.11,374.77,295.67,224.09,m k m
+41,0,0,0,0,3,19,FUDOLA+CMR8,8.0,291.43,461.78,364.65,469.77,461.78,372.12,291.43,230.63,2 2 2
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,261.73,493.64,322.39,505.59,493.64,336.3,261.73,272.88,1 q 1
+41,0,0,0,0,8,7,BNDSAH+CMSY10,12.0,121.84,501.73,453.5,513.68,501.73,328.21,121.84,141.77,"|Pr[S] Pr[S]| max{ , ,( +Adv +Adv )}."
+41,0,0,0,0,4,19,FUDOLA+CMR8,8.0,153.71,506.73,438.05,514.7,506.73,327.19,153.71,157.23,5 4 sk ECDLP
+41,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,531.18,496.14,543.14,531.18,298.75,64.51,99.14,"ThegameG isthe nalone,wheretheprobabilityofAinwinningtheeventS is,"
+41,0,0,0,0,6,19,FUDOLA+CMR8,8.0,176.28,623.11,427.19,631.08,623.11,210.81,176.28,168.09,0 5 0 1 1 2
+41,0,0,0,0,3,7,NAUQMW+CMR12,12.0,245.36,635.54,430.94,647.49,635.54,194.4,245.36,164.34,+Pr[S] Pr[S]+Pr[S] Pr[S]
+41,0,0,0,0,4,19,FUDOLA+CMR8,8.0,279.69,640.54,427.19,648.51,640.54,193.38,279.69,168.09,2 3 3 4
+41,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,214.15,670.41,430.94,682.36,670.41,159.53,214.15,164.34,|Pr[S] Pr[S]|+|Pr[S] Pr[S]|+
+41,0,0,0,0,4,19,FUDOLA+CMR8,8.0,246.01,675.41,408.12,683.38,675.41,158.51,246.01,187.16,0 1 1 2
+41,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,214.15,687.84,430.94,699.8,687.84,142.09,214.15,164.34,|Pr[S] Pr[S]|+|Pr[S] Pr[S]|+
+41,0,0,0,0,4,19,FUDOLA+CMR8,8.0,246.01,692.85,408.12,700.82,692.85,141.07,246.01,187.16,2 3 3 4
+42,0,0,0,0,3,19,FUDOLA+CMR8,8.0,239.84,135.22,347.48,143.19,135.22,698.7,239.84,247.79,0 5 0
+42,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,132.31,173.55,235.74,181.65,173.55,660.24,132.31,359.54,SS hash Enc
+42,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,111.36,175.41,249.19,187.36,175.41,654.53,111.36,346.08,Adv + +
+42,0,0,0,0,3,19,MJYXCG+CMSY8,8.0,131.88,181.57,230.44,191.33,181.57,650.56,131.88,364.84,P (cid:96) k
+42,0,0,0,0,3,7,NAUQMW+CMR12,12.0,267.31,197.07,441.81,209.02,197.07,632.87,267.31,153.46,1 1 q
+42,0,0,0,0,7,7,NAUQMW+CMR12,12.0,173.22,205.15,481.26,217.11,205.15,624.78,173.22,114.02,"max{max(Adv , ),( +Adv ),(Adv + )}+"
+42,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,247.84,210.16,419.33,218.13,210.16,623.76,247.84,175.94,sk sk ECDLP
+42,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,173.22,225.64,282.71,237.6,225.64,604.29,173.22,312.57,Adv +Adv +
+42,0,0,0,0,3,7,NAUQMW+CMR12,12.0,206.18,240.89,266.84,252.85,240.89,589.04,206.18,328.44,1 q 1
+42,0,0,0,0,6,7,NAUQMW+CMR12,12.0,173.22,248.98,397.95,260.94,248.98,580.95,173.22,197.32,"max{ , ,( +Adv +Adv )}."
+42,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,310.51,530.76,383.23,310.51,458.66,64.51,64.52,"Appendix A.2. CorrectnessProofofKV2VPWepresentthecorrectnessproofofStep6andStep11inKV2VP.Thestep6ispre-sentedinthelemmabelow.ProofofStep6(Lemma2):e(Cert,PKV+t.Y)e(P,Q).Itfollows:"
+42,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,82.07,385.72,234.56,397.68,385.72,444.21,82.07,360.72,"e(Cert ,PKV +t Y)"
+42,0,0,0,0,6,7,NAUQMW+CMR12,12.0,170.54,409.49,473.23,429.53,409.49,412.36,170.54,122.05,"1e( P,H(x (cid:107) (cid:107)ID) Q+t Q)"
+42,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,181.71,425.78,290.96,437.73,425.78,404.16,181.71,304.31,H(x (cid:107) (cid:107)ID) + t
+42,0,0,0,0,6,7,NAUQMW+CMR12,12.0,170.53,440.71,456.91,460.75,440.71,381.14,170.53,138.36,"1e( .P,(H(x (cid:107) (cid:107)ID) +t. ).Q)"
+42,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,181.71,457.0,290.96,468.95,457.0,372.94,181.71,304.31,H(x (cid:107) (cid:107)ID) + t
+42,0,0,0,0,6,7,GGAXSG+CMTI12,12.0,64.51,567.33,530.76,596.72,567.33,245.17,64.51,64.51,"Appendix A.3. ProofofKV2VPProofofTheorem3:WedenedgamesG,suchthati [0,5]. S istheeventthatA"
+42,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,260.11,715.4,270.86,723.37,715.4,118.52,260.11,324.42,SS
+42,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,239.17,717.12,356.11,729.07,717.12,112.82,239.17,239.17,Adv =|Pr(S) |.
+42,0,0,0,1,1,19,FUDOLA+CMR8,8.0,259.69,722.12,321.63,731.26,722.12,110.63,259.69,273.65,0P
+43,0,0,0,0,8,7,NAUQMW+CMR12,12.0,64.51,127.87,530.76,139.83,127.87,702.06,64.51,64.51,"i.e. , and . Ifthereisacollisionfor , and ,AcanforgeBobasanAlicefor"
+43,0,0,0,0,6,19,FUDOLA+CMR8,8.0,92.0,132.88,358.67,140.85,132.88,701.04,92.0,236.6,1 2 3 1 2 3
+43,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,173.23,530.77,185.18,173.23,656.71,64.51,64.51,queriestothehashtableHneedtobeatleast . Weusethedi erencelemmatoshow
+43,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,229.42,206.23,365.85,218.19,206.23,623.7,229.42,229.42,|Pr[S] Pr[S]| .
+43,0,0,0,0,4,7,LNZLED+CMBX12,12.0,64.51,230.21,530.76,242.16,230.21,599.73,64.51,64.51,GameG: Thisgameandthepreviousgameareidentical. Thisgamedi ersbythefact
+43,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,244.65,530.76,256.61,244.65,585.28,64.51,64.51,"thatAtriestoreplacethecipertext,{GK , ,ver }. Astheencryptionalgorithmholds"
+43,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,262.07,530.76,274.03,262.07,567.86,64.51,64.52,"IND-CPA,Aneedsatleast queriestotheEaccordingtothebirthdayparadox. Asper"
+43,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,230.78,309.52,364.5,321.48,309.52,520.41,230.78,230.78,|Pr[S] Pr[S]| .
+43,0,0,0,0,3,19,FUDOLA+CMR8,8.0,262.64,314.53,354.25,325.45,314.53,516.44,262.64,241.02,2 1 k
+43,0,0,0,0,5,19,FUDOLA+CMR8,8.0,113.24,338.5,462.21,353.01,338.5,488.88,113.24,133.06,3 ( i) ( i)
+43,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,347.94,530.77,359.9,347.94,481.99,64.51,64.51,thequeries: Session statereveal(P )andSession keyreveal(P )without
+43,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,363.69,530.76,375.65,363.69,466.24,64.51,64.52,violatingthefreshnessofthei session. Despitehavingremainingsessionkeysandsecrets
+43,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,378.14,530.77,404.54,378.14,437.35,64.51,64.51,"oftheothersessions,Arequiresaand ofthei session,whichischosenatrandomforeverysessionand,thelong-termsecretsx,x,andKtoknowGK.ButAdoesnot"
+43,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,280.9,397.59,364.02,405.56,397.59,436.33,280.9,231.26,A B c
+43,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,407.03,530.76,447.88,407.03,394.01,64.51,64.51,needallthesecretsatastretch. Theneedforthedi erentcombinationsofsecretsleadstothefollowingcases.Casei:AneedseithertheproductaH(x(cid:107)(cid:107)ID)orH(x(cid:107)(cid:107)ID)alone
+43,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,317.31,440.93,435.71,448.9,440.93,392.99,317.31,159.56,A B
+43,0,0,0,0,20,7,NAUQMW+CMR12,12.0,64.51,450.37,530.76,462.32,450.37,379.57,64.51,64.51,"to get GK . That is, knowing a H(x (cid:107) (cid:107) ID) or H(x (cid:107) (cid:107) ID), SK can be"
+43,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,276.04,455.37,396.83,463.34,455.37,378.55,276.04,198.45,A B
+43,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,464.81,530.77,476.77,464.81,365.12,64.51,64.51,computed. a H(x (cid:107) (cid:107)ID)orH(x (cid:107) (cid:107)ID)canbeobtainedifAemploysanECDLP
+43,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,159.15,469.82,263.77,477.79,469.82,364.1,159.15,331.51,A B
+43,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,479.26,530.77,491.21,479.26,350.68,64.51,64.51,"solverbyfeedingPKV orPKV ,respectively. Alternatively,H(x (cid:107) (cid:107)ID)or"
+43,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,182.26,484.26,460.62,492.3,484.26,349.59,182.26,134.65,Alice(i) Bob(i) A
+43,0,0,0,0,4,7,NJVWMM+CMMI12,12.0,64.51,493.7,530.77,505.66,493.7,336.23,64.51,64.51,H(x (cid:107) (cid:107)ID)canbeobtainedifAqueriesH. acanbereplacedwitharandomnumber.
+43,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,331.89,513.15,363.45,521.12,513.15,320.77,331.89,231.82,ECDLP
+43,0,0,0,0,4,7,NAUQMW+CMR12,12.0,87.39,524.61,530.77,536.57,524.61,305.32,87.39,64.51,". TheadvantagegainedbyAinreplacingtherandomnumberis . Therefore,the"
+43,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,213.84,539.64,287.0,549.38,539.64,292.51,213.84,308.27,q q 1
+43,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,542.9,358.52,554.86,542.9,287.03,64.51,236.76,"totaladvantageofAismax( , + ,Adv )."
+43,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,220.51,547.91,349.04,558.23,547.91,283.66,220.51,246.24,ECDLP2
+43,0,0,0,0,3,7,GGAXSG+CMTI12,12.0,64.51,557.35,530.77,583.75,557.35,258.14,64.51,64.51,"Caseii: AcanconvinceBobforthevalidityofitscerti cate(Step6)ifAsolvesECq-SDHP.AcaninjectitsownpublickeybyforgingCert.Similarly,Acanconvince"
+43,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,586.24,530.76,598.2,586.24,243.69,64.51,64.52,"Alice. TosolveECq-SDHP,AdeploysanECq-SDHPsolverbyfeedingCert . The"
+43,0,0,0,0,16,7,GGAXSG+CMTI12,12.0,64.51,615.13,530.77,641.53,615.13,200.36,64.51,64.51,"Case iii: A can compute SK if it solves ECDHP. For solving ECDHP, A employs asolverandgivesaPKVandPKV.TheadvantageofAfortheemploymentis"
+43,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,85.03,649.03,118.4,657.0,649.03,184.89,85.03,476.88,ECDHP
+43,0,0,0,0,7,7,GGAXSG+CMTI12,12.0,82.07,658.47,530.76,670.43,658.47,171.46,82.07,64.51,"Caseiv: AcanacquireGK ifitbreaksIND-CPAfor{ ,ver ,GK }SK. Forbreaking"
+43,0,0,0,0,14,7,NAUQMW+CMR12,12.0,64.51,675.89,530.77,687.84,675.89,154.05,64.51,64.51,"the indistinguishability, A needs at least queries to E as per the birthday paradox."
+43,0,0,0,0,8,7,GGAXSG+CMTI12,12.0,82.07,708.56,530.77,720.51,708.56,121.38,82.07,64.51,"Casev: AcanconstructGK ifitknowsi session ,K and . canbereplaced"
+44,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,113.43,530.76,125.38,113.43,716.51,64.51,64.51,withadvantage . K and canbereplacedbyarandomnumberthatisdrawnfromthe
+44,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,127.87,502.69,139.83,127.87,702.06,64.51,92.59,uniformdistributionwithadvantageAdv . ThetotaladvantageofAis( +Adv ).
+44,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,290.79,193.64,372.8,205.59,193.64,636.3,290.79,222.47,q q 1
+44,0,0,0,0,7,7,BNDSAH+CMSY10,12.0,127.14,201.72,446.22,213.68,201.72,628.21,127.14,149.06,"|Pr[S] Pr[S]| max{max{ , + ,Adv },"
+44,0,0,0,1,3,19,FUDOLA+CMR8,8.0,159.0,206.73,435.32,214.7,206.73,627.19,159.0,159.96,3 2 ECDLP
+44,0,0,0,0,6,7,NJVWMM+CMMI12,12.0,206.15,231.47,448.21,243.43,231.47,598.46,206.15,147.06,"Adv ,Adv , , +Adv }}."
+44,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,226.67,236.48,432.29,247.4,236.48,594.49,226.67,162.98,ECq SDHP ECDHP skmm
+44,0,0,0,0,4,19,FUDOLA+CMR8,8.0,113.58,265.93,410.46,280.44,265.93,561.45,113.58,184.82,4 3 ( i)
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,275.37,530.77,287.33,275.37,554.56,64.51,64.51,andlinktheircommunication.AissuesSession statereveal(P )withoutlosingthe
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,291.12,530.76,303.08,291.12,538.81,64.51,64.51,"freshnessofthei session. Thatis,Aissuesthequerytoremainingsessionstoacquirea"
+44,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,305.57,530.76,317.52,305.57,524.37,64.51,64.52,and ofallthesessionsexceptthei session. AlthoughAholdsthesession-speci csecrets
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,320.01,530.76,360.86,320.01,481.03,64.51,64.51,"ofvarioussessions,itrequires andxofanysessionandi sessiontoviolateanonymityandunlinkability.Therequirementgivestwocases:AcantargeteitherAliceorBob,oritcantargetboth."
+44,0,0,0,0,16,7,NJVWMM+CMMI12,12.0,64.51,363.35,530.77,433.09,363.35,408.8,64.51,64.51,"Case (i) : A issues Session state reveal(P ) to either Alice or Bob and getsremainingsession-specicsecrets.Inparticular,ifAliceistargeted,thentheremainingsession-specicsecretacanbeacquired.IfBobistargeted,thenthesecretcanbeacquiredbyA.ButAcantraceneitherAlicenorBobbyknowinganda.TotraceeitherAliceorBob,ismandatoryforA,whichcanbereplacedwithadvantageAdv,andxof"
+44,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,435.58,530.77,447.53,435.58,394.36,64.51,64.51,thei sessionandremainingsessionthatcanbereplacedwithadvantageAdv . Thetotal
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,450.03,235.12,461.98,450.03,379.91,64.51,360.16,advantageofAisAdv +Adv .
+44,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,178.86,455.03,336.17,471.31,455.03,370.58,178.86,259.1,sksk ( i)
+44,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,82.07,464.47,530.77,476.43,464.47,365.46,82.07,64.51,Case (ii):AissuesSession statereveal(P )tobothAliceandBob. AsAtargets
+44,0,0,0,0,7,7,NAUQMW+CMR12,12.0,64.51,507.81,530.76,519.76,507.81,322.13,64.51,64.51,canbereplacedwithadvantage2 Adv . ThetotaladvantageofAis2 Adv +Adv .
+44,0,0,0,0,7,7,BNDSAH+CMSY10,12.0,191.3,551.15,403.98,563.1,551.15,278.79,191.3,191.3,|Pr[S] Pr[S]| 3 Adv +2 Adv .
+44,0,0,0,0,4,19,FUDOLA+CMR8,8.0,223.16,556.15,500.0,578.77,556.15,263.12,223.16,95.28,4 3 sksk (i)
+44,0,0,0,0,16,7,LNZLED+CMBX12,12.0,64.51,573.69,530.76,585.65,573.69,256.24,64.51,64.52,Game G: This game presents the PFS of P. A can ask either Corrupt(P ) or
+44,0,0,0,0,15,7,NJVWMM+CMMI12,12.0,64.51,590.11,530.77,602.06,590.11,239.83,64.51,64.51,"Corrupt(P ) for obtaining the long-term secrects, namely x of Alice and x of Bob."
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,619.0,530.77,630.96,619.0,210.93,64.51,64.51,"sion.Thatis,ifCorrupt(P )isexecutedbyA,thenRemover(P )isexecutedtoexpire"
+44,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,201.35,625.54,468.74,640.29,625.54,201.6,201.35,126.54,Alice Bob th
+44,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,633.45,511.05,645.4,633.45,196.49,64.51,84.22,Bobandvice-versa. ThismeansthatAcan ndamatchingpartnerforthei session.
+44,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,82.07,647.89,530.76,659.85,647.89,182.04,82.07,64.51,Case (i):AissuesCorrupt(P )andobtainsx . ThoughAacquiresthelong-term
+44,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,245.3,654.12,530.27,669.18,654.12,172.71,245.3,65.01,Alice Ath th
+44,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,662.34,522.33,674.29,662.34,167.6,64.51,72.95,"secrect,itcannotobtainthekeyofi sessionbecauseAneedsa H(x (cid:107) (cid:107)ID)ofi"
+44,0,0,0,0,6,7,NAUQMW+CMR12,12.0,64.51,676.78,530.77,688.74,676.78,153.15,64.51,64.51,sessiontocomputeSK. Theadversarycangeta H(x (cid:107) (cid:107)ID)ifitsolvesECDLP. To
+44,0,0,0,0,3,7,NAUQMW+CMR12,12.0,64.51,691.23,530.76,703.18,691.23,138.71,64.51,64.51,"solveECDLP,AemploysanECDLPsolver,anditfeedsa.PKV . Thesolverouputs"
+44,0,0,0,0,5,7,NJVWMM+CMMI12,12.0,64.51,705.68,302.38,717.63,705.68,124.26,64.51,292.9,a H(x (cid:107) (cid:107)ID)withadvantageAdv .
+44,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,101.12,710.68,297.45,719.88,710.68,122.01,101.12,297.82,ECDLPA
+45,0,0,0,0,6,7,NJVWMM+CMMI12,12.0,82.07,113.56,530.76,125.51,113.56,716.38,82.07,64.52,"Case (ii):AissuesCorrupt(P )toobtainx . ThoughAacquiresx ,itcannot"
+45,0,0,0,0,18,7,NAUQMW+CMR12,12.0,64.51,128.01,530.76,139.96,128.01,701.93,64.51,64.51,obtain the key of i session because A needs H(x (cid:107) (cid:107) ID). H(x (cid:107) (cid:107) ID) can
+45,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,334.62,134.24,445.0,142.21,134.24,699.68,334.62,150.27,B B
+45,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,142.45,530.76,154.41,142.45,687.48,64.51,64.52,beattainedbyAintwoways: solvingECDLP andqueryingH. Theadvantageinthe
+45,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,158.92,530.76,170.87,158.92,671.02,64.51,64.51,"solvingandthequeryingareAdv and ,correspondingly. TheadvantageofAis"
+45,0,0,0,1,2,19,VYYMPD+CMMI8,8.0,236.2,163.92,308.68,174.25,163.92,667.64,236.2,286.59,ECDLP 2
+45,0,0,0,0,5,7,NAUQMW+CMR12,12.0,64.51,177.21,530.76,189.16,177.21,652.73,64.51,64.51,"max( ,Adv ). Accordingtothedi erencelemma,theadvantagegainedbyAin"
+45,0,0,0,1,1,19,VYYMPD+CMMI8,8.0,139.49,182.21,171.05,190.18,182.21,651.71,139.49,424.23,ECDLP
+45,0,0,0,0,6,7,BNDSAH+CMSY10,12.0,125.18,224.49,450.17,236.44,224.49,605.45,125.18,145.11,"|Pr[S] Pr[S]| max{Adv ,max( +Adv )}"
+45,0,0,0,0,4,19,FUDOLA+CMR8,8.0,157.05,229.49,437.96,240.42,229.49,601.47,157.05,157.32,5 4 ECDLP ECDLPl
+45,0,0,0,0,3,7,NAUQMW+CMR12,12.0,82.07,286.95,530.76,298.9,286.95,542.99,82.07,64.52,ItisapparentthatthewinningprobabilityofAinthelastgameis . Bythetriangular
+45,0,0,0,0,4,7,NAUQMW+CMR12,12.0,64.51,301.4,430.94,339.75,301.4,502.14,64.51,164.34,"inequality,wehave:|Pr[S] Pr[S]|=|Pr[S] Pr[S]+Pr[S] Pr[S]"
+45,0,0,0,0,6,19,FUDOLA+CMR8,8.0,176.28,332.8,427.19,340.77,332.8,501.12,176.28,168.09,0 5 0 1 1 2
+45,0,0,0,0,3,7,NAUQMW+CMR12,12.0,245.36,345.23,430.94,357.19,345.23,484.7,245.36,164.34,+Pr[S] Pr[S]+Pr[S] Pr[S]
+45,0,0,0,0,4,19,FUDOLA+CMR8,8.0,279.69,350.24,427.19,358.21,350.24,483.68,279.69,168.09,2 3 3 4
+45,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,214.15,380.1,430.94,392.06,380.1,449.83,214.15,164.34,|Pr[S] Pr[S]|+|Pr[S] Pr[S]|+
+45,0,0,0,0,4,19,FUDOLA+CMR8,8.0,246.01,385.11,408.12,393.08,385.11,448.81,246.01,187.16,0 1 1 2
+45,0,0,0,0,3,7,BNDSAH+CMSY10,12.0,214.15,397.54,430.94,409.49,397.54,432.4,214.15,164.34,|Pr[S] Pr[S]|+|Pr[S] Pr[S]|+
+45,0,0,0,0,4,19,FUDOLA+CMR8,8.0,246.01,402.54,408.12,410.51,402.54,431.38,246.01,187.16,2 3 3 4
+45,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,111.65,470.03,215.08,478.13,470.03,363.76,111.65,380.2,SS hash Enc
+45,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,90.7,471.88,228.53,483.84,471.88,358.05,90.7,366.74,Adv + +
+45,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,205.37,479.84,250.63,500.39,479.84,341.5,205.37,344.64,k 2 2
+45,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,209.28,493.55,291.3,505.5,493.55,336.39,209.28,303.98,q q 1
+45,0,0,0,0,7,7,NAUQMW+CMR12,12.0,152.56,501.63,502.58,513.59,501.63,328.3,152.56,92.69,"max{max{ , + ,Adv },Adv ,Adv ,"
+45,0,0,0,0,4,19,VYYMPD+CMMI8,8.0,322.25,506.64,497.65,514.61,506.64,327.28,322.25,97.62,ECDLP ECq SDHP ECDHP
+45,0,0,0,0,3,7,NJVWMM+CMMI12,12.0,176.1,531.38,265.26,543.34,531.38,298.55,176.1,330.01,", +Adv }}+"
+45,0,0,0,0,8,7,NAUQMW+CMR12,12.0,152.56,561.13,490.78,573.08,561.13,268.81,152.56,104.49,"3 Adv +2 Adv +max{Adv ,max( +Adv )}."
+45,0,0,0,0,3,19,VYYMPD+CMMI8,8.0,187.56,566.13,475.33,575.27,566.13,266.62,187.56,119.95,sk ECDLP ECDLPsk

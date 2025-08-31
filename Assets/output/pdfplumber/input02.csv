@@ -1,0 +1,340 @@
+page_number,is_bold,is_italic,is_underline,is_all_caps,word_count,norm_font_size,font,font_size,x0,y0,x1,y1,space_above,space_below,space_left,space_right,text
+1,0,0,0,0,4,8,JJNDYT+CharisSIL,7.0,95.86,186.09,399.53,193.48,186.09,600.22,95.86,195.75,"a b a, c"
+1,0,0,0,0,4,3,JJNDYT+CharisSIL,10.6,37.59,187.34,394.52,197.9,187.34,595.8,37.59,200.76,"PalakBagga ,AnilKumarSutrala ,AshokKumarDas ,PandiVijayakumar"
+1,0,0,0,1,3,4,JJNDYT+CharisSIL,9.0,37.59,246.57,267.75,255.57,246.57,538.13,37.59,327.52,ARTICLE INFO ABSTRACT
+1,0,0,0,1,1,9,JJNDYT+CharisSIL,6.4,37.59,327.25,59.55,333.62,327.25,460.08,37.59,535.73,AVISPA
+1,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,37.59,516.92,557.69,640.24,516.92,153.46,37.59,37.58,"( )/vehicles.The registersandauthenticateseveryotherentitythatparticipatesintheparadigm.TheincreaseinnumberofvehiclesinthepastyearshasbeenbothThesareplacedaftereveryspecifieddistancetomanagevehiclesbeneficialandharmfultotheworld.Increasevehiclesonroadshaveintheirscopeandcontroltheflowofinformationwithintheirzones.inflatedthenumberofaccidents,andwaittimeofthedriversandEachzoneofconsistsofsomevehiclesateveryinstance.spassengersduringtrafficjamsorblockedroads.However,atthesameandtrustedauthoritiesaregenerallyatfixedlocationwhereasvehiclestimeithasaddedtotheluxuryandeaseinlivingofpeople.Themovingdonothaveconstantlocationandarefreetomoveanywhereinthevehiclesontheroadsformaspecialtypeofmobileadhocnetwork,networkfromonezonetoanother[13].ThecommunicationcalledasVehicularAdHocNetwork(VANET).ThearchitectureofVANETisdesignedtoprovidebetterroadenvironment,trafficsafetybetweentheandcanbewired,whereasthevehiclesandandmaintainingtheprivacyofpassengersanddrivers.ThetraditionalcommunicatethroughwirelessmediumusingtheIEEE802.11parchitectureofVANETconsistsofa"
+3,1,0,0,1,1,5,IOTZDA+CharisSIL-Bold,8.0,57.51,134.05,67.83,142.02,134.05,651.68,57.51,527.44,TA
+3,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,57.51,144.27,557.69,209.94,144.27,583.76,57.51,37.59,"( ) whichareresponsibletomanagetheirassigneddeploymentareasinacity.Eachhasvariousresponsibilitiesthatinclude Themainresearchcontributionsaregivenbelow.registeringsandvehiclesthatareinitsscopebeforedeploy-ingtheminthenetworkandinitializingthemwiththesystemIntheproposedscheme(BBAS-IoV),wehavetwotypesofauthen-parameters.alsoformsanddeliverscertificatesconsistingofticationmechanisms:(a)vehicletovehicle(V2V)authenticationidentity,publickey,privatekeytoeachvehicleandalls.allowsavehicletoauthenticateitsneighborvehiclesinitscluster"
+3,1,0,0,1,1,5,IOTZDA+CharisSIL-Bold,8.0,57.51,206.73,73.21,214.7,206.73,579.0,57.51,522.07,RSU
+3,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,57.51,206.7,557.69,286.37,206.7,507.33,57.51,37.58,":Acityconsistsofmultiple s.An isresponsible and(b)batchauthenticationpermitsagroupofclustervehiclestoauthenticatethemessagesflownbyvehicleswithinitsgrouptobeauthenticatedbytheir.Attheend,agroupkeyisorclusterwhichisdynamicallyformedwithasetofmovingestablishedamongthevehiclesandintheircluster.vehicles.Likes,analsomanagesallthevehicles,andgatherssecurelydatafromitsvehiclesandformseveraltrans-authenticatesthevehiclesunderitsscope.InthedesignedBBAS-actionsincludingtheinformationofvehiclesanditsowngivenIoV,anreceivesthemessagesfromallthevehiclesinitsinformationtotheclustermembervehicles.Thetransactionsareclusterandauthenticatesthemtogetherinabatch.formedlaterbythenearbyfogserverassociatedwithand"
+3,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,57.51,362.37,557.69,427.89,362.37,365.81,57.51,37.59,":Oneormore sareconnectedwithafogserver, algorithms.say,whichreceivesapartialblockcontainingalistoftrans-TheproposedBBAS-IoVsupportsdynamicvehiclesand sactionsandtheircompactsignature.Uponreceiving,thelistofadditionafterinitialdeployment.transactionsandtheircompactsignature,itverifiestheattachedAcomprehensivesecurityanalysisthroughtheformalsecuritysignatureandifthesignatureisvalid,thenforwardstheanalysisunderthewidely-usedReal-Or-Random(ROR)oraclepartialblocktoacloudserverintheblockchaincenter.model[29],non-mathematical(informal)securityanalysisand"
+3,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,57.51,424.98,557.69,504.18,424.98,289.52,57.51,37.59,":Uponreceivingthepartialblocksfromitsre- formalsecurityverificationusingthebroadly-accepted Auto-spectivefogserver(s),acloudserver,say,convertsthematedValidationofInternetSecurityProtocolsandApplicationspartialblocktoitsfullblock.Afterthat,thefullblockismined(AVISPA)[30]softwaretoolrevealsthatBBAS-IoVcanresiststhroughthevotingbasedconsensusalgorithm,whichisbasedvariouspotentialattacksagainstpassive/activeadversaries.onthewidely-usedPracticalByzantineFaultTolerance(PBFT)Weevaluatevariouscryptographicprimitivesusingthebroadly-consensusalgorithm[26].acceptedMultiprecisionIntegerandRationalArithmeticCrypto-graphicLibrary(MIRACL)[31]fortheirexecutiontimeundera"
+3,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,620.57,557.69,742.02,620.57,51.68,37.59,37.59,"totamperanymessageforownbenefit.The sareassumedtobesemi-trusted,whereasthevehiclesareequippedwithtamper-resistant Theremainderofthepaperissketchedasfollows.Thenextsectiononboardunits()wherethesecretcredentialsarestored.Further-givesanoverviewoftheexistingschemesrelevanttoanIoVenviron-more,itisassumedthattheswillstorethesecretcredentialsinment.InSection3,thedetaileddiscussiononvariousphasesrelatedtotheirsecurememory(database)sothatthestolenverifierattackisnotourscheme(BBAS-IoV)isprovided.Whilethecorrectnessproof,formalpossibleby.andinformalsecurityanalysisoftheproposedBBAS-IoVareprovidedAnothermodel,knownastheCanettiandKrawczyksadversaryinSection4,theformalsecurityverificationofBBAS-IoVisshowninmodel(CK-adversarymodel)[28]hasbeenalsoconsidered.IthasSection5.TheexperimentalresultsusingMIRACLprovidedinSection6becomeacurrentdefactostandardmodelinmodelingauthenticatedareusedinthecomparativeanalysisinSection7.Section8provideskey-exchangeprotocols.TheCK-adversarymodelisquitesimilartotheblockchainimplementationoftheproposedBBAS-IoV.Finally,thetheDYthreatmodelwiththeadditionalfeatureswhereintheadver-sarycannotonlysendthemessages,butalsocancompromisethepaperisconcludedinSection9."
+8,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,37.59,58.99,511.22,70.7,58.99,723.0,37.59,84.06,1Notationsandtheirmeanings. 2 3 3 2
+8,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,330.51,65.95,557.69,73.99,65.95,719.71,330.51,37.59,form: = + + (mod )suchthat4 +27 0(mod ).
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,330.51,76.53,557.69,84.5,76.53,709.2,330.51,37.59,"Next,the picksanadditivegroup withpointatinfinity"
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,334.48,97.55,557.69,105.52,97.55,688.18,334.48,37.59,.Itselects asarandomly-chosengeneratorof and as
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,330.51,108.06,557.69,116.03,108.06,677.67,330.51,37.59,abilinearmapping : withthefollowingthree
+8,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,132.49,111.55,464.83,118.67,111.55,675.03,132.49,130.44,thclusterofvehiclesof 1 1 2
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,473.56,135.19,499.89,143.23,135.19,650.47,473.56,95.39,", ( +"
+8,0,1,0,0,4,5,ESLNAJ+STIXMath-Italic,8.0,362.87,145.42,480.84,153.39,145.42,640.31,362.87,114.44,", , , ,"
+8,0,0,0,0,8,5,GXLRMS+STIXMath-Regular,8.0,353.99,145.7,557.68,153.74,145.7,639.96,353.99,37.59,"( )and ( + )= ( )( ).Ingeneral,forall"
+8,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,438.29,169.07,549.81,177.1,169.07,616.6,438.29,45.46,") 1 forall ,where1"
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,324.3,217.99,510.27,226.02,217.99,567.68,324.3,85.0,": thenrandomlyselects , {0"
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,330.52,239.01,557.69,247.05,239.01,546.65,330.52,37.59,"itspublickeyas = ,where denotes"
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,330.52,249.59,525.45,257.56,249.59,536.14,330.52,69.83,the ellipticcurvepoint(scalar)multiplication with
+8,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,50.32,263.72,206.11,270.1,263.72,523.6,50.32,389.16,", , Randomnonceschosenby"
+8,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,330.52,270.55,393.28,278.58,270.55,515.12,330.52,202.0,= + + + .
+8,0,1,0,0,3,9,ESLNAJ+STIXMath-Italic,6.4,51.87,281.48,87.51,287.86,281.48,505.84,51.87,507.77,", , ,"
+8,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,45.8,281.7,189.62,288.13,281.7,505.57,45.8,405.66,() () () Securecryptographic
+8,0,0,0,0,3,12,GXLRMS+STIXMath-Regular,4.5,47.69,293.36,83.96,297.82,293.36,495.88,47.69,511.31,2 3 4
+8,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,324.3,294.67,557.69,302.64,294.67,491.06,324.3,37.59,":Further, selects six one-way collision-resistant crypto-"
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,330.52,305.12,482.72,313.15,305.12,480.55,330.52,112.55,graphichashfunctions definedby :{0
+8,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,129.04,308.19,554.96,314.64,308.19,479.06,129.04,40.32,and respectively 0 4
+8,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,330.52,315.63,557.69,323.66,315.63,470.04,330.52,37.59,"{01} , : , :{01} , :"
+8,0,0,0,0,9,9,GXLRMS+STIXMath-Regular,6.4,77.7,316.7,554.96,331.7,316.7,462.0,77.7,40.32,() Signaturegenerationalgorithmintheelliptic 1 1 1 1 2 1 3curvedigitalsignaturealgorithm(ECDSA)
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,324.3,338.99,475.22,347.03,338.99,446.67,324.3,120.05,":Finally, publicly publishes {"
+8,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,484.56,338.72,515.4,346.69,338.72,447.02,484.56,79.87,", ,, ,"
+8,0,0,0,0,6,9,GXLRMS+STIXMath-Regular,6.4,51.8,342.41,496.72,348.83,342.41,444.87,51.8,98.56,() () ECC-basedpublickeyencryption/decryptionfunction 4 1 2
+8,0,1,0,0,6,5,ESLNAJ+STIXMath-Italic,8.0,356.2,349.23,459.11,357.2,349.23,436.5,356.2,136.17,", , , , , ,"
+8,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,364.11,349.51,557.69,357.54,349.51,436.16,364.11,37.59,() () () () () ()}asthesystemparam-
+8,0,0,0,0,8,9,GXLRMS+STIXMath-Regular,6.4,51.84,350.97,470.38,365.97,350.97,427.73,51.84,124.89,() () Symmetrickeyencryption/decryptionfunction 0 1 2 3 4Maximumtransmissiondelay
+8,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,37.59,452.38,492.31,464.34,452.38,329.36,37.59,102.97,"describedinTable2. Suppose managesagroupofvehicles , ,"
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,462.48,557.69,485.3,462.48,308.4,37.59,37.59,"Toprotectthereplayattacksagainstanadversary,weapplythe toaparticularregionofasmartcity. registerseachvehicle ,systemcurrenttimestamps.Forthisgoal,itisanassumptionthat(=1"
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,553.36,557.69,587.59,553.36,206.11,37.59,37.59,"alongwiththe directionfordynamicclustering.Afterthatacluster oftheregionofthesmartcity.Itthencalculatespseudoheadmaybepickedamongtheavailableclustermembersbasedonidentitycorrespondingtoitsuniqueidentityby=variousmetrics,suchasconnectivitydegree,averagespeedand()."
+8,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,37.59,583.66,557.69,601.73,583.66,191.97,37.59,37.58,timetoleavetheroadintersection.Theyalsopointedoutthatthe : choosesarandomkey forvehicle .Itthencal-clustermemberswithsimilarmobilitypatterncanlaterreconnectwith
+8,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,37.59,602.13,557.51,611.83,602.13,181.87,37.59,37.76,culatesthepublickeycorrespondingto as = ( ).theclusterheadafterpassinganintersectionofthelane.Their
+8,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,613.95,557.69,623.53,613.95,170.17,37.59,37.59,simulationstudyshowedthattheclusterformationstagewasefficient. : alsocomputesthepartialprivatekeypairforeachvehicle
+8,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,37.59,624.05,519.93,634.05,624.05,159.66,37.59,75.35,"Hence,weconsiderherethedynamicclustersasitwasthecasein[50] as = and = ."
+8,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,634.15,557.69,647.42,634.15,146.29,37.59,37.59,"becausetheclustersaredynamicallyformed. :Next, generatesarandomsecret andcomputes"
+8,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,37.59,644.25,535.11,678.95,644.25,114.75,37.59,60.17,"VariousphasesassociatedwiththeproposedBBAS-IoVareelabo- = for .Further, computesacertificateratedinthesubsectionsbelow.forvehicleas=+()(mod)."
+8,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,324.3,681.43,557.69,689.46,681.43,104.24,324.3,37.59,": loadsthecredentials{ , , ,( , ),"
+8,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,49.54,691.94,557.69,701.63,691.94,92.08,49.54,37.59,", (), (), (), (), (), ()}inthetamper-ThisphaseisperformedbyallthefullytrustedTAs()toset"
+8,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,383.53,695.49,486.15,701.47,695.49,92.24,383.53,109.12,0 1 2 3 4
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,55.51,288.67,63.48,55.51,730.22,55.28,306.6,": choosesarandomprivatekey ,computesthe"
+9,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,61.5,65.46,557.69,83.44,65.46,710.26,61.5,37.59,"=correspondingpublickey ,andsetsitsprivatekey InV2Vauthentication,ifanyvehicle receivesthebroadcasted{"
+9,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,61.5,75.47,557.69,84.28,75.47,709.42,61.5,37.59,")}as.Finally,thetamper-resistant of hellomessage fromitsneighbor ,itauthenticatesand"
+9,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,61.5,85.48,557.68,95.57,85.48,698.13,61.5,37.59,"{ ( )containstheinformation,,,,,, verifiesthesignaturereceivedinthemessage.Thefollowingstepsare"
+9,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,81.62,95.49,393.49,105.97,95.49,687.73,81.62,201.79,"() () () () () ()},,,,,,,. performedinthisphase:"
+9,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,133.57,99.04,228.24,105.02,99.04,688.68,133.57,367.04,0 1 2 3 4
+9,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,324.3,114.61,557.69,122.65,114.61,671.05,324.3,37.59,":Suppose receivesahellomessage ={ , ,"
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,67.9,124.71,557.69,133.94,124.71,659.76,67.9,37.59,"isalsoresponsibletoregisteralltheRSUsthatareunderits , }fromitsneighborvehicle .Afterreceptionof"
+9,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,37.59,134.72,557.69,169.46,134.72,624.24,37.59,37.58,"region. registersan ,say whichfallsunderaregionof attime , firstverifiesthereceivedtimestampthesmartcitybyexecutingfollowingsteps.bythecondition:,whereisthe||maximumtransmissiondelayassociatedwithamessage.Ifthe:generatesarandomuniqueidentityforan"
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,61.5,169.35,557.69,189.48,169.35,604.22,61.5,37.59,"timestampisvalid, furthervalidatesthecertificate ofandcalculatespseudoidentitycorrespondingtoitsattachedinthemessagebythecondition:=+=()uniqueidentityby."
+9,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,55.28,190.08,557.68,201.99,190.08,591.71,55.28,37.59,"( ) .Ifthecertificateislegitimate,thenext:choosesarandomkeyandcalculatesits"
+9,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,88.41,222.88,515.21,234.45,222.88,559.25,88.41,80.06,: computes = ( )and = (=
+9,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,320.81,226.43,512.06,232.41,226.43,561.3,320.81,83.22,2 2 2 3 3
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,83.78,243.67,453.3,254.54,243.67,539.16,83.78,141.97,tocompute = ( ).(mod).
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,257.11,557.69,267.05,257.11,526.65,55.28,37.58,": verifiesthesignature byusingbilinearpairingthrough:thenloadsthecredentials{,,,"
+9,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,122.44,272.57,219.64,278.55,272.57,515.15,122.44,375.64,0 1 2 3 4
+9,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,334.06,283.68,522.53,291.65,283.68,502.05,334.06,72.75,( )= ( + ( + ))
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,61.5,289.11,288.67,297.08,289.11,496.62,61.5,306.61,"addition, alsodeletestheprivatekey inorderto"
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,309.9,288.67,317.87,309.9,475.83,55.28,306.6,": choosesarandom andsetsitasitssecretkey,"
+9,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,121.18,343.43,215.85,349.4,343.43,444.3,121.18,379.43,0 1 2 3 4
+9,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,49.54,378.64,288.67,386.61,378.64,407.09,49.54,306.6,"Assumethatacluster has vehicles,say , , andtheir"
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,49.54,408.68,288.67,416.65,408.68,377.05,49.54,306.6,"Thisphaseisperformedbyallthevehicles , , ofthe"
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,438.72,557.69,463.26,438.72,330.44,37.59,37.59,"twopurposesbyexecutingthisphase.First,eachvehicleinthecluster vehiclesbroadcasttheirhellomessages, receives signaturesknowsaboutthefellowvehiclesofthesamecluster.Secondly,afterfromvehicles,,"
+9,0,0,0,0,10,5,JJNDYT+CharisSIL,8.0,37.59,465.68,557.69,476.72,465.68,316.98,37.59,37.59,"receivedby are , , , on , , , fromauthenticatesthevehiclesinabatchbeforereceivinganytrafficrelated"
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,476.08,402.65,486.74,476.08,306.96,37.59,192.62,", , , ,respectively.informationfromthem.Wedescribeauthenticationinthenextsection."
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,61.5,557.6,557.69,567.17,557.6,226.53,61.5,37.59,":Toverifyallthesignatures, choosesrandom , ,freshrandomnoncesas,.Itcomputes="
+9,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,320.81,561.08,554.96,567.06,561.08,226.64,320.81,40.32,2 1 2
+9,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,61.5,578.33,557.69,587.19,578.33,206.51,61.5,37.59,"( )and = ( ).Furthermore,putes=()and=()."
+9,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,87.88,581.87,437.05,588.68,581.87,205.02,87.88,158.23,2 3 32233
+9,0,0,0,0,3,11,GXLRMS+STIXMath-Regular,5.0,159.45,584.15,502.98,589.96,584.15,203.74,159.45,92.29,1 1 2112
+9,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,61.5,589.23,557.69,608.13,589.23,185.57,61.5,37.59,"Then,itusesthepublicparameter publishedby to itusesthepublicparameter publishedby tocomputecompute=().Afterthesecomputations,itfinally=()."
+9,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,61.5,609.19,288.67,617.23,609.19,176.47,61.5,306.6,generatesasignature on as =( + )( +
+9,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,78.45,619.21,172.25,627.24,619.21,166.46,78.45,423.03,)+( + ) .
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,632.58,288.67,640.61,632.58,153.09,55.28,306.6,":Lastly,vehicle broadcaststhehellomessage ="
+9,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,61.5,645.16,336.72,653.25,645.16,140.45,61.5,258.56,"{ , , , }toitsclustermembersincluding ("
+9,0,0,0,0,3,11,GXLRMS+STIXMath-Regular,5.0,102.52,650.98,490.38,656.02,650.98,137.68,102.52,104.89,1 2 1
+9,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,406.75,664.71,496.81,672.68,664.71,121.02,406.75,98.46,+ ( + )])
+9,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,704.01,468.76,713.26,704.01,80.44,37.59,126.51,vehicletovehicle(V2V)authenticationthatisbetweentwovehiclesof + ])
+9,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,714.02,557.69,739.96,714.02,53.74,37.59,37.59,"thesamecluster,and(b)vehicleto (V2RSU)authenticationthat Iftheverificationissuccessful, considersallitsmembersisperformedbetweenavehicleanditsinacluster.Thefollowing,,"
+10,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,324.3,641.61,557.69,649.58,641.61,144.12,324.3,37.59,": initiallygeneratesarandomnonce ,arandom"
+10,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,330.51,653.03,557.69,672.42,653.03,121.28,330.51,37.59,"secretkey andthecurrenttimestampvalueas ,andcomputespublic="
+10,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,664.45,557.69,686.8,664.45,106.9,37.59,37.59,".Theabovedescribedbatchauthenticationphaseallowsto:thenderivesthegroupkey forthevehicles ,verifyallthemembersofthegroupsimultaneously.Afterallthe"
+10,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,699.79,557.68,730.98,699.79,62.73,37.59,37.59,"privatekey ,thegeneratedrandomsecretkey andotherkeyforthevehiclesthataremembersofthecluster.Thegroupinformationreceivedfromitsclustermembers(vehicles)askeyissharedwithallthevehiclesofthegroupandwhichisthenusedforfurthercommunicationinthenetwork.Thestepsto=("
+10,0,0,0,0,5,11,GXLRMS+STIXMath-Regular,5.0,388.87,728.39,556.69,733.37,728.39,60.33,388.87,38.58,1 2 1 2 1
+10,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,733.99,539.33,742.02,733.99,51.68,37.59,55.95,generateagroupkey executedby areasfollows. ).
+11,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,55.28,55.51,557.69,63.48,55.51,730.22,55.28,37.59,: furthercomputestheencryptedgroupkeyforalllegiti- Eachvehicle inacluster sendstheencryptedtransactions
+11,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,61.5,65.74,557.68,74.14,65.74,719.56,61.5,37.59,matevehiclesofthecluster usingeachvehiclespublickey [ ]securelytoits bymeansofencrypt-
+11,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,220.33,87.78,288.67,95.75,87.78,697.95,220.33,306.6,", , ,"
+11,0,1,0,0,5,5,ESLNAJ+STIXMath-Italic,8.0,88.46,98.44,192.85,106.41,98.44,687.29,88.46,402.42,", , , , ,"
+11,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,87.82,98.72,557.69,118.05,98.72,675.65,87.82,37.58,( encryptedtransactions [ ]securelytoitscluster)}andthesignatureonforas=+
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,66.1,117.27,557.69,128.65,117.27,665.05,66.1,37.59,membervehicles byencrypting usingtheAES-128()
+11,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,326.53,148.81,557.69,156.84,148.81,636.86,326.53,37.59,"Next, decryptstheencryptedtransactions [ ]"
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,155.44,288.67,163.41,155.44,630.29,55.28,306.61,":Whenavehicle receivesthemessage ,itfirstchecks"
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,61.5,159.17,557.69,177.43,159.17,616.27,61.5,37.59,receivedfromitsmembervehicles usingthegroupkey tothevalidityofthereceivedtimestampbytheconditionobtain=[[]].
+11,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,61.5,176.76,557.69,195.4,176.76,598.3,61.5,37.59,",where denotesthereceived|| Assumethat createsapooloftransactions,say ,wheretimeofthemessage.Ifitisvalid,checksthevalid-"
+11,0,0,0,0,8,5,JJNDYT+CharisSIL,8.0,61.5,198.03,557.69,227.39,198.03,566.32,61.5,37.59,"ityofthecertificate of by = + using transactions fromthetransactionspool.Forthispur-().Uponsuccessfulverificationofpose,generatesacompactsignatureonthesetransactions,alsochecksthevalidityofthesignature"
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,326.53,234.23,456.54,242.27,234.23,551.44,326.53,138.74,itsprivatekey as =
+11,0,1,0,0,7,5,ESLNAJ+STIXMath-Italic,8.0,330.52,244.44,514.87,252.41,244.44,541.29,330.52,80.41,", , , , , , ,"
+11,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,55.28,244.72,557.69,280.74,244.72,512.96,55.28,37.59,"12 }]. thensends { =12 } to|Ifthesignatureisvalid,considersaslegitimateanditsnearbyfogserver,sayforminingpurposeinthepublicproceedstothenextstep.blockchain.Notethatwedonotrequireheretosendencrypted:extractsthegroupkeybydecryptingtheencryptedgroup"
+11,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,451.49,496.46,473.4,504.43,496.46,289.27,451.49,121.87,", , ,"
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,49.54,496.74,557.69,507.34,496.74,286.36,49.54,37.59,"transactions{ =12 }storedintheblockWeconsiderthefollowingtwotypesoftransactions(,|"
+11,0,0,0,0,8,5,GXLRMS+STIXMath-Regular,8.0,113.62,563.69,429.34,574.21,563.69,219.49,113.62,165.94,"[ , , , ]}, where transactions,{ =1"
+11,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,57.51,621.04,557.69,650.33,621.04,143.37,57.51,37.59,":Thiskindof ByzantineFaultTolerance(PBFT)consensusalgorithm [26].Wetransactionhasthefollowingformat.assumethattheeachcloudserverhasitsownECC-based={,,,,"
+11,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,111.38,645.66,557.69,660.93,645.66,132.77,111.38,37.58,"privatepublickeyspair( , = ),where="
+11,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,37.59,652.96,557.69,742.02,652.96,51.68,37.59,37.59,"[ , , istheprivatekeyand ismadepublicto,]},where,,,allothercloudserversintheP2PCSnetwork.Atfirst,aleader,andrepresentthepseudoidentityof,sayisselectedamongagroupofPeer-to-Peer(P2P)cloudtransactioncreationtime,information(data),publickeyofserversnetworkintheblockchaincenterusingtheexistingleaderandsignatureusingtheECDSAsignaturegenerationalgorithmselectionalgorithmprovidedin[63].latersendstheblockwiththehelpoftheprivatekeyof,respectively.toitspeernodes.Next,viablockverificationtheblockiscommittedandaddedinthepublicblockchain.Inordertocreateablock,andthentoverifyandaddthatblockintheblockchain,thefollowingstepsareexecuted:"
+12,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,306.6,54.98,557.69,73.41,54.98,720.29,306.6,37.59,Consensus for block verification and addition inblockchain
+12,0,1,0,0,5,7,ESLNAJ+STIXMath-Italic,7.2,433.18,75.32,557.69,82.49,75.32,711.21,433.18,37.59,", , , , ,"
+12,0,0,0,0,4,7,RWVPXA+STIXMathExtensions-Regular,7.2,319.23,87.25,557.69,111.5,87.25,682.21,319.23,37.59,| = )ofallothercloudservers intheP2PCSnetwork;:numberoffaultycloudservers(nodes)intheP2PCSnetwork.
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,309.17,134.45,535.21,160.75,134.45,632.95,309.17,60.07,"1: generatesarandomnumber ,acurrenttimestampandavotingrequest.2:"
+12,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,88.16,159.41,261.76,165.79,159.41,627.91,88.16,333.51,"Structureofapartialblock, byafogserver ."
+12,0,0,0,0,5,7,JJNDYT+CharisSIL,7.2,309.17,163.14,557.69,189.39,163.14,604.32,309.17,37.59,"3: encrypts , and usingtheECC-basedencryptionalgorithmwiththehelpofthepublickeyofas=["
+12,0,0,0,0,4,7,JJNDYT+CharisSIL,7.2,309.17,258.78,557.69,275.46,258.78,518.24,309.17,37.59,9: decrypts usingitsownprivatekey toretrieve[
+12,0,0,0,0,3,7,GXLRMS+STIXMath-Regular,7.2,306.6,268.29,479.5,285.08,268.29,508.62,306.6,115.77,]= [ ].10:
+12,0,0,0,0,4,7,JJNDYT+CharisSIL,7.2,306.6,287.48,557.69,313.78,287.48,479.92,306.6,37.59,and on the block.12:
+12,0,0,0,0,9,7,JJNDYT+CharisSIL,7.2,306.6,316.17,557.69,323.34,316.17,470.36,306.6,37.59,13: sends a voting response cum block verification sta-
+12,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,88.19,318.58,261.73,324.96,318.58,468.74,88.19,333.54,"Structureofafullblock, byacloudserver ."
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,350.68,325.67,557.69,352.03,325.67,441.67,350.68,37.59,"tusmessage{ [ ]}totheleader,whereandarethevotingresponsecorrespondingtoandblockverificationstatus,"
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,306.6,402.19,557.69,409.42,402.19,384.28,306.6,37.59,"18:Initialize =0,where representsthenumberofvalidvotes."
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,306.6,440.5,557.69,447.68,440.5,346.03,306.6,37.59,20: decryptsthemessageusingitsownprivatekey tore-
+12,0,0,0,0,3,7,GXLRMS+STIXMath-Regular,7.2,437.63,450.01,507.36,457.18,450.01,336.52,437.63,87.92,]= [ [
+12,0,0,0,0,7,7,JJNDYT+CharisSIL,7.2,336.5,469.14,557.69,476.37,469.14,317.33,336.5,37.59,(( = )and( = )and( = ))
+12,0,0,0,0,4,7,JJNDYT+CharisSIL,7.2,306.6,488.26,418.4,495.5,488.26,298.21,306.6,176.88,22: Set = +1.
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,327.81,516.96,401.36,524.19,516.96,269.51,327.81,193.92,( 2 +1)
+12,0,0,0,0,3,7,JJNDYT+CharisSIL,7.2,306.6,526.58,509.47,543.32,526.58,250.38,306.6,85.81,26: Addtheblock totheblockchain.27:BroadcastcommitmentmessagetotheP2PCSnetwork.
+13,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,172.84,557.69,220.93,172.84,572.77,37.59,37.58,"Supposeanewvehicle wishestojointhenetworkthatismanagedby.Thestepsinvolvedinthephasearedescribedas Inthissection,weprovidethecorrectnessproofofourV2Vau-follows.thenticationandbatchauthenticationphasesthataredescribedinSection3.4usingTheorems1and2.:generatesarandomuniqueidentityfor.Itthen"
+13,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,61.5,234.92,182.49,242.95,234.92,550.75,61.5,412.79,identityby = ( ).
+13,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,339.17,237.12,557.69,245.09,237.12,548.61,339.17,37.59,",avehicle inacluster authenticatesitsotherneighborvehicle"
+13,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,55.28,247.49,288.67,255.46,247.49,538.24,55.28,306.6,: choosesarandomkey forvehicle to
+13,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,468.11,247.67,523.69,255.64,247.67,538.06,468.11,71.59,", , ,"
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,61.5,258.44,288.67,266.47,258.44,527.23,61.5,306.61,= ( )calculatethepublickeyas.Italsocalculates
+13,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,93.88,280.26,197.57,288.3,280.26,505.41,93.88,397.71,and = .
+13,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,55.28,291.28,557.69,302.41,291.28,491.29,55.28,37.58,"={ , , , }fromanothervehicle .Itauthenticates:generatesarandomsecretandcomputespub-"
+13,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,310.15,318.51,498.62,326.48,318.51,467.22,310.15,96.66,( )= ( + ( + ))
+13,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,66.1,327.41,362.23,340.01,327.41,453.69,66.1,233.04,( ) (mod ). (
+13,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,55.28,339.92,288.67,347.95,339.92,445.75,55.28,306.6,": loadsthecredentials{ , , ,( ,"
+13,0,0,0,0,10,5,JJNDYT+CharisSIL,8.0,85.27,348.73,557.69,358.76,348.73,434.94,85.27,37.59,"where =( + )( + )+( + ) , =),,(),(),(),(),(),()}inthe"
+13,0,0,0,0,3,11,GXLRMS+STIXMath-Regular,5.0,81.28,354.55,549.02,363.19,354.55,430.51,81.28,46.26,0 1 11
+13,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,61.5,359.27,477.72,369.53,359.27,424.17,61.5,117.56,( + )and = ( ).tamper-resistanton-boardunit(OBU)ofthevehiclebefore
+13,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,331.08,400.04,428.1,408.01,400.04,385.69,331.08,167.17,( + ) ( + )+
+13,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,405.37,288.67,413.34,405.37,380.36,55.28,306.61,": choosesarandomprivatekey ,computesthe"
+13,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,61.5,413.57,397.23,424.36,413.57,369.34,61.5,198.05,"( + ) )correspondingpublickey=,andsetsitsprivate"
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,171.12,427.1,321.75,435.37,427.1,358.33,171.12,273.52,")}.Finally,thetamper-resistant = ("
+13,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,331.08,427.1,469.1,435.07,427.1,358.63,331.08,126.18,( ( + )+ ( + ))
+13,0,0,0,0,4,11,GXLRMS+STIXMath-Regular,5.0,140.04,432.92,462.79,439.8,432.92,353.9,140.04,132.48,0 1 0 101
+13,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,81.94,438.15,288.67,446.18,438.15,347.52,81.94,306.6,"of containstheinformation{ , , ,"
+13,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,319.1,440.64,470.58,448.61,440.64,345.1,319.1,124.69,( ( + )))
+13,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,81.63,449.16,288.67,457.2,449.16,336.51,81.63,306.6,",( , ), , , (), (), (), (),"
+13,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,230.61,452.71,278.36,458.69,452.71,335.01,230.61,316.92,0 1 2
+13,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,331.08,454.17,459.87,462.14,454.17,331.56,331.08,135.4,( ( + )+
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,332.14,467.7,443.03,475.67,467.7,318.03,332.14,152.24,( + ))
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,348.96,481.23,452.71,489.2,481.23,304.5,348.96,142.57,( + )))
+13,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,37.59,488.57,354.95,502.46,488.57,291.25,37.59,240.32,"3.8.2.New addition ,"
+13,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,37.59,494.76,427.45,519.7,494.76,274.0,37.59,167.83,"= ( ( ( + )registersanew,sayunderaregionbyexecuting+(+))followingsteps."
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,348.96,521.83,452.71,529.8,521.83,263.9,348.96,142.57,( + )))
+13,0,0,0,0,8,5,JJNDYT+CharisSIL,8.0,55.28,529.59,288.67,537.56,529.59,256.14,55.28,306.6,: generates a random unique identity for an
+13,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,373.82,535.36,458.14,543.33,535.36,250.37,373.82,137.14,+ ( + ))
+13,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,61.5,551.55,265.09,559.58,551.55,234.12,61.5,330.18,ingtoitsuniqueidentityby = ( ).
+13,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,55.28,564.12,557.69,573.62,564.12,220.09,55.28,37.58,": choosesarandomkey andcalculatesits Sincetheaboveequationisvalid, authenticates .Hence,the"
+13,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,61.5,575.07,366.24,584.16,575.07,209.54,61.5,229.04,respectivepublickeyfor as = ( ). theoremfollows.
+13,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,55.28,587.63,288.67,595.6,587.63,198.1,55.28,306.61,: alsogeneratesarandomsecret andcomputes
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,92.26,598.58,288.67,606.62,598.58,187.08,92.26,306.61,"= .Furthermore, computesacertificate"
+13,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,340.56,607.8,557.69,615.77,607.8,177.93,340.56,37.59,",aroad-sideunit authenticatesitsall membervehicles"
+13,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,102.29,609.6,242.24,617.63,609.6,176.07,102.29,353.04,for as = + (
+13,0,1,0,0,5,5,JLCVTF+CharisSIL-Italic,8.0,314.68,618.02,557.69,626.32,618.02,167.38,314.68,37.58,", , , inacluster providedthatallthereceivedhellomessages"
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,97.44,620.61,166.31,628.64,620.61,165.06,97.44,428.96,) (mod ).
+13,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,376.61,628.89,433.68,636.86,628.89,156.84,376.61,161.6,", , ,"
+13,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,466.32,628.84,492.03,636.81,628.84,156.89,466.32,103.25,( = 1
+13,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,215.71,632.84,288.67,640.81,632.84,152.9,215.71,306.6,", , ,"
+13,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,125.05,647.68,213.46,653.65,647.68,140.05,125.05,381.82,0 1 2 3 4
+13,0,0,0,0,8,5,JJNDYT+CharisSIL,8.0,356.4,661.28,557.69,669.25,661.28,124.45,356.4,37.59,"receives signatures , , , on , ,"
+13,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,61.5,666.22,288.67,674.19,666.22,119.52,61.5,306.6,"addition, alsodeletestheprivatekey inorderto"
+13,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,314.58,671.82,557.69,679.79,671.82,113.91,314.58,37.59,", fromthevehicles , , inthecluster ,respectively."
+13,0,0,0,0,8,5,JJNDYT+CharisSIL,8.0,97.44,720.98,288.67,729.01,720.98,64.69,97.44,306.6,", , , (), (), (), (), (),"
+13,0,0,0,0,6,10,GXLRMS+STIXMath-Regular,6.0,204.76,724.53,428.07,731.11,724.53,62.59,204.76,167.2,0 1 2 3 =1 =1
+13,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,71.94,731.99,478.73,741.96,731.99,51.75,71.94,116.55,()}. + ( + )])
+14,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,150.18,69.81,406.3,81.02,69.81,712.68,150.18,188.98,=1 Query Purpose
+14,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,365.79,86.87,552.28,101.87,86.87,691.83,365.79,43.0,) Thisqueryhelps toeavesdrop(intercept)themessagescommunicatedamongagroupofvehiclesandtheir
+14,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,330.11,115.89,540.92,122.32,115.89,671.38,330.11,54.36,"( ) Underthisquery,thegroupkey sharedbetween"
+14,0,0,0,0,8,5,GXLRMS+STIXMath-Regular,8.0,37.59,145.66,175.5,153.63,145.66,640.07,37.59,419.78,= ( (( + ) ( + )
+14,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,46.53,165.22,88.82,173.19,165.22,620.51,46.53,506.46,+( + )
+14,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,83.05,186.24,229.03,194.21,186.24,599.49,83.05,366.25,( ( + )+( ( + ))))
+14,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,368.69,188.78,452.07,196.75,188.78,596.95,368.69,143.2,Wesay or is
+14,0,0,0,0,4,11,GXLRMS+STIXMath-Regular,5.0,112.5,192.06,217.41,197.04,192.06,596.66,112.5,377.86,0 1 0 1
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,50.08,199.29,557.69,221.87,199.29,571.83,50.08,37.59,key amongthevehicles andthe isnotdisclosedtotheadversaryusingtheReveal()querylistedinTable3.(
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,384.82,220.51,557.69,228.54,220.51,565.16,384.82,37.59,A one-waycryptographichashfunction () is
+14,0,0,0,0,8,5,GXLRMS+STIXMath-Regular,8.0,37.59,241.56,557.68,255.61,241.56,538.09,37.59,37.59,"= ( ( ( )+ )+ PriortoprovingTheorem3,wefirstdefinethecomputational El-"
+14,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,46.53,258.14,557.69,269.09,258.14,524.62,46.53,37.59,lipticCurveDiscreteLogarithmProblem(ECDLP) andthe semantic(()+))
+14,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,82.89,292.84,525.2,305.11,292.84,488.59,82.89,70.08,=1 2 3
+14,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,37.59,300.37,551.44,317.77,300.37,475.93,37.59,43.84,)beoftheform: = + +=(
+14,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,104.42,309.8,175.58,317.77,309.8,475.93,104.42,419.69,( ( + )
+14,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,306.6,310.87,528.49,318.91,310.87,474.8,306.6,66.79,(mod )suchthat4 +27 0(mod ).Giventwopoints
+14,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,46.53,321.37,557.69,339.91,321.37,453.79,46.53,37.59,"),thetaskistofindaninteger suchthat = ,+((+))))whereiscalledthediscretelogarithmtothebase."
+14,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,164.28,378.03,227.43,386.0,378.03,407.7,164.28,367.84,( + )])
+14,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,310.54,390.9,557.69,409.44,390.9,384.26,310.54,37.58,Let ( )denotetheadvantageofanadversaryrunninginpolynomialtimein
+14,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,76.62,405.41,191.76,413.38,405.41,380.32,76.62,403.51,", . ."
+14,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,50.08,405.69,189.77,413.66,405.69,380.04,50.08,405.5,( [ + ])
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,422.48,557.69,448.0,422.48,345.7,37.59,37.59,"derivethegroupkey amongagroupofvehicles andan inSincetheaboveequationisvalid,authenticatesallmemberacluster.Then,()=2[=]1,whereand||vehicles,,"
+14,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,117.6,440.03,557.69,451.45,440.03,342.25,117.6,37.59,"initscluster .Thus,thetheoremfollows. arerespectivelythe correct and guessed bits,and [ ]denotes"
+14,0,1,0,0,7,5,JLCVTF+CharisSIL-Italic,8.0,306.6,496.26,557.68,504.23,496.26,289.47,306.6,37.59,"anditscluster membervehicles , , , inacluster inthe"
+14,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,306.6,506.76,473.85,514.73,506.76,278.97,306.6,121.42,"proposedscheme,BBAS-IoV.Let , ,and"
+14,0,1,0,0,3,5,JLCVTF+CharisSIL-Italic,8.0,306.6,548.78,498.59,556.75,548.78,236.95,306.6,96.68,thegroupkey intime canbethenestimatedby
+14,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,353.98,572.02,479.59,579.99,572.02,213.71,353.98,115.68,( ) +2 ( )
+14,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,57.51,574.14,408.89,593.03,574.14,200.67,57.51,186.39,"cles( )andan inacluster ,whichareinvolvedduring | |thesigning,V2Vauthenticationandbatchauthenticationphases."
+14,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,57.51,595.91,288.67,603.88,595.91,189.82,57.51,306.6,Let and representthe and instancesof and
+14,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,77.13,607.17,405.55,617.11,607.17,176.59,77.13,189.73,",respectively.Thesearealsocalledasthe randomoracles. wasdonein[51,53,6971]."
+14,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,117.6,618.19,288.67,626.16,618.19,167.54,117.6,306.6,"Wesayaninstance isinan acceptedstate,"
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,57.51,639.89,557.69,672.36,639.89,121.34,57.51,37.59,"thatallthecommunicatedsentandreceivedmessagesarecon- bedefinedas aneventwherein canguesstherandombitcatenatedinsequentiallyorder.Wecalltheseasasessioniden-inthegamecorrectly.Then,theadvantageofinwinningtification,sayofforarunningcurrentsession.thegameisdefinedas=[]."
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,102.83,672.37,288.67,680.34,672.37,113.36,102.83,306.6,Wesaytwoinstances( and )are partnersto
+14,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,77.44,699.98,230.47,707.95,699.98,85.75,77.44,364.81,Both and arein acceptedstates.
+15,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,57.51,65.83,557.69,85.22,65.83,708.49,57.51,37.59,"whereintheadversary caneavesdropallthecommunicated betweentheentities and .Thefirstmessage ={ ,messages:thehellomessage={,,,,,},where={,,,,,"
+15,0,0,0,0,4,11,GXLRMS+STIXMath-Regular,5.0,255.96,81.92,353.63,87.98,81.92,705.72,255.96,241.64,1 2 1 2
+15,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,69.24,87.39,557.69,106.11,87.39,687.59,69.24,37.59,"}whichissenttoallthemembersand byavehicle , , }isformedbyavehicle,andthesecondmessageinaclusterduringthesigningphase(seeSection3.3),={,},where={"
+15,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,57.51,108.04,288.67,116.07,108.04,677.63,57.51,306.6,"andresponsemessage ={ , }senttoall"
+15,0,1,0,0,6,5,ESLNAJ+STIXMath-Italic,8.0,335.55,108.25,470.22,116.22,108.25,677.48,335.55,125.06,", , , , , ,"
+15,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,57.51,118.43,557.69,180.09,118.43,613.61,57.51,37.58,"membervehicles by inthecluster duringthegroup )}isformedby duringgroupkeymanagement.Bothkeymanagementphase(seeSection3.5),withthehelpofthethemessagesincludethecurrenttimestampsand.OnqueryasshowninTable3.receivingthemessages,theentitiescheckthevalidityofthemessageAttheend,needstoexecuteboththequeries,namelybycomparingthereceivedtimestampandthecurrenttimestamp.Foraandinordertoassureifthederivedgroupkey=validmessageanditsfreshness,thedifferenceofthetimestampvalues(shouldbeasmallvalue,.Hence,byincludingtimestampinevery"
+15,0,0,0,0,6,11,GXLRMS+STIXMath-Regular,5.0,84.94,175.82,279.13,180.8,175.82,612.9,84.94,316.15,1 2 1 2 1 2
+15,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,82.32,245.83,557.69,265.15,245.83,528.55,82.32,37.59,"Supposeanadversary interceptsamessage =.Ontheotherside,boththegamesand{,,,}.Further,maytrytocreatevalidsignature"
+15,0,0,0,0,3,10,GXLRMS+STIXMath-Regular,6.0,76.73,257.54,286.07,263.52,257.54,530.18,76.73,309.21,1 0 1
+15,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,107.1,267.63,557.69,287.39,267.63,506.31,107.1,37.59,"onbehalfof tosenditto asanauthenticationrequestmessage.maychooserandomnoncesas,togeneratetherequest="
+15,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,306.6,288.46,557.69,296.5,288.46,497.2,306.6,37.59,"= ( + ) =message.Then,cancompute,"
+15,0,0,0,0,10,5,JJNDYT+CharisSIL,8.0,82.32,298.71,557.69,306.95,298.71,486.76,82.32,37.59,":Inthisgame,theadversary needstodothesimulation ( ), = ( )and = ( )."
+15,0,0,0,0,4,10,GXLRMS+STIXMath-Regular,6.0,76.73,302.46,485.88,309.56,302.46,484.14,76.73,109.4,2 2 3 32
+15,0,0,0,0,3,11,GXLRMS+STIXMath-Regular,5.0,430.91,304.73,551.81,309.71,304.73,483.99,430.91,43.47,1 1 2
+15,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,57.51,309.04,557.69,327.84,309.04,465.86,57.51,37.58,"ofhashqueries andalsorequirestosolvethecomputational maythenusethepublicparameter publishedby tocomputeECDLPdefinedinDefinition2inordertoderivethegroupkey=().Afterthesecomputations,mayfinallytrytocreate"
+15,0,0,0,0,12,5,JJNDYT+CharisSIL,8.0,73.33,329.69,557.69,338.29,329.69,455.41,73.33,37.59,.Thesecurityofthegroupkey hingesonboththelong asignature on as =( + )( + )+( + )
+15,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,57.51,340.02,557.69,348.74,340.02,444.96,57.51,37.59,"termsecret of aswellastheshorttermsecrets .But,theattempttocreate , willbeimpossible"
+15,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,57.51,350.34,557.69,359.18,350.34,434.52,57.51,37.59,"and of .Toderive and fromthepublic asthelongtermsecrets and( , )arenotknowntothe"
+15,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,57.51,360.61,557.69,399.62,360.61,394.08,57.51,37.59,"= and = respectively,the adversary .Thus,BBAS-IoVissecuredagainstman-in-the-middleadversaryneedstosolvetheECDLPinpolynomialtime,attack.whoseadvantageis().Furthermore,obtainingisequivalenttofindingthecollisioninthehashfunction.Thus,"
+15,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,57.51,422.63,557.69,432.63,422.63,361.07,57.51,37.59,"able.Therefore,ifweapplythebirthdayparadox,wearriveto loadsthecredentials{ , , ,( , ), , (),"
+15,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,57.51,432.95,557.69,443.08,432.95,350.62,57.51,37.59,"thefollowingrelation: (), (), (), (), ()}inthetamper-resistanton-boardunit"
+15,0,0,0,0,5,10,GXLRMS+STIXMath-Regular,6.0,313.56,438.59,409.47,444.57,438.59,349.13,313.56,185.81,0 1 2 3 4
+15,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,332.75,445.55,557.69,453.52,445.55,340.18,332.75,37.59,"ofavehicle .So,aprivilegedinsideruserofthe beingan"
+15,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,57.51,454.55,557.69,464.86,454.55,328.84,57.51,37.59,"+ ( ) (3) adversarywillnotknowsecretsstoredin .Similarly,asdescribedin||"
+15,0,0,0,0,4,5,RWVPXA+STIXMathExtensions-Regular,8.0,37.59,462.47,557.69,484.87,462.47,308.83,37.59,37.59,"| | registrationphase(seeSection3.2.2), loadsthecredentialsSincealltherelevantqueriesrelatedtotheabovegamesarenow{,,,,(),(),(),(),(),"
+15,0,0,0,0,4,10,GXLRMS+STIXMath-Regular,6.0,472.51,480.38,547.37,486.36,480.38,307.34,472.51,47.9,0 1 2 3
+15,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,37.59,483.35,557.68,495.32,483.35,298.39,37.59,37.59,"executed,anditisonlyremaininginguessingtherandombit once ()}inmemoryof whilekeeping assecret.Inaddi-"
+15,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,37.59,493.68,557.69,519.17,493.68,274.53,37.59,37.58,"the and queriesareexecuted.Itthusfollowsthat tion, alsodeletestherandomsecrets and inorderto1thwartagainstotherattacks.Thus,privileged-insiderattackisresisted="
+15,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,93.33,545.78,288.67,556.09,545.78,237.61,93.33,306.6,( )= (5)||
+15,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,306.61,571.17,557.69,579.21,571.17,214.49,306.61,37.59,"mayintercepttherequestmessage ={ , , ,"
+15,0,0,0,0,11,5,JJNDYT+CharisSIL,8.0,37.59,577.63,557.69,591.85,577.63,201.85,37.59,37.59,"Furthermore,Eqs.(3)and(5)givethefollowingderivation: }on ={ , , , , , , , }"
+15,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,38.78,594.27,557.69,602.57,594.27,191.13,38.78,37.59,"andtrytocreateanothervalidrequestmessage,say ={ ,1"
+15,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,93.33,599.22,218.94,607.19,599.22,186.51,93.33,376.33,( ) + ( )
+15,0,0,0,0,5,5,JJNDYT+CharisSIL,8.0,38.78,599.28,439.95,615.11,599.28,178.59,38.78,155.33,"(6)22|| , , }onbehalfof ."
+15,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,617.63,557.69,637.34,617.63,156.36,37.59,37.59,"Now,thefinalstepistomultiplybothsidesofEq.(6)byafactorof2 Assumethat picksarandomnonce andgeneratestoobtaintherequiredresultaftersimplification:thecurrenttimestampvalueastoform={,,"
+15,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,328.55,642.42,547.64,650.45,642.42,143.25,328.55,47.64,", , , , , }.Inaddition,assumethat"
+15,0,0,0,0,9,5,GXLRMS+STIXMath-Regular,8.0,84.96,649.54,541.05,665.43,649.54,128.27,84.96,54.23,"( ) +2 ( ) alsoselectsrandomsecrets , tocompute =||"
+15,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,306.61,664.94,557.69,672.97,664.94,120.73,306.61,37.59,"( + )and = ( ).Furthermore, mayattempt"
+15,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,306.61,676.19,557.69,684.23,676.19,109.47,306.61,37.59,"tocompute = ( )and = ( ),"
+15,0,0,0,0,3,11,GXLRMS+STIXMath-Regular,5.0,427.57,683.25,551.81,688.23,683.25,105.47,427.57,43.47,1 1 2
+15,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,49.54,689.31,557.69,700.71,689.31,92.99,49.54,37.59,andasignature on as =( + )( + )+( +WeanalyzetheproposedBBAS-IoVinformallyinthefollowing
+15,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,37.59,700.56,557.69,711.04,700.56,82.66,37.59,37.59,") ,where = ( ).But,tocreate ,propositions,andshowthatBBAS-IoVisresilientagainstvariousknown"
+15,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,37.59,713.09,557.69,721.37,713.09,72.33,37.59,37.59,"attacks. theadversary needstoknowlongtermsecrets and( , )."
+16,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,150.85,194.0,158.89,150.85,634.81,37.59,401.27,bervehicles of .Notethat ={
+16,0,1,0,0,3,5,ESLNAJ+STIXMath-Italic,8.0,64.55,150.58,288.67,169.03,150.58,624.67,64.55,306.6,", , ,,,,,,"
+16,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,37.59,161.34,288.67,180.66,161.34,613.04,37.59,306.6,( )} andthesignatureonforas=+(
+16,0,0,0,0,3,5,GXLRMS+STIXMath-Regular,8.0,37.59,183.12,288.67,212.12,183.12,581.58,37.59,306.6,") (mod ).Todoso,mayattempttogeneratearandomnonce,aran-domsecretkeyandcurrenttimestamp,andcom-"
+16,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,37.59,214.57,288.67,233.03,214.57,560.67,37.59,306.6,"putepublic = .However,tocomputethesignature=+("
+16,0,0,0,0,4,5,GXLRMS+STIXMath-Regular,8.0,63.91,236.31,263.46,244.35,236.31,549.35,63.91,331.82,") (mod ), requiresthelongtermprivatekey"
+16,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,248.56,288.67,267.02,248.56,526.68,37.59,306.6,"of .Inaddition, cannotalsocomputethegroupkey =("
+16,0,0,0,0,6,11,GXLRMS+STIXMath-Regular,5.0,65.01,264.87,259.2,269.85,264.87,523.85,65.01,336.07,1 2 1 2 1 2
+16,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,306.6,325.01,454.08,332.98,325.01,460.73,306.6,141.2,inthe OutputFormat(OF) iscollected.
+16,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,353.77,557.69,372.23,353.77,421.48,37.59,37.59,"DuringthegroupkeymanagementphasedescribedinSec-tion3.5,generatesagroupkey=( Firstsectionisthe SUMMARY sectionthatdisplayswhetherthe"
+16,0,0,0,0,4,11,GXLRMS+STIXMath-Regular,5.0,80.22,380.5,186.25,385.48,380.5,408.22,80.22,409.02,1 2 1 2
+16,0,0,0,0,6,5,GXLRMS+STIXMath-Regular,8.0,37.59,385.16,557.69,436.01,385.16,357.69,37.59,37.58,")forallthevehicles ofthecluster . Thenextsectionis DETAILS thathasadetailedexplanationThegroupkeyinvolvesuseofbothlongtermsecretandsupportingtheresultdisplayedintheSUMMARYsection,soasshorttermsecretsand.Thesecurityofisthenbasedontowhytheprotocolissafeorunsafe.thefollowingtwocases:ThenextsectionisPROTOCOLsectionthatdefinestheHLPSLspecificationofthetargetprotocolinintermediateform."
+16,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,57.51,433.44,557.69,468.15,433.44,325.55,57.51,37.58,"Ifonlythelongtermsecret of iscompro- Followingthesection PROTOCOL,thereisa GOAL sectionmised,withouthavingtheshorttermsecretsandofthatdefinesthegoaloftheanalysiswhichisbeingperformed,thegroupkeycannotbederivedbyanadversary.byAVISPAusingHLPSLspecification."
+16,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,37.59,465.43,557.69,538.72,465.43,254.98,37.59,37.59,"Iftheadversary onlyknowstheshorttermsecrets BACKEND sectiondisplaysthenameoftheback-endamongstandof,derivationofcannotbedonebythefourmentionedbackends(OFMC,Cl-AtSe,SATMCandwithouthavingthelongtermsecretof.TA4SP)isthelastsectionintheresult.Thus,theadversaryacquiresbothlongtermsecretandshortTheHLPSLimplementationoftheproposedBBAS-IoVconsistsoftermsecretsand,thenonlythegroupkeyiscompro-fourbasicrolesforthe,,andalongwithtwomandatorymised.Therefore,basedontheCK-adversarymodel[28]discussedinrolesof"
+17,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,114.66,252.41,515.58,286.04,252.41,507.66,114.66,79.69,ExperimentalsetupusingRaspberryPI3. 0.643 0.274 0.3090.4930.1780.2284.5322.2062.2880.0210.0150.016
+17,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,361.88,288.23,515.58,311.74,288.23,481.96,361.88,79.69,0.038 0.017 0.0180.0540.0090.0140.0160.0090.011
+17,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,361.88,313.93,519.17,328.88,313.93,464.82,361.88,76.1,0.013 0.008 0.01032.79027.60632.084
+17,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,361.88,331.07,515.58,337.45,331.07,456.25,361.88,79.69,0.406 0.381 0.385
+17,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,361.88,339.64,515.58,346.01,339.64,447.69,361.88,79.69,8.885 4.427 4.592
+17,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,361.88,348.21,515.58,354.58,348.21,439.12,361.88,79.69,4.453 2.221 2.304
+17,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,37.59,393.96,557.69,480.99,393.96,312.71,37.59,37.59,", and todenotethetimerequiredtoexecute modularexponentiation,ellipticcurvepoint(scalar)multiplication,elliptic Inthissection,wegiveadetailedcomparativestudyon commu-nicationandcomputationaloverheads,storageoverheadsandse-curvepointaddition,symmetrickey(AdvancedEncryptionStan-curityandfunctionalityfeaturesamongourproposedscheme(BBAS-dard(AES-128))encryption/decryption,one-wayhashfunctionusingIoV)andotherexistingcompetingauthenticationschemesinIoV-SHA-256hashingalgorithm,modularmultiplicationover,mod-relatedenvironment,suchastheschemesofTanandChung[45],Jiangularadditionover,bilinearpairingoperation,point-to-mapetal.[37],Tzengetal.[33]andBayatetal.[18].function,ECCencryption,andECCdecryption,respectively.Theellipticcurvepointadditionandmultiplicationarecarriedoutanon-"
+17,0,0,0,0,7,5,JJNDYT+CharisSIL,8.0,37.59,484.25,288.67,492.29,484.25,301.41,37.59,306.61,singularellipticcurveofthetype: = + + (mod ) suchthat
+17,0,0,0,0,9,5,GXLRMS+STIXMath-Regular,8.0,37.59,495.55,557.69,541.41,495.55,252.29,37.59,37.59,"4 +27 0(mod ).Notethat =2 + and = ThebasicentitiesinvolvedinIoVsystemmodelshowninFig.1+.arevehicles,sands.Outofthethree,thesaregivenhugeWeconsiderthefollowingtwoplatformsforMIRACL.computationalpowerandsufficientamountofstoragecapacity,whilesaremoreresource-richthanthevehicles.Thus,thevehicles"
+17,0,0,0,0,3,5,JJNDYT+CharisSIL,8.0,57.51,617.77,557.69,636.35,617.77,157.35,57.51,37.58,vehicle .Thestorageoverheadfor isthen[160+320+160+160+arethentabulatedinTable4.(160+160)+160+320]=1600bits.Tocalculatethestorageoverheads
+17,0,0,0,0,9,5,JJNDYT+CharisSIL,8.0,57.51,632.32,557.69,742.02,632.32,51.68,57.51,37.59,"TheplatformconsideredforMIRACLisasfollows: for , loads{ , , , , }inModel:RaspberryPI3B+Rev1.3,withCPU:64-bit,Processor:beforedeploymentasdescribedinSection3.2.2.Thestorage1.4GHzQuad-core,4cores,Memory(RAM):1GB,andOS:requiredforis[160+320+160+320+160]=1120bits.Ubuntu20.04LTS,64-bit.TheexperimentalsetupusingRasp-SimilarcalculationshowsthatinTanandChungsscheme[45],berryPI3isshowninFig.6.Theexperimentsarealsoexecutedavehiclestores320bitsandstoresinformationof1120bits.Inforeachcryptographicprimitivefor100runs.WecalculatetheTzengetal.sscheme[33],avehicleandstore416and1152bitsmaximum,minimumandaveragerun-timeinmillisecondsforofinformation,respectively.ForBayatetal.sscheme[18],thestorageeachcryptographicprimitivefromthese100runs.Finally,thecostofavehicleandare1120and1632bits,respectively.JiangexperimentalresultsareprovidedinTable5.8961440etal.sscheme[37]storesbitsinavehicleandbitinan.ThesummarizedstorageoverheadscomparisonispresentedinTable6."
+18,0,0,0,0,6,9,JJNDYT+CharisSIL,6.4,311.14,186.79,546.57,193.22,186.79,600.48,311.14,48.7,Road-sideUnit( ) 3 +5 +(3+1) +(2+1)
+18,0,0,0,0,6,9,JJNDYT+CharisSIL,6.4,42.12,193.99,458.25,201.79,193.99,591.92,42.12,137.02,Jiangetal.[37] 3748+256 1440+ (900+256) inacluster (14
+18,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,42.12,211.13,194.0,217.56,211.13,576.14,42.12,401.28,Tzengetal.[33] 1152 1152
+18,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,311.14,231.01,504.57,237.43,231.01,556.27,311.14,90.71,Road-sideUnit( ) + +(+1)
+18,0,0,0,0,6,9,JJNDYT+CharisSIL,6.4,37.59,241.14,484.52,257.56,241.14,536.14,37.59,110.76,:phaseisnotdefinedinthescheme;:degreeofapolynomialusedinJiangetal.sscheme[37]. Individualvehicle( ) 4 +2 +
+18,0,0,0,0,8,5,JJNDYT+CharisSIL,8.0,37.59,352.67,557.69,444.04,352.67,349.66,37.59,37.59,"form =( ),where and co-ordinatesof are andrespectivelyandthehashoutput(digest)usingSHA-256hashingalgo- ForcomputationalcostscomputationoftheproposedBBAS-IoVrithm[73]require160bits,32bits,(160+160)=320bitsand256bits,andotherexistingcompetingschemesforvariousphases,weusetherespectively.Undertheseassumptions,wecalculatethecommunicationexperimentalresultsreportedinSection6.TheaverageexecutioncostsoftheproposedBBAS-IoVforthesigning,authenticationandtime(inmilliseconds)foraserverofvariouscryptographicprimitivesgroupkeymanagementphasesasfollows.usingMIRACLreportedinTable4areusedfor,whereastheDuringthesigningphasedescribedinSection3.3,avehiclere-averageexecutiontime(inmilliseconds)foraRaspberryPIofvariousquirestobroadcastthehellomessage={,,cryptographicprimitivesusingMIRACLprovidedinTable5areused"
+18,0,0,0,0,6,5,JJNDYT+CharisSIL,8.0,78.81,444.82,557.69,454.66,444.82,339.04,78.81,37.59,", }toitsclustermembersincluding ,where = foran ofavehicle.Itisworthnoticingthata-degreepolynomial"
+18,0,0,0,0,14,5,GXLRMS+STIXMath-Regular,8.0,57.51,455.27,557.69,505.14,455.27,288.56,57.51,37.58,"{ , , , , , , , }.Itrequires computationdenotedby requires =( + ),where[(320+160+160+320+320+320+320+32)+(320+320+320)]andarethemultiplicationandadditionin,respectively,and=2912bits.iscomputedusingtheHornersrule[74].DuringthegroupkeymanagementphasedescribedinSection3.5,InTable8,wehaveshownthecomputationalcostsneededbyeachrequirestosendresponsemessages={,"
+18,0,1,0,0,7,5,ESLNAJ+STIXMath-Italic,8.0,87.67,517.74,271.48,525.71,517.74,267.99,87.67,323.79,", , , , , , ,"
+18,0,0,0,0,7,5,GXLRMS+STIXMath-Regular,8.0,57.51,528.48,557.69,568.72,528.48,224.98,57.51,37.59,( )}. Each message requires the verificationandgroupkeymanagementofotherexistingschemes.Tancommunicationcostof[(32+160+320+320+320+320+320+andChungsschemeneedsthecomputationalcostsof14+16+160+(320+320))+160]=2752bits.Thetotalcommunicationcost4+2+2forsingleverificationand(12+2)+(12+4)+duetoresponsemessagesisthen2752bits.
+18,0,0,0,0,5,5,GXLRMS+STIXMath-Regular,8.0,37.59,563.76,557.69,742.02,563.76,51.68,37.59,37.59,"(2 +2) +2 +2 forbatchverification.Inaddition,intheirschemethegroupkeymanagementrequiresthecomputationalcostWehavealsocalculatedcommunicationcostsofotherschemestoeval-of(2+4)+3+(5+1).InTzengetal.sscheme[33],uatetheirperformance.TheschemeproposedbyTanandChung[45]thetotalcomputationcostforsigningandverifyingcomesoutasrequiresthecostsof2496,1504+992and3296+448bitsforsingleveri-4++2+2+.Thecostsofgeneratingandverifyingafication,batchverificationandgroupkeymanagement,respectively.InsinglemessageinBayatetal.sscheme[18]are1+1+1andTzengetal.sscheme[33],asignedmessageneeds1152bitsthatissent3+1+1+1,respectively.InJiangetal.sscheme[37],fromavehicletoinsingleverification.Andforbatchverificationthetotalcostofsigningandverifyingis5+7+2+3+ofvehicles,thecostis1152bits.+.ThecommunicationcostofasinglemessagebroadcastedbyvehicleWehavedividedthecomputationalcostscomparisonsamongtheinBayatetal.sscheme[18]requires(480+160+320+32)=proposedBBAS-IoVandotherexistingschemesintothreegroups:(a)992bits,anditis992bitsforbatchverification.InJiangetal.ssingleverificationwhichincludesthetotalcostofverificationbetweenscheme[37],thetotalcommunicationcostis3748+256,whereisthedegreeofthepolynomialusedduringthemutualauthenticationphase.avehicleandaRSU/vehicle(showninTable9),(b)batchverificationincludesthetotalcostofcomputationperformedbyvehiclesandMoreover,thegroupkeydecryptiononlyrequiresasinglemessageof900+256bitstobereceivedbyavehicle.Table7summarizestheirinagroup/cluster(showninTable10),and(c)groupkeymanagementthatrepresentsthecomputationbyanditsthecommunicationcostsofBBAS-IoVandotheranalyzedschemesforsingleverification,batchverificationandgroupkeymanagement.Itismembersvehiclesinthecluster/group(showninTable11).Itisalso"
+19,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,37.59,63.95,553.15,101.48,63.95,692.22,37.59,42.12,ComputationcostscomparisonforV2V(single)authentication. Functionality&securityfeaturescomparison.SchemeVehicle()FeatureBayatJiangTzeng TanandChung BBAS-IoVetal.[18]etal.[37]etal.[33][45]Bayatetal.[18]++++3+2
+19,0,0,0,0,5,10,CHNNOH+wasy6,6.0,42.12,104.07,530.64,113.09,104.07,680.61,42.12,64.64,(cid:8) (cid:8) (cid:8) (cid:8) (cid:8)Jiangetal.[37]+4++2++3
+19,0,0,0,0,5,10,CHNNOH+wasy6,6.0,137.64,112.64,530.64,121.61,112.64,672.09,137.64,64.64,(cid:8) (cid:8) (cid:8) (cid:8) (cid:8)9
+19,0,0,0,0,4,10,CHNNOH+wasy6,6.0,344.09,121.21,530.64,127.19,121.21,666.51,344.09,64.64,(cid:8) (cid:8) (cid:8) (cid:8)
+19,0,0,0,0,12,9,JJNDYT+CharisSIL,6.4,42.12,126.79,530.64,135.75,126.79,657.95,42.12,64.64,Tzengetal.[33] 3 + + + +2 + (cid:8) (cid:8) (cid:8) (cid:8) (cid:8)
+19,0,0,0,0,6,9,GXLRMS+STIXMath-Regular,6.4,227.16,135.36,530.64,144.32,135.36,649.38,227.16,64.64,163ms (cid:8) (cid:8) (cid:8) (cid:8) (cid:8)
+19,0,0,0,0,9,9,JJNDYT+CharisSIL,6.4,42.12,146.91,530.64,153.34,146.91,640.36,42.12,64.64,TanandChung[45] 8 +9 +2 4 +3 +2 +2 (cid:8)
+19,0,0,0,0,6,9,GXLRMS+STIXMath-Regular,6.4,227.16,155.48,530.64,161.86,155.48,631.84,227.16,64.64,818ms (cid:8) (cid:8) (cid:8) (cid:8) (cid:8)
+19,0,0,0,0,3,10,CHNNOH+wasy6,6.0,42.12,164.05,530.64,173.46,164.05,620.24,42.12,64.64,(cid:8) (cid:8) (cid:8)BBAS-IoV3+3+33+4+4+3
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,137.64,175.61,530.64,187.16,175.61,606.54,137.64,64.64,7839ms 17017ms (cid:8)
+19,0,0,0,0,7,9,JJNDYT+CharisSIL,6.4,306.6,202.23,557.69,208.6,202.23,585.1,306.6,37.58,Note: : Replayattack; : man-in-the-middleattack; : insider
+19,0,0,0,0,3,12,GXLRMS+STIXMath-Regular,4.5,339.83,205.26,528.34,209.73,205.26,583.97,339.83,66.94,1 2 3
+19,0,0,0,0,6,9,JJNDYT+CharisSIL,6.4,37.59,209.12,557.69,217.17,209.12,576.53,37.59,37.59,ComputationcostscomparisonforV2RSU(batch)authentication. attack; : vehicleimpersonationattack; : RSUimpersonationattack;
+19,0,0,0,0,6,9,JJNDYT+CharisSIL,6.4,42.12,219.36,557.69,226.2,219.36,567.5,42.12,37.59,: dynamicvehicleadditionphase; : batchverification; : groupSchemeGroupofvehicles
+19,0,0,0,0,3,12,GXLRMS+STIXMath-Regular,4.5,320.0,222.4,532.45,226.86,222.4,566.84,320.0,62.82,6 7 8
+19,0,0,0,0,5,9,JJNDYT+CharisSIL,6.4,306.6,227.93,557.69,234.31,227.93,559.39,306.6,37.59,keymanagement; : supporttoblockchain-basedsolution; : support
+19,0,0,0,0,4,12,JJNDYT+CharisSIL,4.5,171.26,230.95,527.0,235.43,230.95,558.27,171.26,68.28,a a 9 10
+19,0,0,0,0,13,9,JJNDYT+CharisSIL,6.4,42.12,231.65,557.69,246.6,231.65,547.1,42.12,37.58,Bayatetal.[18] ( + + ) ( + +3 + ) toAI/MLbasedsecurityforBigdataanalytics; : formalsecurityverification2
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,132.24,240.22,215.38,246.6,240.22,547.1,132.24,379.89,553 ms 14
+19,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,306.6,245.07,557.69,251.44,245.07,542.26,306.6,37.59,usingAVISPAtool; : ESLattackundertheCK-adversarymodelforgroupkey
+19,0,0,0,0,11,9,JJNDYT+CharisSIL,6.4,42.12,251.78,346.57,266.72,251.78,526.98,42.12,248.71,Jiangetal.[37] ( +4 + ) ( +2 + +3 ) construction.9
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,132.24,260.35,215.38,266.72,260.35,526.98,132.24,379.89,477 ms 15
+19,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,216.98,260.35,557.69,268.58,260.35,525.12,216.98,37.58,553 ms :aschemeissecureorassistsafeature; :aschemeisinsecureordoesnotassista
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,132.24,280.47,215.38,286.85,280.47,506.85,132.24,379.89,558 ms 10
+19,0,0,0,0,10,9,JJNDYT+CharisSIL,6.4,42.12,292.03,278.2,298.45,292.03,495.25,42.12,317.08,TanandChung[45] (8 +9 +2 ) (4 +3 +2 +2 )
+19,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,127.46,300.59,239.81,306.97,300.59,486.73,127.46,355.47,23096 ms 11818 ms
+19,0,0,0,0,8,9,JJNDYT+CharisSIL,6.4,42.12,312.15,269.45,318.58,312.15,475.12,42.12,325.82,BBAS-IoV (3 +3 +3 ) (3 +5 +(3+1)
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,132.24,329.29,217.5,335.66,329.29,458.04,132.24,377.77,839 ms (14
+19,0,0,0,0,4,5,JJNDYT+CharisSIL,8.0,306.6,353.09,557.69,371.36,353.09,422.34,306.6,37.58,"( ),timestamp( ),Merkletreeroot( ),signerspublickey(),ECDSAblocksignature()andcurrent/last"
+19,0,0,0,0,3,9,JJNDYT+CharisSIL,6.4,42.12,391.7,179.06,398.08,391.7,395.62,42.12,416.21,Scheme Groupof vehicles
+19,0,0,0,0,7,9,JJNDYT+CharisSIL,6.4,42.12,415.09,252.04,421.52,415.09,372.19,42.12,343.24,Jiangetal.[37] (2 + ) (2 + +
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,133.1,432.22,221.92,438.6,432.22,355.1,133.1,373.36,632 ms (0
+19,0,0,0,0,4,9,JJNDYT+CharisSIL,6.4,42.12,455.34,166.87,461.76,455.34,331.94,42.12,428.41,TanandChung[45] (3 +3 )
+19,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,209.58,455.34,268.91,461.71,455.34,331.99,209.58,326.37,(2 + +3 )
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,133.1,463.91,221.92,470.28,463.91,323.42,133.1,373.36,791 ms (0
+19,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,122.18,475.46,183.51,481.84,475.46,311.86,122.18,411.76,(4 +2 + )
+19,0,0,0,0,4,9,GXLRMS+STIXMath-Regular,6.4,209.59,475.46,281.37,481.84,475.46,311.86,209.59,313.91,( + +(+1) )
+19,0,0,0,0,3,9,GXLRMS+STIXMath-Regular,6.4,136.28,484.03,221.92,490.41,484.03,303.3,136.28,373.36,488 ms (0

@@ -1,0 +1,210 @@
+page_number,is_bold,is_italic,is_underline,is_all_caps,word_count,norm_font_size,font,font_size,x0,y0,x1,y1,space_above,space_below,space_left,space_right,text
+1,0,0,0,1,2,1,ICMTCG+Gotham-Medium,20.6,34.7,31.68,141.26,52.32,31.68,739.68,34.7,470.74,PLOS ONE
+1,0,0,0,1,1,9,Helvetica,8.0,200.01,95.02,279.05,103.02,95.02,688.98,200.01,332.95,RESEARCHARTICLE
+1,1,0,0,1,1,10,Helvetica-Bold,7.5,245.25,188.91,252.71,196.41,188.91,595.59,245.25,359.29,ID
+1,0,0,0,1,1,9,ZZBAHF+ArialMT,8.0,47.62,358.33,104.58,366.33,358.33,425.67,47.62,507.42,OPENACCESS
+1,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 1/28"
+2,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+2,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 2/28"
+3,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+3,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 3/28"
+4,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+4,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 4/28"
+5,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+5,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 5/28"
+6,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+6,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 6/28"
+7,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+7,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 7/28"
+8,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+8,0,0,0,0,3,9,MinionPro-Regular,8.0,200.01,92.88,508.28,153.38,92.88,638.62,200.01,103.72,"T.register Toregisteruser/vehicle,RSUandCountry intheBC.T.publishToloadanaccesscontrolpolicyintheBC.T.revokeTorevokeanaccesscontrolpolicyfromtheBC.T.joinuser/vehiclegeneratesT.jointransactiontojoinRSUregion.https://doi.org/10.1371/journal.pone.0291596.t001"
+8,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 8/28"
+9,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+9,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 9/28"
+10,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+10,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 10/28"
+11,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+11,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 11/28"
+12,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+12,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 12/28"
+13,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+13,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 13/28"
+14,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+14,0,0,0,0,3,6,PI_chars_1,10.0,366.91,187.45,572.11,198.38,187.45,593.62,366.91,39.89,SS s 1
+14,0,0,0,0,3,6,TeX_CM_Maths_Symbols,10.0,339.54,221.35,572.11,232.28,221.35,559.72,339.54,39.89,j j 2suservehicleRSU
+14,0,0,0,0,4,6,ZKSIGQ+EuclidMathOne,10.0,365.5,338.93,572.11,349.86,338.93,442.14,365.5,39.89,O S o 3
+14,0,0,0,1,2,6,ZKSIGQ+EuclidMathOne,10.0,365.16,419.26,392.46,429.46,419.26,362.54,365.16,219.54,P S
+14,0,0,0,0,3,9,TeX_CM_Maths_Symbols,8.0,200.01,550.56,406.63,559.3,550.56,232.7,200.01,205.37,[ s allthesubjectsinthesystem.
+14,0,0,0,0,5,9,TeX_CM_Maths_Symbols,8.0,204.01,640.14,474.93,648.88,640.14,143.12,204.01,137.07,g Subject transferredapermission toobject .sssps
+14,0,0,0,0,3,22,HPKCMI+MinionPro-It,5.3,206.7,644.18,473.06,650.05,644.18,141.95,206.7,138.94,m q nmn
+14,0,0,0,0,3,9,HPKCMI+MinionPro-It,8.0,225.75,652.72,480.09,661.47,652.72,130.53,225.75,131.91,sg Subjects revokedapermissionpfromSubjects.
+14,0,0,0,0,3,22,HPKCMI+MinionPro-It,5.3,206.7,656.71,478.28,662.58,656.71,129.42,206.7,133.72,m q mmn
+14,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 14/28"
+15,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+15,0,0,0,0,3,6,ZKSIGQ+EuclidMathOne,10.0,358.81,96.0,572.11,106.93,96.0,685.07,358.81,39.89,LVS S 5s
+15,0,0,0,0,4,6,ZKSIGQ+EuclidMathOne,10.0,212.03,119.02,570.24,129.95,119.02,662.05,212.03,41.76,"LVS isasupersetofalltheusers/vehiclesregisteredinacountry .Moreover,LVS S,k"
+15,0,0,0,0,4,6,ZKSIGQ+EuclidMathOne,10.0,359.32,170.72,572.11,181.65,170.72,610.35,359.32,39.89,GVS S s 6
+15,0,0,0,0,3,6,ZKSIGQ+EuclidMathOne,10.0,212.03,195.1,575.22,206.03,195.1,585.97,212.03,36.78,GVS isasupersetofalltheusers/vehiclesfromothercountrieswhoenteredintocountry .k
+15,0,0,0,0,6,6,MinionPro-Regular,10.0,307.16,227.25,559.89,238.18,227.25,553.82,307.16,52.11,"Delegationpolicy ACP isdefinedasatriple( , , ),wheressp"
+15,0,0,0,0,3,12,HPKCMI+MinionPro-It,6.7,497.25,232.3,527.76,238.97,232.3,553.03,497.25,84.24,m n q
+15,0,0,0,0,3,6,MinionPro-Regular,10.0,212.03,240.28,440.73,251.22,240.28,540.78,212.03,171.27,"=delegator, =delegatee,and =setofpermissions.ssp"
+15,0,0,0,0,3,12,HPKCMI+MinionPro-It,6.7,215.32,245.28,357.17,251.95,245.28,540.05,215.32,254.83,m n q
+15,0,0,0,0,5,16,HPKCMI+MinionPro-It,6.0,349.12,266.23,428.1,272.23,266.23,519.77,349.12,183.9,l m q l m
+15,0,0,0,0,7,6,ZKSIGQ+EuclidMathOne,10.0,305.97,322.6,572.11,333.53,322.6,458.47,305.97,39.89,CD S f [ [ [DSgsop 8
+15,0,0,0,0,4,16,HPKCMI+MinionPro-It,6.0,367.4,328.66,430.25,335.22,328.66,456.78,367.4,181.75,q0 m n q
+15,0,0,0,1,4,6,ZKSIGQ+EuclidMathOne,10.0,351.78,385.7,572.11,395.9,385.7,396.1,351.78,39.89,PID S PID 9
+15,0,0,0,0,3,16,TeX_CM_Roman,6.0,375.25,466.42,448.06,472.98,466.42,319.02,375.25,163.94,0mnq l m
+15,0,0,0,0,3,16,TeX_CM_Roman,6.0,376.72,542.45,451.18,549.01,542.45,242.99,376.72,160.82,0mnq m n
+15,0,0,0,0,3,6,TeX_CM_Maths_Symbols,10.0,323.04,599.38,572.14,610.74,599.38,181.26,323.04,39.86,fr gPHS 12
+15,0,1,0,0,3,16,TeX_CM_Maths_Italic,6.0,373.98,605.15,433.28,611.44,605.15,180.56,373.98,178.72,; ;; ;
+15,0,0,0,0,3,16,HPKCMI+MinionPro-It,6.0,364.76,605.71,447.03,611.99,605.71,180.01,364.76,164.97,j statuscastre sstatus
+15,0,1,0,1,1,6,TeX_CM_Text_Italic,10.0,340.61,676.37,356.33,686.37,676.37,105.63,340.61,255.67,CD
+15,0,1,0,1,1,6,TeX_CM_Text_Italic,10.0,393.28,676.37,409.0,686.37,676.37,105.63,393.28,203.0,CD
+15,0,1,0,0,6,16,TeX_CM_Text_Italic,6.0,322.92,682.14,472.73,688.14,682.14,103.86,322.92,139.27,m j l j m n
+15,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 15/28"
+16,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+16,0,0,0,0,4,16,HPKCMI+MinionPro-It,6.0,348.66,148.88,429.57,154.88,148.88,637.12,348.66,182.43,i j st st
+16,0,0,0,0,5,16,HPKCMI+MinionPro-It,6.0,317.2,240.72,417.54,246.72,240.72,545.28,317.2,194.46,i j rec st i
+16,0,0,0,0,6,16,HPKCMI+MinionPro-It,6.0,292.54,319.58,490.84,325.58,319.58,466.42,292.54,121.16,i i j i j i
+16,0,0,0,0,5,6,TeX_CM_Roman,10.0,358.19,405.09,572.14,416.02,405.09,375.98,358.19,39.86,2g) 2ACP _ 2ACPss 17
+16,0,0,0,0,6,16,HPKCMI+MinionPro-It,6.0,314.13,411.42,486.38,417.42,411.42,374.58,314.13,125.62,i j i i i j
+16,0,1,0,1,1,8,KYDYGJ+CourierNewPS-ItalicMT,9.0,264.87,613.71,281.07,622.71,613.71,169.29,264.87,330.93,LVS
+16,0,0,0,0,3,8,MDDSLS+CourierNewPSMT,9.0,270.2,668.63,334.56,677.7,668.63,114.3,270.2,277.44,( 6 )
+16,0,1,0,1,1,8,KYDYGJ+CourierNewPS-ItalicMT,9.0,296.33,701.69,312.53,710.69,701.69,81.31,296.33,299.47,GVS
+16,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 16/28"
+17,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+17,0,0,0,0,3,8,TeX_CM_Maths_Symbols,9.0,418.96,76.58,567.89,85.76,76.58,706.24,418.96,44.11,fPID g oftherequest-
+17,0,0,0,0,3,8,TeX_CM_Maths_Symbols,9.0,435.18,100.96,572.82,110.03,100.96,681.97,435.18,39.18,fr g oftherequest-
+17,1,0,0,0,3,8,PDQIEL+CourierNewPS-BoldMT,9.0,234.2,125.6,464.63,134.6,125.6,657.4,234.2,147.37,while NOT do
+17,0,0,0,0,3,8,MDDSLS+CourierNewPSMT,9.0,204.49,136.41,322.82,145.41,136.41,646.59,204.49,289.18,14: ( )
+17,0,0,0,1,1,8,ZKSIGQ+EuclidMathOne,9.0,327.86,158.51,361.77,167.51,158.51,624.49,327.86,250.23,ACPSEV
+17,0,1,0,0,4,21,KYDYGJ+CourierNewPS-ItalicMT,5.4,289.87,186.61,369.36,192.01,186.61,599.99,289.87,242.64,m j m k
+17,0,1,0,0,4,21,KYDYGJ+CourierNewPS-ItalicMT,5.4,289.87,243.65,367.32,249.05,243.65,542.95,289.87,244.68,m j m k
+17,0,0,0,0,4,8,MDDSLS+CourierNewPSMT,9.0,204.49,327.39,348.96,336.46,327.39,455.54,204.49,263.04,31: ( 6 )
+17,0,0,0,0,3,8,TeX_CM_Maths_Symbols,9.0,220.93,497.98,291.59,507.16,497.98,284.84,220.93,320.41,fPID g .
+17,0,0,0,1,1,8,ZKSIGQ+EuclidMathOne,9.0,240.51,522.6,258.61,531.6,522.6,260.4,240.51,353.39,PID
+17,0,0,0,0,3,8,MDDSLS+CourierNewPSMT,9.0,261.18,549.02,404.06,558.13,549.02,233.87,261.18,207.94,(PID Notresolvedto )
+17,0,0,0,0,3,6,MinionPro-Regular,10.0,200.01,585.32,576.0,686.31,585.32,105.69,200.01,36.0,"The AccessControlPolicyCreation algorithmispresentedinAlgorithm3.Initially,algorithm3acceptspolicycreationrequestsfromtheadministrator.Inresponse,itgeneratesanerrorifthepolicyexistsintheBC.Otherwise,itcre-atesanaccesscontrolpolicyandstoresitinBC.Inlines3-7,iftherequesterisaninternalvehi-cle,andthereisnomatchingaccesscontrolpolicyexit.Then,Algorithm3addsanaccesscontrolpolicyinBC.Similarly,inlines9-13,Algorithm3addsanaccesscontrolpolicyfortheexternalvehiclewhentherequesterisanexternalvehicle,andthereisnomatchingaccesscon-trolpolicyexit."
+17,0,1,0,0,3,16,KYDYGJ+CourierNewPS-ItalicMT,6.0,316.12,705.15,358.89,711.15,705.15,80.85,316.12,253.11,m n q
+17,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 17/28"
+18,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+18,0,0,0,1,1,8,TeX_CM_Maths_Symbols,9.0,250.19,87.58,275.81,96.76,87.58,695.24,250.19,336.19,2LVS
+18,0,0,0,0,4,8,MDDSLS+CourierNewPSMT,9.0,204.49,133.11,334.45,142.28,133.11,649.72,204.49,277.55,7: ACPSIV ACPSIV f
+18,0,0,0,1,1,8,TeX_CM_Maths_Symbols,9.0,280.57,155.1,316.7,164.28,155.1,627.72,280.57,295.3,2GVS)
+18,0,0,0,0,4,8,MDDSLS+CourierNewPSMT,9.0,204.49,200.68,339.56,209.86,200.68,582.14,204.49,272.44,13: ACPSEV ACPSEV f
+18,0,0,0,0,3,6,MinionPro-Regular,10.0,200.01,256.84,576.0,357.83,256.84,434.17,200.01,36.0,"The AccessControlPolicyRevocation algo-rithmispresentedinAlgorithm4.Algorithm4acceptspolicyrevocationrequestfromtheadministratorandremovesthepolicyfromtheBC.Similarly,itgeneratesanerrorifthepolicyisnotavailableintheBC.Inlines3-5,ifthedelegateeisaninternalvehicle,andtheaccesscon-trolpolicyisnotavailableintheBC.Then,itgeneratesanerror.Inlines6-8,itrevokestheaccesscontrolpolicyfromtheBC.Similarly,inlines9-11,ifthedelegateeisanexternalvehicle,andtheaccesscontrolpolicyisnotavailableintheBC.Then,itreturnsanerror.Inlines12-14,Algorithm4revokestheaccesscontrolpolicyfromtheBC."
+18,0,1,0,0,3,16,KYDYGJ+CourierNewPS-ItalicMT,6.0,310.73,376.67,353.45,382.67,376.67,409.33,310.73,258.55,m n q
+18,0,0,0,1,1,8,TeX_CM_Maths_Symbols,9.0,250.19,394.69,275.81,403.87,394.69,388.13,250.19,336.19,2LVS
+18,0,0,0,1,1,8,ZKSIGQ+EuclidMathOne,9.0,300.81,405.87,334.88,414.87,405.87,377.13,300.81,277.12,ACPSIV
+18,0,0,0,0,4,8,MDDSLS+CourierNewPSMT,9.0,204.49,440.21,334.45,449.39,440.21,342.61,204.49,277.55,7: ACPSIV ACPSIV(cid:0) f
+18,0,0,0,1,1,8,TeX_CM_Maths_Symbols,9.0,280.57,462.21,316.7,471.39,462.21,320.61,280.57,295.3,2GVS)
+18,0,0,0,1,1,8,ZKSIGQ+EuclidMathOne,9.0,306.2,473.39,340.11,482.39,473.39,309.61,306.2,271.89,ACPSEV
+18,0,0,0,0,4,8,MDDSLS+CourierNewPSMT,9.0,204.49,507.73,339.56,516.91,507.73,275.09,204.49,272.44,13: ACPSEV ACPSEV(cid:0) f
+18,0,0,0,0,9,6,MinionPro-Regular,10.0,200.01,596.83,575.98,606.83,596.83,185.17,200.01,36.02,Supposevehicle A movesfromcountry tocountry .Avehicle A sendsa join request
+18,0,0,0,0,3,6,MinionPro-Regular,10.0,200.01,609.81,571.73,710.8,609.81,81.2,200.01,40.27,"tothenearbyRSUasshowninFig8.The join requestcontainsvehiclepseudonymID,plat-formhashvalue,nonce,andRCAsignature.Then,theRSUforwardsthevehiclepseudonymIDandRCAsignatureforvalidationtothesmartcontract.ThesmartcontractauthenticatesthevehiclepseudonymIDbysendingabroadcasttoalltheverifiernodesintheBCnetwork.Inresponse,theCAnodeofthevehicleshomecountrysendsthePoAI.Subsequently,thesmartcontractperformsacomparisonofthehashvaluesreceivedinPoAIandvehiclerequests.Ifbothhashvaluesareequal,thesmartcontractproceedstoretrieveaccesscontrolpoliciesfromBC.Then,itvalidatesthevehiclesrequestagainsttheaccesscontrolpolicies."
+18,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 18/28"
+19,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+19,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 19/28"
+20,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+20,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 20/28"
+21,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+21,0,0,0,0,3,6,MinionPro-Regular,10.0,200.01,373.28,575.88,474.28,373.28,317.72,200.01,36.12,"Anexternalvehiclesendsa T.join transactionforregis-trationwithRSUinanothercountry.TheBlockAutharchitectureallowstherequestingvehicletoaccesstheserviceafterPoAIandpolicyverification.Similarly,theadministratorusestheT.publishtransactiontocreateanewaccesscontrolpolicy.Similarly,theT.revoketransac-tionisusedtodeletetheaccesscontrolpolicy.Furthermore,theadministratorusestheT.registertransactiontoenrollvehicle,RSU,andacountryintheBCnetwork.Everysessioncontainsanumberofsecurityoperations,i.e.,encryption,decryption,ahash-ingfunction,signaturecreation,andsignatureconfirmation.Fig11showstheexecutiontime"
+21,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 21/28"
+22,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+22,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 22/28"
+23,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+23,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 23/28"
+24,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+24,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 24/28"
+25,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+25,0,0,0,0,4,40,MinionPro-Regular,3.4,139.48,84.41,386.5,88.19,84.41,703.81,139.48,225.5,ea a a aa
+25,0,0,0,0,4,45,MinionPro-Regular,2.9,139.48,87.16,408.49,90.6,87.16,701.4,139.48,203.51,s s s st
+25,0,0,0,0,4,51,MinionPro-Regular,2.2,173.95,87.83,386.5,91.4,87.83,700.6,173.95,225.5,i t t ttt
+25,0,0,0,0,3,39,MinionPro-Regular,3.5,321.97,90.6,386.5,94.1,90.6,697.9,321.97,225.5,a a aa
+25,0,0,0,1,4,17,MinionPro-Regular,5.9,139.48,94.1,386.5,100.01,94.1,691.99,139.48,225.5,D D D DD
+25,0,0,0,0,5,33,MinionPro-Regular,4.1,139.48,101.81,386.5,105.89,101.81,686.11,139.48,225.5,o o o o oo
+25,0,0,0,1,9,17,MinionPro-Regular,5.9,139.48,105.64,427.48,111.8,105.64,680.2,139.48,184.52,NA A U N A N N NNA H
+25,0,0,0,1,5,29,MinionPro-Regular,4.5,161.48,106.8,417.96,111.8,106.8,680.2,161.48,194.04,PP R P P PP
+25,0,0,0,0,6,32,MinionPro-Regular,4.2,139.48,149.46,386.5,153.71,149.46,638.29,139.48,225.5,hh h h h h hh
+25,0,0,0,0,4,20,MinionPro-Regular,5.5,173.95,151.87,398.97,157.37,151.87,634.63,173.95,213.03,w w w w
+25,0,0,0,0,6,37,MinionPro-Regular,3.7,139.48,153.71,386.5,157.45,153.71,634.55,139.48,225.5,gg g g g g gg
+25,0,0,0,0,3,51,MinionPro-Regular,2.2,321.97,157.45,386.5,159.61,157.45,632.39,321.97,225.5,i i ii
+25,0,0,0,1,6,14,MinionPro-Regular,6.2,139.48,159.61,386.5,165.77,159.61,626.23,139.48,225.5,HH H H H H HH
+25,0,0,0,1,4,31,MinionPro-Regular,4.3,173.95,161.45,398.97,165.77,161.45,626.23,173.95,213.03,L L L L
+25,0,0,0,0,6,45,MinionPro-Regular,2.9,139.48,193.37,386.5,196.28,193.37,595.72,139.48,225.5,s s s s s ss
+25,0,0,0,0,5,33,MinionPro-Regular,4.1,151.95,194.79,398.97,198.87,194.79,593.13,151.95,213.03,o o o o o
+25,0,0,0,0,6,40,MinionPro-Regular,3.4,139.48,196.28,386.5,199.7,196.28,592.3,139.48,225.5,e e e e e ee
+25,0,0,0,1,5,17,MinionPro-Regular,5.9,151.95,198.87,398.97,204.78,198.87,587.22,151.95,213.03,N N N N N
+25,0,0,0,1,6,24,MinionPro-Regular,5.1,139.48,199.7,386.5,204.78,199.7,587.22,139.48,225.5,Y Y Y Y Y YY
+25,0,0,0,0,7,45,MinionPro-Regular,2.9,139.48,222.96,386.5,225.88,222.96,566.12,139.48,225.5,ss s s s s s ss
+25,0,0,0,0,3,33,MinionPro-Regular,4.1,173.95,224.38,398.97,228.46,224.38,563.54,173.95,213.03,o o o
+25,0,0,0,0,7,40,MinionPro-Regular,3.4,139.48,225.88,386.5,229.29,225.88,562.71,139.48,225.5,ee e e e e e ee
+25,0,0,0,1,3,17,MinionPro-Regular,5.9,173.95,228.46,398.97,234.37,228.46,557.63,173.95,213.03,N N N
+25,1,0,0,1,1,15,MinionPro-Bold,6.1,50.98,229.25,68.45,235.33,229.25,556.67,50.98,543.55,DD
+25,0,0,0,1,7,24,MinionPro-Regular,5.1,139.48,229.29,386.5,234.37,229.29,557.63,139.48,225.5,YY Y Y Y Y Y YY
+25,0,0,0,0,4,33,MinionPro-Regular,4.1,246.46,246.9,361.49,253.27,246.9,538.73,246.46,250.51,o n n n
+25,0,0,0,0,4,30,MinionPro-Regular,4.4,236.99,252.79,361.49,257.35,252.79,534.65,236.99,250.51,nd o o o
+25,0,0,0,0,3,51,MinionPro-Regular,2.2,287.45,257.35,361.49,259.51,257.35,532.49,287.45,250.51,i i i
+25,0,0,0,0,3,49,MinionPro-Regular,2.4,287.45,259.51,361.49,261.92,259.51,530.08,287.45,250.51,t t t
+25,0,0,0,0,3,39,MinionPro-Regular,3.5,246.46,261.83,398.97,267.23,261.83,524.77,246.46,213.03,a a aeeae
+25,0,0,0,0,4,51,MinionPro-Regular,2.2,265.45,264.59,361.49,267.74,264.59,524.26,265.45,250.51,i t t t
+25,0,0,0,0,3,37,MinionPro-Regular,3.7,139.48,265.74,386.5,269.99,265.74,522.01,139.48,225.5,v d vv
+25,0,0,0,0,3,30,MinionPro-Regular,4.4,287.45,267.74,361.49,272.15,267.74,519.85,287.45,250.51,n n n
+25,0,0,0,0,4,40,MinionPro-Regular,3.4,139.48,272.15,386.5,275.84,272.15,516.16,139.48,225.5,e e e eee
+25,0,0,0,0,3,32,MinionPro-Regular,4.2,173.95,275.72,235.47,280.07,275.72,511.93,173.95,376.53,u u u
+25,0,0,0,1,1,36,MinionPro-Regular,3.8,365.97,275.84,386.5,279.67,275.84,512.33,365.97,225.5,SS
+25,0,0,0,0,3,39,MinionPro-Regular,3.5,139.48,279.97,408.49,284.89,279.97,507.11,139.48,203.51,a ee eerc
+25,0,0,0,0,3,40,MinionPro-Regular,3.4,173.95,282.15,361.49,286.39,282.15,505.61,173.95,250.51,e e err
+25,0,0,0,0,3,40,MinionPro-Regular,3.4,173.95,286.31,235.47,289.8,286.31,502.2,173.95,376.53,e e r
+25,0,0,0,0,3,32,MinionPro-Regular,4.2,287.45,287.56,361.49,291.72,287.56,500.28,287.45,250.51,p p p
+25,0,0,0,0,4,33,MinionPro-Regular,4.1,277.98,290.63,398.97,295.13,290.63,496.87,277.98,213.03,o o o nny
+25,0,0,0,0,3,13,MinionPro-Regular,6.6,287.45,291.72,361.49,298.3,291.72,493.7,287.45,250.51,m m m
+25,0,0,0,0,4,51,MinionPro-Regular,2.2,139.48,294.05,307.98,297.21,294.05,494.79,139.48,304.02,i t t tii
+25,0,0,0,1,3,17,MinionPro-Regular,5.9,246.46,295.13,351.97,301.04,295.13,490.96,246.46,260.03,NNVN N N
+25,0,0,0,1,4,27,MinionPro-Regular,4.7,151.95,296.38,307.98,301.04,296.38,490.96,151.95,304.02,B E E E
+25,0,0,0,0,4,36,MinionPro-Regular,3.8,139.48,296.79,408.49,301.04,296.79,490.96,139.48,203.51,S dS SS F
+25,0,0,0,1,3,47,MinionPro-Regular,2.7,287.45,298.3,361.49,301.04,298.3,490.96,287.45,250.51,I I I
+25,0,0,0,0,4,45,MinionPro-Regular,2.9,139.48,328.87,398.97,331.78,328.87,460.22,139.48,213.03,s s s s
+25,0,0,0,0,8,33,MinionPro-Regular,4.1,151.95,330.28,386.5,334.36,330.28,457.64,151.95,225.5,o o o o o o o o
+25,0,0,0,0,4,40,MinionPro-Regular,3.4,139.48,331.78,398.97,335.19,331.78,456.81,139.48,213.03,e e e e
+25,0,0,0,1,8,17,MinionPro-Regular,5.9,151.95,334.36,386.5,340.27,334.36,451.73,151.95,225.5,N N N N N N N N
+25,0,0,0,1,4,24,MinionPro-Regular,5.1,139.48,335.19,398.97,340.27,335.19,451.73,139.48,213.03,Y Y Y Y
+25,1,0,0,1,1,26,MinionPro-Bold,4.8,50.98,336.4,77.97,341.24,336.4,450.76,50.98,534.03,PPL
+25,0,0,0,0,4,45,MinionPro-Regular,2.9,139.48,373.26,398.97,376.17,373.26,415.83,139.48,213.03,s s s s
+25,0,0,0,0,8,33,MinionPro-Regular,4.1,151.95,374.67,386.5,378.75,374.67,413.25,151.95,225.5,o o o o o o o o
+25,0,0,0,0,4,40,MinionPro-Regular,3.4,139.48,376.17,398.97,379.58,376.17,412.42,139.48,213.03,e e e e
+25,0,0,0,1,8,17,MinionPro-Regular,5.9,151.95,378.75,386.5,384.66,378.75,407.34,151.95,225.5,N N N N N N N N
+25,0,0,0,1,4,24,MinionPro-Regular,5.1,139.48,379.58,398.97,384.66,379.58,407.34,139.48,213.03,Y Y Y Y
+25,0,0,0,0,9,33,MinionPro-Regular,4.1,139.48,422.52,386.5,426.6,422.52,365.4,139.48,225.5,oo o o o o o o o oo
+25,0,0,0,1,9,17,MinionPro-Regular,5.9,139.48,426.6,386.5,432.51,426.6,359.49,139.48,225.5,NN N N N N N N N NN
+25,0,0,0,0,9,45,MinionPro-Regular,2.9,151.95,483.86,398.97,486.77,483.86,305.23,151.95,213.03,s s s s s s s s s
+25,0,0,0,0,9,40,MinionPro-Regular,3.4,151.95,486.77,398.97,490.19,486.77,301.81,151.95,213.03,e e e e e e e e e
+25,0,0,0,1,2,17,MinionPro-Regular,5.9,139.48,489.36,386.5,495.27,489.36,296.73,139.48,225.5,N NN
+25,0,0,0,1,9,24,MinionPro-Regular,5.1,151.95,490.19,398.97,495.27,490.19,296.73,151.95,213.03,Y Y Y Y Y Y Y Y Y
+25,0,0,0,0,6,45,MinionPro-Regular,2.9,227.47,541.97,398.97,544.89,541.97,247.11,227.47,213.03,s s s s s s
+25,0,0,0,0,4,33,MinionPro-Regular,4.1,139.48,543.39,386.5,547.47,543.39,244.53,139.48,225.5,oo o o oo
+25,0,0,0,0,6,40,MinionPro-Regular,3.4,227.47,544.89,398.97,548.3,544.89,243.7,227.47,213.03,e e e e e e
+25,0,0,0,1,4,17,MinionPro-Regular,5.9,139.48,547.47,386.5,553.38,547.47,238.62,139.48,225.5,NN N N NN
+25,0,0,0,1,6,24,MinionPro-Regular,5.1,227.47,548.3,398.97,553.38,548.3,238.62,227.47,213.03,Y Y Y Y Y Y
+25,1,0,0,1,2,18,MinionPro-Bold,5.7,50.98,548.68,115.96,554.34,548.68,237.66,50.98,496.04,A T
+25,1,0,0,0,3,47,MinionPro-Bold,2.7,32.67,551.51,106.49,556.85,551.51,235.15,32.67,505.51,t f (i
+25,0,0,0,0,3,45,MinionPro-Regular,2.9,151.95,596.68,213.47,599.59,596.68,192.41,151.95,398.53,s s s
+25,0,0,0,0,7,33,MinionPro-Regular,4.1,139.48,598.1,398.97,602.18,598.1,189.82,139.48,213.03,o o o o o o ooo
+25,0,0,0,0,3,40,MinionPro-Regular,3.4,151.95,599.59,213.47,603.01,599.59,188.99,151.95,398.53,e e e
+25,0,0,0,1,7,17,MinionPro-Regular,5.9,139.48,602.18,398.97,608.09,602.18,183.91,139.48,213.03,N N N N N N NNN
+25,0,0,0,1,3,24,MinionPro-Regular,5.1,151.95,603.01,213.47,608.09,603.01,183.91,151.95,398.53,Y Y Y
+25,0,0,0,0,10,33,MinionPro-Regular,4.1,151.95,652.63,442.45,657.0,652.63,135.0,151.95,169.55,o o o o o o o o o 1
+25,0,0,0,1,9,17,MinionPro-Regular,5.9,151.95,657.0,398.97,662.91,657.0,129.09,151.95,213.03,N N N N N N N N N
+25,0,0,0,1,2,24,MinionPro-Regular,5.1,139.48,657.83,386.5,662.91,657.83,129.09,139.48,225.5,Y YY
+25,0,0,0,0,9,47,MinionPro-Regular,2.7,151.95,694.32,386.5,697.06,694.32,94.94,151.95,225.5,] ] ] ] ] ] ] ] ]]
+25,0,0,0,0,10,36,MinionPro-Regular,3.8,151.95,696.73,408.49,700.9,696.73,91.1,151.95,203.51,0 1 2 3 4 5 6 7 89 a
+25,0,0,0,0,9,36,MinionPro-Regular,3.8,139.48,700.9,386.5,704.73,700.9,87.27,139.48,225.5,94 4 4 4 4 4 4 4 44
+25,0,0,0,1,1,29,MinionPro-Regular,4.5,390.97,702.98,408.49,707.47,702.98,84.53,390.97,203.51,PF
+25,0,0,0,0,9,47,MinionPro-Regular,2.7,139.48,704.73,386.5,707.47,704.73,84.53,139.48,225.5,[[ [ [ [ [ [ [ [ [[
+25,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 25/28"
+26,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+26,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 26/28"
+27,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+27,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 27/28"
+28,0,0,0,1,1,5,ICMTCG+Gotham-Medium,11.0,34.98,37.39,91.82,48.39,37.39,743.61,34.98,520.18,PLOSONE
+28,0,0,0,0,3,9,Helvetica,8.0,36.0,749.66,576.07,757.66,749.66,34.34,36.0,35.93,"PLOSONE|https://doi.org/10.1371/journal.pone.0291596 September21,2023 28/28"
