@@ -3,7 +3,7 @@ venv/
 ENV/
 env/
 .venv/
-Heading_Extractor/upload_model/
+Heading_Extractor/upload_models/
 
 
 # Byte-compiled / cache files
