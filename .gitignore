@@ -5,6 +5,9 @@ env/
 .venv/
 Heading_Extractor/upload_models/
 
+#Ignore files created by joblib
+*.joblib
+
 
 # Byte-compiled / cache files
 __pycache__/
