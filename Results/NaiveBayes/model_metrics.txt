@@ -1,0 +1,24 @@
+Model Evaluation Metrics (Naive Bayes)
+--------------------------------------
+Accuracy: 0.5536
+F1 Score (weighted): 0.5467
+Precision (weighted): 0.5606
+Recall (weighted): 0.5536
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          h1       0.52      0.71      0.60       139
+          h2       0.61      0.53      0.57       210
+          h3       0.52      0.35      0.42        96
+       title       0.45      0.83      0.59        12
+
+    accuracy                           0.55       457
+   macro avg       0.53      0.61      0.54       457
+weighted avg       0.56      0.55      0.55       457
+
+Confusion Matrix:
+98 23 12 6
+76 111 19 4
+12 48 34 2
+2 0 0 10
