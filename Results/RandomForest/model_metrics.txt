@@ -1,0 +1,24 @@
+Model Evaluation Metrics (Random Forest)
+----------------------------------------
+Accuracy: 0.7877
+F1 Score (weighted): 0.7852
+Precision (weighted): 0.7930
+Recall (weighted): 0.7877
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          h1       0.74      0.88      0.81       139
+          h2       0.79      0.79      0.79       210
+          h3       0.85      0.62      0.72        96
+       title       0.92      1.00      0.96        12
+
+    accuracy                           0.79       457
+   macro avg       0.83      0.82      0.82       457
+weighted avg       0.79      0.79      0.79       457
+
+Confusion Matrix:
+122 16 1 0
+33 166 10 1
+9 27 60 0
+0 0 0 12
